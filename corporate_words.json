@@ -1,0 +1,1912 @@
+[
+  {
+    "id": 1,
+    "category": "Corporate Vocabulary",
+    "term": "Synergy",
+    "part_of_speech": "noun",
+    "meaning_en": "The combined effect produced when people or organizations work together, greater than the sum of individual efforts.",
+    "meaning_ta": "மக்கள் அல்லது நிறுவனங்கள் ஒன்றாக இணைந்து செயல்படும்போது ஏற்படும் கூட்டு விளைவு.",
+    "example_en": "The merger created synergy between the two companies' sales teams.",
+    "example_ta": "இணைவு இரு நிறுவனங்களின் விற்பனைக் குழுக்களுக்கு இடையே ஒத்துழைப்பை உருவாக்கியது."
+  },
+  {
+    "id": 2,
+    "category": "Corporate Vocabulary",
+    "term": "Stakeholder",
+    "part_of_speech": "noun",
+    "meaning_en": "A person with an interest or concern in a business, such as an employee, investor, or customer.",
+    "meaning_ta": "ஒரு தொழிலில் ஆர்வம் அல்லது தொடர்பு உள்ள ஒருவர், எடுத்துக்காட்டாக ஊழியர், முதலீட்டாளர் அல்லது வாடிக்கையாளர்.",
+    "example_en": "We need buy-in from all key stakeholders before launching.",
+    "example_ta": "தொடங்குவதற்கு முன் எல்லா முக்கிய பங்குதாரர்களின் ஒப்புதலும் நமக்குத் தேவை."
+  },
+  {
+    "id": 3,
+    "category": "Corporate Vocabulary",
+    "term": "Deliverable",
+    "part_of_speech": "noun",
+    "meaning_en": "A tangible or intangible product or result produced as part of a project.",
+    "meaning_ta": "ஒரு திட்டத்தின் ஒரு பகுதியாக உருவாக்கப்படும் உறுதியான அல்லது கருத்துருவான ஒரு விளைவு.",
+    "example_en": "The final deliverable is due by end of the quarter.",
+    "example_ta": "இறுதி பணிப்பொருள் காலாண்டு முடிவில் வழங்கப்பட வேண்டும்."
+  },
+  {
+    "id": 4,
+    "category": "Corporate Vocabulary",
+    "term": "Benchmark",
+    "part_of_speech": "noun",
+    "meaning_en": "A standard or point of reference against which things are compared or assessed.",
+    "meaning_ta": "ஒப்பிடுவதற்கான அல்லது மதிப்பிடுவதற்கான ஒரு தரநிலை அல்லது குறிப்புப் புள்ளி.",
+    "example_en": "Our sales team uses last year's figures as a benchmark.",
+    "example_ta": "எங்கள் விற்பனைக் குழு கடந்த ஆண்டு புள்ளிவிவரங்களை ஒரு தரமாகப் பயன்படுத்துகிறது."
+  },
+  {
+    "id": 5,
+    "category": "Corporate Vocabulary",
+    "term": "Leverage",
+    "part_of_speech": "verb",
+    "meaning_en": "To use something to maximum advantage.",
+    "meaning_ta": "ஒன்றை அதிகபட்ச நன்மைக்காகப் பயன்படுத்துவது.",
+    "example_en": "We plan to leverage our existing customer base to launch the new product.",
+    "example_ta": "புதிய தயாரிப்பை அறிமுகப்படுத்த எங்கள் தற்போதைய வாடிக்கையாளர் தளத்தைப் பயன்படுத்த திட்டமிட்டுள்ளோம்."
+  },
+  {
+    "id": 6,
+    "category": "Corporate Vocabulary",
+    "term": "Onboarding",
+    "part_of_speech": "noun",
+    "meaning_en": "The process of integrating a new employee into an organization.",
+    "meaning_ta": "ஒரு புதிய ஊழியரை ஒரு நிறுவனத்தில் இணைக்கும் செயல்முறை.",
+    "example_en": "HR has redesigned the onboarding process for new hires.",
+    "example_ta": "புதிய ஊழியர்களுக்கான இணைவு செயல்முறையை மனித வள துறை மறுவடிவமைத்துள்ளது."
+  },
+  {
+    "id": 7,
+    "category": "Corporate Vocabulary",
+    "term": "Offboarding",
+    "part_of_speech": "noun",
+    "meaning_en": "The process of formally ending an employee's employment.",
+    "meaning_ta": "ஒரு ஊழியரின் பணியை முறையாக முடிவுக்குக் கொண்டு வரும் செயல்முறை.",
+    "example_en": "The offboarding checklist includes returning company equipment.",
+    "example_ta": "பணி நிறைவு பட்டியலில் நிறுவன உபகரணங்களைத் திருப்பி அளிப்பதும் அடங்கும்."
+  },
+  {
+    "id": 8,
+    "category": "Corporate Vocabulary",
+    "term": "Upskill",
+    "part_of_speech": "verb",
+    "meaning_en": "To teach an employee additional skills.",
+    "meaning_ta": "ஒரு ஊழியருக்கு கூடுதல் திறன்களைக் கற்பிப்பது.",
+    "example_en": "The company is investing in programs to upskill its workforce.",
+    "example_ta": "தன் பணியாளர்களின் திறன்களை மேம்படுத்த நிறுவனம் திட்டங்களில் முதலீடு செய்கிறது."
+  },
+  {
+    "id": 9,
+    "category": "Corporate Vocabulary",
+    "term": "Reskill",
+    "part_of_speech": "verb",
+    "meaning_en": "To train someone in new skills, often for a different role.",
+    "meaning_ta": "ஒருவருக்கு புதிய திறன்களில் பயிற்சி அளிப்பது, பெரும்பாலும் வேறு பணிக்காக.",
+    "example_en": "Many employees were reskilled for roles in data analytics.",
+    "example_ta": "பல ஊழியர்கள் தரவு பகுப்பாய்வு பணிகளுக்காக மறுபயிற்சி பெற்றனர்."
+  },
+  {
+    "id": 10,
+    "category": "Corporate Vocabulary",
+    "term": "KPI",
+    "part_of_speech": "noun",
+    "meaning_en": "Key Performance Indicator; a measurable value showing how effectively goals are being achieved.",
+    "meaning_ta": "முக்கிய செயல்திறன் குறியீடு; இலக்குகள் எவ்வளவு திறம்பட அடையப்படுகின்றன என்பதைக் காட்டும் அளவிடத்தக்க மதிப்பு.",
+    "example_en": "Revenue growth is one of our core KPIs this year.",
+    "example_ta": "இந்த ஆண்டு எங்கள் முக்கிய செயல்திறன் குறியீடுகளில் ஒன்று வருவாய் வளர்ச்சி."
+  },
+  {
+    "id": 11,
+    "category": "Corporate Vocabulary",
+    "term": "ROI",
+    "part_of_speech": "noun",
+    "meaning_en": "Return on Investment; a measure of the profitability of an investment.",
+    "meaning_ta": "முதலீட்டு வருவாய்; ஒரு முதலீட்டின் லாபத்தை அளவிடும் ஒரு நடவடிக்கை.",
+    "example_en": "The marketing campaign delivered a strong ROI.",
+    "example_ta": "சந்தைப்படுத்தல் பிரச்சாரம் சிறந்த முதலீட்டு வருவாயை வழங்கியது."
+  },
+  {
+    "id": 12,
+    "category": "Corporate Vocabulary",
+    "term": "Onboard",
+    "part_of_speech": "verb",
+    "meaning_en": "To bring a new employee or partner into an organization or project.",
+    "meaning_ta": "ஒரு புதிய ஊழியரை அல்லது கூட்டாளியை ஒரு நிறுவனத்தில் அல்லது திட்டத்தில் இணைப்பது.",
+    "example_en": "We're onboarding three new engineers this month.",
+    "example_ta": "இந்த மாதம் மூன்று புதிய பொறியாளர்களை நாங்கள் இணைக்கிறோம்."
+  },
+  {
+    "id": 13,
+    "category": "Corporate Vocabulary",
+    "term": "Bandwidth",
+    "part_of_speech": "noun",
+    "meaning_en": "The capacity or time available for a person to take on work.",
+    "meaning_ta": "ஒரு நபருக்கு வேலையை ஏற்றுக்கொள்ள கிடைக்கும் திறன் அல்லது நேரம்.",
+    "example_en": "I don't have the bandwidth to take on another project right now.",
+    "example_ta": "இப்போது இன்னொரு திட்டத்தை ஏற்க எனக்கு நேரமில்லை."
+  },
+  {
+    "id": 14,
+    "category": "Corporate Vocabulary",
+    "term": "Touch base",
+    "part_of_speech": "verb",
+    "meaning_en": "To make brief contact or communication with someone.",
+    "meaning_ta": "ஒருவருடன் சுருக்கமாக தொடர்பு கொள்வது.",
+    "example_en": "Let's touch base next week about the proposal.",
+    "example_ta": "அடுத்த வாரம் திட்டமுன்மொழிவைப் பற்றி தொடர்பு கொள்வோம்."
+  },
+  {
+    "id": 15,
+    "category": "Corporate Vocabulary",
+    "term": "Circle back",
+    "part_of_speech": "verb",
+    "meaning_en": "To return to a topic or issue later.",
+    "meaning_ta": "பிற்பாடு ஒரு விஷயத்திற்குத் திரும்புவது.",
+    "example_en": "Let's circle back to this point after lunch.",
+    "example_ta": "மதிய உணவுக்குப் பிறகு இந்த விஷயத்திற்குத் திரும்புவோம்."
+  },
+  {
+    "id": 16,
+    "category": "Corporate Vocabulary",
+    "term": "Streamline",
+    "part_of_speech": "verb",
+    "meaning_en": "To make a process more efficient by simplifying it.",
+    "meaning_ta": "ஒரு செயல்முறையை எளிமையாக்கி மிகவும் திறம்படச் செய்வது.",
+    "example_en": "The new software helps streamline our invoicing process.",
+    "example_ta": "புதிய மென்பொருள் எங்கள் விலைப்பட்டியல் செயல்முறையை எளிமைப்படுத்த உதவுகிறது."
+  },
+  {
+    "id": 17,
+    "category": "Corporate Vocabulary",
+    "term": "Scalable",
+    "part_of_speech": "adjective",
+    "meaning_en": "Able to be expanded or grown to meet increased demand.",
+    "meaning_ta": "அதிகரிக்கும் தேவையை பூர்த்தி செய்ய விரிவாக்கக்கூடிய.",
+    "example_en": "We need a scalable solution that can handle future growth.",
+    "example_ta": "எதிர்கால வளர்ச்சியை சமாளிக்கக்கூடிய ஒரு விரிவாக்கக்கூடிய தீர்வு நமக்குத் தேவை."
+  },
+  {
+    "id": 18,
+    "category": "Corporate Vocabulary",
+    "term": "Agile",
+    "part_of_speech": "adjective",
+    "meaning_en": "A flexible, iterative approach to project management, often used in software development.",
+    "meaning_ta": "திட்ட மேலாண்மையில் நெகிழ்வான, மீண்டும் மீண்டும் மேம்படுத்தும் அணுகுமுறை.",
+    "example_en": "Our team follows an agile methodology for product development.",
+    "example_ta": "தயாரிப்பு உருவாக்கத்திற்கு எங்கள் குழு நெகிழ்வு முறையைப் பின்பற்றுகிறது."
+  },
+  {
+    "id": 19,
+    "category": "Corporate Vocabulary",
+    "term": "Pivot",
+    "part_of_speech": "verb",
+    "meaning_en": "To change strategy or direction significantly.",
+    "meaning_ta": "மூலோபாயத்தை அல்லது திசையை குறிப்பிடத்தக்க அளவில் மாற்றுவது.",
+    "example_en": "The startup had to pivot its business model after the market shifted.",
+    "example_ta": "சந்தை மாற்றத்திற்குப் பிறகு அந்த ஸ்டார்ட்அப் தன் வணிக மாதிரியை மாற்ற வேண்டியிருந்தது."
+  },
+  {
+    "id": 20,
+    "category": "Corporate Vocabulary",
+    "term": "Disrupt",
+    "part_of_speech": "verb",
+    "meaning_en": "To radically change an industry or market, often through innovation.",
+    "meaning_ta": "பெரும்பாலும் புதுமையின் மூலம் ஒரு தொழில் அல்லது சந்தையை தீவிரமாக மாற்றுவது.",
+    "example_en": "The company aims to disrupt the traditional taxi industry.",
+    "example_ta": "பாரம்பரிய டாக்ஸி துறையை மாற்றியமைப்பதே அந்த நிறுவனத்தின் நோக்கம்."
+  },
+  {
+    "id": 21,
+    "category": "Corporate Vocabulary",
+    "term": "Bottleneck",
+    "part_of_speech": "noun",
+    "meaning_en": "A point of congestion that slows down a process.",
+    "meaning_ta": "ஒரு செயல்முறையை மெதுவாக்கும் ஒரு நெரிசல் புள்ளி.",
+    "example_en": "The approval process is a major bottleneck in our workflow.",
+    "example_ta": "ஒப்புதல் செயல்முறை எங்கள் பணிப்பாய்வில் ஒரு பெரிய தடையாக உள்ளது."
+  },
+  {
+    "id": 22,
+    "category": "Corporate Vocabulary",
+    "term": "Low-hanging fruit",
+    "part_of_speech": "noun",
+    "meaning_en": "Tasks or goals that are easy to achieve with little effort.",
+    "meaning_ta": "சிறிது முயற்சியில் எளிதாக அடையக்கூடிய பணிகள் அல்லது இலக்குகள்.",
+    "example_en": "Let's tackle the low-hanging fruit first before the bigger tasks.",
+    "example_ta": "பெரிய பணிகளுக்கு முன் எளிதான வேலைகளை முதலில் செய்வோம்."
+  },
+  {
+    "id": 23,
+    "category": "Corporate Vocabulary",
+    "term": "Deep dive",
+    "part_of_speech": "noun",
+    "meaning_en": "A thorough and detailed examination of a topic.",
+    "meaning_ta": "ஒரு விஷயத்தின் முழுமையான மற்றும் விரிவான ஆய்வு.",
+    "example_en": "We'll do a deep dive into the quarterly numbers tomorrow.",
+    "example_ta": "நாளை காலாண்டு புள்ளிவிவரங்களை விரிவாக ஆராய்வோம்."
+  },
+  {
+    "id": 24,
+    "category": "Corporate Vocabulary",
+    "term": "Actionable",
+    "part_of_speech": "adjective",
+    "meaning_en": "Able to be acted upon; practical enough to implement.",
+    "meaning_ta": "செயல்படுத்தக்கூடிய; நடைமுறைப்படுத்த போதுமான அளவு நடைமுறையான.",
+    "example_en": "The report gave us actionable insights for the next campaign.",
+    "example_ta": "அறிக்கை அடுத்த பிரச்சாரத்திற்கான செயல்படுத்தக்கூடிய நுண்ணறிவுகளை அளித்தது."
+  },
+  {
+    "id": 25,
+    "category": "Corporate Vocabulary",
+    "term": "Alignment",
+    "part_of_speech": "noun",
+    "meaning_en": "Agreement or coordination between people, plans, or goals.",
+    "meaning_ta": "நபர்கள், திட்டங்கள் அல்லது இலக்குகளுக்கு இடையேயான ஒத்திசைவு.",
+    "example_en": "We need alignment across departments before moving forward.",
+    "example_ta": "முன்னேறுவதற்கு முன் துறைகளுக்கு இடையே ஒற்றுமை நமக்குத் தேவை."
+  },
+  {
+    "id": 26,
+    "category": "Corporate Vocabulary",
+    "term": "Buy-in",
+    "part_of_speech": "noun",
+    "meaning_en": "Agreement and support from stakeholders for a decision or plan.",
+    "meaning_ta": "ஒரு முடிவு அல்லது திட்டத்திற்கான பங்குதாரர்களின் ஒப்புதலும் ஆதரவும்.",
+    "example_en": "We got buy-in from senior management for the new strategy.",
+    "example_ta": "புதிய மூலோபாயத்திற்கு மூத்த நிர்வாகத்திடமிருந்து ஒப்புதலைப் பெற்றோம்."
+  },
+  {
+    "id": 27,
+    "category": "Corporate Vocabulary",
+    "term": "Cross-functional",
+    "part_of_speech": "adjective",
+    "meaning_en": "Involving several different departments or areas of expertise.",
+    "meaning_ta": "பல்வேறு துறைகள் அல்லது நிபுணத்துவப் பகுதிகளை உள்ளடக்கிய.",
+    "example_en": "This is a cross-functional team with members from marketing, sales, and IT.",
+    "example_ta": "இது சந்தைப்படுத்தல், விற்பனை, தகவல் தொழில்நுட்பம் ஆகியவற்றிலிருந்து உறுப்பினர்களைக் கொண்ட ஒரு துறைகடந்த குழு."
+  },
+  {
+    "id": 28,
+    "category": "Corporate Vocabulary",
+    "term": "Due diligence",
+    "part_of_speech": "noun",
+    "meaning_en": "A thorough investigation or audit before entering into a business agreement.",
+    "meaning_ta": "ஒரு வணிக ஒப்பந்தத்தில் நுழைவதற்கு முன் ஒரு முழுமையான விசாரணை அல்லது தணிக்கை.",
+    "example_en": "The investors conducted due diligence before finalizing the deal.",
+    "example_ta": "ஒப்பந்தத்தை இறுதி செய்வதற்கு முன் முதலீட்டாளர்கள் விரிவான ஆய்வு நடத்தினர்."
+  },
+  {
+    "id": 29,
+    "category": "Corporate Vocabulary",
+    "term": "Escalate",
+    "part_of_speech": "verb",
+    "meaning_en": "To refer a problem to a higher authority for resolution.",
+    "meaning_ta": "ஒரு பிரச்சனையை தீர்க்க உயர் அதிகாரத்திடம் ஒப்படைப்பது.",
+    "example_en": "If the issue isn't resolved, please escalate it to the manager.",
+    "example_ta": "பிரச்சனை தீர்க்கப்படாவிட்டால், அதை மேலாளரிடம் தெரிவிக்கவும்."
+  },
+  {
+    "id": 30,
+    "category": "Corporate Vocabulary",
+    "term": "Facilitate",
+    "part_of_speech": "verb",
+    "meaning_en": "To make a process or action easier.",
+    "meaning_ta": "ஒரு செயல்முறை அல்லது செயலை எளிதாக்குவது.",
+    "example_en": "The consultant will facilitate the workshop.",
+    "example_ta": "ஆலோசகர் பட்டறையை நடத்துவார்."
+  },
+  {
+    "id": 31,
+    "category": "Corporate Vocabulary",
+    "term": "Framework",
+    "part_of_speech": "noun",
+    "meaning_en": "A basic structure or set of guidelines underlying a system or concept.",
+    "meaning_ta": "ஒரு அமைப்பு அல்லது கருத்தின் அடிப்படை கட்டமைப்பு அல்லது வழிகாட்டுதல்கள்.",
+    "example_en": "We built a framework for evaluating vendor proposals.",
+    "example_ta": "விற்பனையாளர் திட்டமுன்மொழிவுகளை மதிப்பிடுவதற்கான ஒரு கட்டமைப்பை உருவாக்கினோம்."
+  },
+  {
+    "id": 32,
+    "category": "Corporate Vocabulary",
+    "term": "Headcount",
+    "part_of_speech": "noun",
+    "meaning_en": "The total number of employees in a company or department.",
+    "meaning_ta": "ஒரு நிறுவனம் அல்லது துறையில் உள்ள மொத்த ஊழியர்களின் எண்ணிக்கை.",
+    "example_en": "We're increasing headcount in the engineering team next quarter.",
+    "example_ta": "அடுத்த காலாண்டில் பொறியியல் குழுவின் ஊழியர் எண்ணிக்கையை அதிகரிக்கிறோம்."
+  },
+  {
+    "id": 33,
+    "category": "Corporate Vocabulary",
+    "term": "Incentivize",
+    "part_of_speech": "verb",
+    "meaning_en": "To motivate someone with a reward or benefit.",
+    "meaning_ta": "ஒருவரை ஒரு வெகுமதி அல்லது நன்மையால் ஊக்குவிப்பது.",
+    "example_en": "The company incentivizes early project completion with bonuses.",
+    "example_ta": "முன்கூட்டியே திட்டத்தை முடிப்பதற்கு நிறுவனம் போனஸ் மூலம் ஊக்குவிக்கிறது."
+  },
+  {
+    "id": 34,
+    "category": "Corporate Vocabulary",
+    "term": "Iteration",
+    "part_of_speech": "noun",
+    "meaning_en": "A repeated version of a product or process, refined each time.",
+    "meaning_ta": "ஒவ்வொரு முறையும் மேம்படுத்தப்படும் ஒரு தயாரிப்பு அல்லது செயல்முறையின் மீண்டும் மீண்டும் வரும் பதிப்பு.",
+    "example_en": "The second iteration of the app fixed most of the bugs.",
+    "example_ta": "செயலியின் இரண்டாம் பதிப்பு பெரும்பாலான பிழைகளை சரிசெய்தது."
+  },
+  {
+    "id": 35,
+    "category": "Corporate Vocabulary",
+    "term": "Milestone",
+    "part_of_speech": "noun",
+    "meaning_en": "A significant point or stage in the progress of a project.",
+    "meaning_ta": "ஒரு திட்டத்தின் முன்னேற்றத்தில் ஒரு குறிப்பிடத்தக்க புள்ளி அல்லது கட்டம்.",
+    "example_en": "Reaching one million users was a major milestone for the company.",
+    "example_ta": "ஒரு மில்லியன் பயனர்களை எட்டியது நிறுவனத்திற்கு ஒரு முக்கிய மைல்கல்லாக இருந்தது."
+  },
+  {
+    "id": 36,
+    "category": "Corporate Vocabulary",
+    "term": "Onboarding kit",
+    "part_of_speech": "noun",
+    "meaning_en": "A collection of resources given to new employees to help them settle in.",
+    "meaning_ta": "புதிய ஊழியர்கள் குடியேற உதவும் வளங்களின் தொகுப்பு.",
+    "example_en": "The onboarding kit includes a laptop, ID card, and welcome guide.",
+    "example_ta": "இணைவு தொகுப்பில் ஒரு லேப்டாப், அடையாள அட்டை, வரவேற்பு வழிகாட்டி ஆகியவை அடங்கும்."
+  },
+  {
+    "id": 37,
+    "category": "Corporate Vocabulary",
+    "term": "Optics",
+    "part_of_speech": "noun",
+    "meaning_en": "How a decision or situation will be perceived by others.",
+    "meaning_ta": "ஒரு முடிவு அல்லது சூழ்நிலை மற்றவர்களால் எவ்வாறு உணரப்படும் என்பது.",
+    "example_en": "Cutting the training budget looks bad optics-wise.",
+    "example_ta": "பயிற்சி பட்ஜெட்டைக் குறைப்பது வெளியில் நல்லதாகத் தெரியாது."
+  },
+  {
+    "id": 38,
+    "category": "Corporate Vocabulary",
+    "term": "Onshore",
+    "part_of_speech": "adjective",
+    "meaning_en": "Relating to operations conducted within one's own country.",
+    "meaning_ta": "ஒருவரின் சொந்த நாட்டிற்குள் நடத்தப்படும் செயல்பாடுகள் தொடர்பான.",
+    "example_en": "We decided to keep our support team onshore.",
+    "example_ta": "எங்கள் ஆதரவு குழுவை நாட்டிற்குள் வைத்திருக்க முடிவு செய்தோம்."
+  },
+  {
+    "id": 39,
+    "category": "Corporate Vocabulary",
+    "term": "Outsource",
+    "part_of_speech": "verb",
+    "meaning_en": "To contract work to an external party rather than doing it in-house.",
+    "meaning_ta": "வேலையை உள்நாட்டில் செய்வதற்குப் பதிலாக வெளிக்கட்சிக்கு ஒப்படைப்பது.",
+    "example_en": "The company decided to outsource its customer service.",
+    "example_ta": "நிறுவனம் தன் வாடிக்கையாளர் சேவையை வெளியிடமாக்க முடிவு செய்தது."
+  },
+  {
+    "id": 40,
+    "category": "Corporate Vocabulary",
+    "term": "Prioritize",
+    "part_of_speech": "verb",
+    "meaning_en": "To arrange tasks in order of importance.",
+    "meaning_ta": "பணிகளை முக்கியத்துவத்தின் அடிப்படையில் வரிசைப்படுத்துவது.",
+    "example_en": "We need to prioritize the tasks with the closest deadlines.",
+    "example_ta": "மிக அருகில் உள்ள காலக்கெடுவைக் கொண்ட பணிகளுக்கு முன்னுரிமை அளிக்க வேண்டும்."
+  },
+  {
+    "id": 41,
+    "category": "Corporate Vocabulary",
+    "term": "Proactive",
+    "part_of_speech": "adjective",
+    "meaning_en": "Taking action in advance to deal with an expected situation.",
+    "meaning_ta": "எதிர்பார்க்கப்படும் ஒரு சூழ்நிலையைச் சமாளிக்க முன்கூட்டியே செயல்படுவது.",
+    "example_en": "Being proactive about risks saved us from a major issue.",
+    "example_ta": "ஆபத்துகள் குறித்து முன்கூட்டியே செயல்பட்டதால் ஒரு பெரிய பிரச்சனையிலிருந்து தப்பினோம்."
+  },
+  {
+    "id": 42,
+    "category": "Corporate Vocabulary",
+    "term": "Reactive",
+    "part_of_speech": "adjective",
+    "meaning_en": "Responding to a situation after it has occurred, rather than preventing it.",
+    "meaning_ta": "ஒரு சூழ்நிலையை தடுப்பதற்குப் பதிலாக அது நடந்த பிறகு எதிர்வினையாற்றுவது.",
+    "example_en": "Our support team has been too reactive instead of proactive.",
+    "example_ta": "எங்கள் ஆதரவுக் குழு முன்கூட்டியே செயல்படுவதற்குப் பதிலாக எதிர்வினையாகவே இருந்துள்ளது."
+  },
+  {
+    "id": 43,
+    "category": "Corporate Vocabulary",
+    "term": "Quantify",
+    "part_of_speech": "verb",
+    "meaning_en": "To express or measure something as a number.",
+    "meaning_ta": "ஒன்றை ஒரு எண்ணாக வெளிப்படுத்துவது அல்லது அளவிடுவது.",
+    "example_en": "We need to quantify the impact of the marketing campaign.",
+    "example_ta": "சந்தைப்படுத்தல் பிரச்சாரத்தின் தாக்கத்தை அளவிட வேண்டும்."
+  },
+  {
+    "id": 44,
+    "category": "Corporate Vocabulary",
+    "term": "Redundancy",
+    "part_of_speech": "noun",
+    "meaning_en": "The state of being unnecessary or duplicate, or job loss due to reduced need for staff.",
+    "meaning_ta": "தேவையற்ற அல்லது நகல் நிலை, அல்லது பணியாளர் தேவை குறைவதால் வேலை இழப்பு.",
+    "example_en": "The company announced redundancies in the sales department.",
+    "example_ta": "விற்பனைத் துறையில் பணிநீக்கங்களை நிறுவனம் அறிவித்தது."
+  },
+  {
+    "id": 45,
+    "category": "Corporate Vocabulary",
+    "term": "Restructure",
+    "part_of_speech": "verb",
+    "meaning_en": "To reorganize the structure of a company or system.",
+    "meaning_ta": "ஒரு நிறுவனம் அல்லது அமைப்பின் கட்டமைப்பை மறுசீரமைப்பது.",
+    "example_en": "The firm plans to restructure its management team next year.",
+    "example_ta": "அடுத்த ஆண்டு தன் நிர்வாகக் குழுவை மறுசீரமைக்க நிறுவனம் திட்டமிட்டுள்ளது."
+  },
+  {
+    "id": 46,
+    "category": "Corporate Vocabulary",
+    "term": "Roadmap",
+    "part_of_speech": "noun",
+    "meaning_en": "A plan that outlines goals and the steps needed to achieve them over time.",
+    "meaning_ta": "காலப்போக்கில் இலக்குகளையும் அவற்றை அடைவதற்கான படிகளையும் விவரிக்கும் ஒரு திட்டம்.",
+    "example_en": "The product roadmap shows our plans for the next 12 months.",
+    "example_ta": "அடுத்த 12 மாதங்களுக்கான எங்கள் திட்டங்களை தயாரிப்பு வழிகாட்டி காட்டுகிறது."
+  },
+  {
+    "id": 47,
+    "category": "Corporate Vocabulary",
+    "term": "Runway",
+    "part_of_speech": "noun",
+    "meaning_en": "The amount of time a company can operate before it runs out of money.",
+    "meaning_ta": "ஒரு நிறுவனம் பணம் தீரும் முன் இயங்கக்கூடிய நேரத்தின் அளவு.",
+    "example_en": "The startup has about eight months of runway left.",
+    "example_ta": "அந்த ஸ்டார்ட்அப்பிற்கு சுமார் எட்டு மாதங்கள் நிதி இருப்பு உள்ளது."
+  },
+  {
+    "id": 48,
+    "category": "Corporate Vocabulary",
+    "term": "Silo",
+    "part_of_speech": "noun",
+    "meaning_en": "A department or group that operates in isolation from others in the organization.",
+    "meaning_ta": "ஒரு நிறுவனத்தில் மற்றவர்களிடமிருந்து தனிமையாக செயல்படும் ஒரு துறை அல்லது குழு.",
+    "example_en": "We're trying to break down silos between departments.",
+    "example_ta": "துறைகளுக்கு இடையேயான தனிமைப்படுத்தலை உடைக்க முயற்சிக்கிறோம்."
+  },
+  {
+    "id": 49,
+    "category": "Corporate Vocabulary",
+    "term": "Solutioning",
+    "part_of_speech": "noun",
+    "meaning_en": "The process of developing solutions to a problem.",
+    "meaning_ta": "ஒரு பிரச்சனைக்கு தீர்வுகளை உருவாக்கும் செயல்முறை.",
+    "example_en": "The team spent the afternoon solutioning for the client's issue.",
+    "example_ta": "வாடிக்கையாளரின் பிரச்சனைக்கு தீர்வு காண குழு பிற்பகல் முழுவதும் செலவிட்டது."
+  },
+  {
+    "id": 50,
+    "category": "Corporate Vocabulary",
+    "term": "Takeaway",
+    "part_of_speech": "noun",
+    "meaning_en": "The key point or lesson learned from a discussion or event.",
+    "meaning_ta": "ஒரு விவாதம் அல்லது நிகழ்விலிருந்து கற்றுக்கொண்ட முக்கிய கருத்து அல்லது பாடம்.",
+    "example_en": "The main takeaway from the meeting was to improve response times.",
+    "example_ta": "கூட்டத்தின் முக்கிய கருத்து பதிலளிக்கும் நேரத்தை மேம்படுத்துவதே."
+  },
+  {
+    "id": 51,
+    "category": "Corporate Vocabulary",
+    "term": "Touchpoint",
+    "part_of_speech": "noun",
+    "meaning_en": "A point of interaction between a company and a customer.",
+    "meaning_ta": "ஒரு நிறுவனத்திற்கும் வாடிக்கையாளருக்கும் இடையேயான தொடர்பு புள்ளி.",
+    "example_en": "Every customer touchpoint should reflect our brand values.",
+    "example_ta": "ஒவ்வொரு வாடிக்கையாளர் தொடர்பு புள்ளியும் எங்கள் பிராண்ட் மதிப்புகளைப் பிரதிபலிக்க வேண்டும்."
+  },
+  {
+    "id": 52,
+    "category": "Corporate Vocabulary",
+    "term": "Turnaround time",
+    "part_of_speech": "noun",
+    "meaning_en": "The time taken to complete a process or respond to a request.",
+    "meaning_ta": "ஒரு செயல்முறையை முடிக்க அல்லது ஒரு கோரிக்கைக்கு பதிலளிக்க எடுக்கும் நேரம்.",
+    "example_en": "Our turnaround time for support tickets is 24 hours.",
+    "example_ta": "ஆதரவு கோரிக்கைகளுக்கு எங்கள் பதிலளிப்பு நேரம் 24 மணி நேரம்."
+  },
+  {
+    "id": 53,
+    "category": "Corporate Vocabulary",
+    "term": "Value proposition",
+    "part_of_speech": "noun",
+    "meaning_en": "The unique benefit a product or service offers to customers.",
+    "meaning_ta": "ஒரு தயாரிப்பு அல்லது சேவை வாடிக்கையாளர்களுக்கு வழங்கும் தனித்துவமான நன்மை.",
+    "example_en": "Our value proposition is affordability without sacrificing quality.",
+    "example_ta": "தரத்தில் சமரசம் இல்லாமல் மலிவு விலையே எங்கள் தனித்துவமான நன்மை."
+  },
+  {
+    "id": 54,
+    "category": "Corporate Vocabulary",
+    "term": "Win-win",
+    "part_of_speech": "noun",
+    "meaning_en": "A situation that benefits all parties involved.",
+    "meaning_ta": "சம்பந்தப்பட்ட அனைவருக்கும் நன்மை பயக்கும் ஒரு சூழ்நிலை.",
+    "example_en": "The new contract terms were a win-win for both companies.",
+    "example_ta": "புதிய ஒப்பந்த விதிமுறைகள் இரு நிறுவனங்களுக்கும் நன்மை பயந்தன."
+  },
+  {
+    "id": 55,
+    "category": "Corporate Vocabulary",
+    "term": "Agenda",
+    "part_of_speech": "noun",
+    "meaning_en": "A list of items to be discussed at a meeting.",
+    "meaning_ta": "ஒரு கூட்டத்தில் விவாதிக்க வேண்டிய பொருட்களின் பட்டியல்.",
+    "example_en": "Please review the agenda before the call.",
+    "example_ta": "அழைப்புக்கு முன் நிகழ்ச்சி நிரலை மதிப்பாய்வு செய்யவும்."
+  },
+  {
+    "id": 56,
+    "category": "Corporate Vocabulary",
+    "term": "Minutes",
+    "part_of_speech": "noun",
+    "meaning_en": "The written record of what was discussed and decided in a meeting.",
+    "meaning_ta": "ஒரு கூட்டத்தில் விவாதிக்கப்பட்டு முடிவு செய்யப்பட்டவற்றின் எழுத்துப்பூர்வ பதிவு.",
+    "example_en": "I'll send out the meeting minutes by end of day.",
+    "example_ta": "இன்று மாலைக்குள் கூட்ட குறிப்புகளை அனுப்புகிறேன்."
+  },
+  {
+    "id": 57,
+    "category": "Corporate Vocabulary",
+    "term": "Consensus",
+    "part_of_speech": "noun",
+    "meaning_en": "General agreement among a group of people.",
+    "meaning_ta": "ஒரு குழு நபர்களிடையே பொது ஒப்பந்தம்.",
+    "example_en": "The team reached a consensus on the new office layout.",
+    "example_ta": "புதிய அலுவலக அமைப்பு குறித்து குழு ஒருமித்த முடிவுக்கு வந்தது."
+  },
+  {
+    "id": 58,
+    "category": "Corporate Vocabulary",
+    "term": "Negotiate",
+    "part_of_speech": "verb",
+    "meaning_en": "To discuss something in order to reach a mutual agreement.",
+    "meaning_ta": "பரஸ்பர உடன்பாட்டை அடைய ஒன்றைப் பற்றி விவாதிப்பது.",
+    "example_en": "We negotiated better payment terms with the supplier.",
+    "example_ta": "சப்ளையருடன் சிறந்த கட்டண விதிமுறைகளை நாங்கள் பேச்சுவார்த்தை மூலம் பெற்றோம்."
+  },
+  {
+    "id": 59,
+    "category": "Corporate Vocabulary",
+    "term": "Counteroffer",
+    "part_of_speech": "noun",
+    "meaning_en": "An alternative offer made in response to a rejected proposal.",
+    "meaning_ta": "நிராகரிக்கப்பட்ட ஒரு முன்மொழிவுக்கு பதிலளிக்கும் ஒரு மாற்று முன்மொழிவு.",
+    "example_en": "They rejected our first offer and sent a counteroffer.",
+    "example_ta": "அவர்கள் எங்கள் முதல் வாய்ப்பை நிராகரித்து ஒரு மாற்று வாய்ப்பை அனுப்பினர்."
+  },
+  {
+    "id": 60,
+    "category": "Corporate Vocabulary",
+    "term": "Concession",
+    "part_of_speech": "noun",
+    "meaning_en": "Something given up in a negotiation to reach an agreement.",
+    "meaning_ta": "ஒரு உடன்பாட்டை அடைய பேச்சுவார்த்தையில் விட்டுக்கொடுக்கும் ஒன்று.",
+    "example_en": "We made a small concession on the delivery date to close the deal.",
+    "example_ta": "ஒப்பந்தத்தை முடிக்க டெலிவரி தேதியில் நாங்கள் சிறிது விட்டுக்கொடுத்தோம்."
+  },
+  {
+    "id": 61,
+    "category": "Corporate Vocabulary",
+    "term": "Leverage point",
+    "part_of_speech": "noun",
+    "meaning_en": "A specific factor that gives one side an advantage in negotiation.",
+    "meaning_ta": "பேச்சுவார்த்தையில் ஒரு தரப்பிற்கு நன்மை தரும் ஒரு குறிப்பிட்ட காரணி.",
+    "example_en": "Our exclusive technology is our biggest leverage point in these talks.",
+    "example_ta": "இந்த பேச்சுவார்த்தைகளில் எங்கள் தனித்துவமான தொழில்நுட்பமே எங்கள் மிகப்பெரிய பலம்."
+  },
+  {
+    "id": 62,
+    "category": "Corporate Vocabulary",
+    "term": "Terms and conditions",
+    "part_of_speech": "noun",
+    "meaning_en": "The rules that both parties must agree to in a contract.",
+    "meaning_ta": "ஒரு ஒப்பந்தத்தில் இரு தரப்பினரும் ஒப்புக்கொள்ள வேண்டிய விதிகள்.",
+    "example_en": "Please read the terms and conditions carefully before signing.",
+    "example_ta": "கையெழுத்திடுவதற்கு முன் விதிமுறைகளையும் நிபந்தனைகளையும் கவனமாகப் படியுங்கள்."
+  },
+  {
+    "id": 63,
+    "category": "Corporate Vocabulary",
+    "term": "Clause",
+    "part_of_speech": "noun",
+    "meaning_en": "A specific section or provision within a legal document or contract.",
+    "meaning_ta": "ஒரு சட்ட ஆவணம் அல்லது ஒப்பந்தத்திற்குள் ஒரு குறிப்பிட்ட பிரிவு அல்லது விதிமுறை.",
+    "example_en": "The termination clause allows either party to exit with 30 days' notice.",
+    "example_ta": "முடிவு விதிமுறை 30 நாட்கள் அறிவிப்புடன் இரு தரப்பினரும் வெளியேற அனுமதிக்கிறது."
+  },
+  {
+    "id": 64,
+    "category": "Corporate Vocabulary",
+    "term": "Liability",
+    "part_of_speech": "noun",
+    "meaning_en": "Legal responsibility for something, especially costs or damages.",
+    "meaning_ta": "ஒன்றுக்கான சட்ட பொறுப்பு, குறிப்பாக செலவுகள் அல்லது சேதங்களுக்கு.",
+    "example_en": "The company limited its liability through the new insurance policy.",
+    "example_ta": "புதிய காப்பீட்டு கொள்கை மூலம் நிறுவனம் தன் பொறுப்பை வரம்பிட்டது."
+  },
+  {
+    "id": 65,
+    "category": "Corporate Vocabulary",
+    "term": "Compliance",
+    "part_of_speech": "noun",
+    "meaning_en": "The act of following rules, laws, or standards.",
+    "meaning_ta": "விதிகள், சட்டங்கள் அல்லது தரநிலைகளைப் பின்பற்றும் செயல்.",
+    "example_en": "The audit confirmed our full compliance with data protection laws.",
+    "example_ta": "தரவு பாதுகாப்பு சட்டங்களுடன் எங்கள் முழு இணக்கத்தை தணிக்கை உறுதிப்படுத்தியது."
+  },
+  {
+    "id": 66,
+    "category": "Corporate Vocabulary",
+    "term": "Regulatory",
+    "part_of_speech": "adjective",
+    "meaning_en": "Relating to rules or laws set by an authority that must be followed.",
+    "meaning_ta": "ஒரு அதிகாரத்தால் நிர்ணயிக்கப்பட்ட, பின்பற்றப்பட வேண்டிய விதிகள் அல்லது சட்டங்கள் தொடர்பான.",
+    "example_en": "The company must meet strict regulatory requirements in this industry.",
+    "example_ta": "இந்தத் துறையில் நிறுவனம் கடுமையான ஒழுங்குமுறை தேவைகளை பூர்த்தி செய்ய வேண்டும்."
+  },
+  {
+    "id": 67,
+    "category": "Corporate Vocabulary",
+    "term": "Intellectual property",
+    "part_of_speech": "noun",
+    "meaning_en": "Creations of the mind, such as inventions or designs, protected by law.",
+    "meaning_ta": "சட்டத்தால் பாதுகாக்கப்படும், கண்டுபிடிப்புகள் அல்லது வடிவமைப்புகள் போன்ற மனதின் படைப்புகள்.",
+    "example_en": "The patent protects the company's intellectual property.",
+    "example_ta": "காப்புரிமை நிறுவனத்தின் அறிவுசார் சொத்தைப் பாதுகாக்கிறது."
+  },
+  {
+    "id": 68,
+    "category": "Corporate Vocabulary",
+    "term": "Non-disclosure agreement",
+    "part_of_speech": "noun",
+    "meaning_en": "A legal contract preventing parties from sharing confidential information.",
+    "meaning_ta": "ரகசிய தகவல்களைப் பகிராமல் தடுக்கும் ஒரு சட்ட ஒப்பந்தம்.",
+    "example_en": "Both companies signed a non-disclosure agreement before sharing data.",
+    "example_ta": "தரவைப் பகிர்வதற்கு முன் இரு நிறுவனங்களும் ரகசியத் தன்மை ஒப்பந்தத்தில் கையெழுத்திட்டன."
+  },
+  {
+    "id": 69,
+    "category": "Corporate Vocabulary",
+    "term": "Revenue",
+    "part_of_speech": "noun",
+    "meaning_en": "The total income generated by a business from its normal operations.",
+    "meaning_ta": "ஒரு தொழிலின் இயல்பான செயல்பாடுகளிலிருந்து உருவாகும் மொத்த வருமானம்.",
+    "example_en": "The company's revenue grew by 15% last quarter.",
+    "example_ta": "கடந்த காலாண்டில் நிறுவனத்தின் வருவாய் 15% வளர்ச்சி அடைந்தது."
+  },
+  {
+    "id": 70,
+    "category": "Corporate Vocabulary",
+    "term": "Profit margin",
+    "part_of_speech": "noun",
+    "meaning_en": "The percentage of revenue that remains as profit after expenses.",
+    "meaning_ta": "செலவுகளுக்குப் பின் லாபமாக மீதமிருக்கும் வருவாயின் சதவீதம்.",
+    "example_en": "Our profit margin improved after we cut production costs.",
+    "example_ta": "உற்பத்தி செலவுகளைக் குறைத்த பிறகு எங்கள் லாப வரம்பு மேம்பட்டது."
+  },
+  {
+    "id": 71,
+    "category": "Corporate Vocabulary",
+    "term": "Cash flow",
+    "part_of_speech": "noun",
+    "meaning_en": "The movement of money in and out of a business.",
+    "meaning_ta": "ஒரு தொழிலுக்குள்ளும் வெளியேயும் பணத்தின் ஓட்டம்.",
+    "example_en": "The company had a positive cash flow this quarter.",
+    "example_ta": "இந்த காலாண்டில் நிறுவனத்திற்கு நேர்மறையான பணப்புழக்கம் இருந்தது."
+  },
+  {
+    "id": 72,
+    "category": "Corporate Vocabulary",
+    "term": "Overhead",
+    "part_of_speech": "noun",
+    "meaning_en": "The ongoing expenses of operating a business, not directly tied to production.",
+    "meaning_ta": "ஒரு தொழிலை இயக்குவதற்கான தொடர் செலவுகள், உற்பத்தியுடன் நேரடியாக தொடர்பில்லாதவை.",
+    "example_en": "We're trying to reduce overhead costs like rent and utilities.",
+    "example_ta": "வாடகை மற்றும் பயன்பாட்டு செலவுகள் போன்ற மேல்செலவுகளை குறைக்க முயற்சிக்கிறோம்."
+  },
+  {
+    "id": 73,
+    "category": "Corporate Vocabulary",
+    "term": "Budget",
+    "part_of_speech": "noun",
+    "meaning_en": "An estimate of income and expenditure for a set period.",
+    "meaning_ta": "ஒரு குறிப்பிட்ட காலத்திற்கான வருமானம் மற்றும் செலவினத்தின் மதிப்பீடு.",
+    "example_en": "The marketing team went over budget this month.",
+    "example_ta": "இந்த மாதம் சந்தைப்படுத்தல் குழு பட்ஜெட்டை மீறியது."
+  },
+  {
+    "id": 74,
+    "category": "Corporate Vocabulary",
+    "term": "Forecast",
+    "part_of_speech": "noun",
+    "meaning_en": "A prediction of future financial performance.",
+    "meaning_ta": "எதிர்கால நிதி செயல்திறனின் கணிப்பு.",
+    "example_en": "The sales forecast for next year looks promising.",
+    "example_ta": "அடுத்த ஆண்டுக்கான விற்பனை கணிப்பு நம்பிக்கையூட்டுகிறது."
+  },
+  {
+    "id": 75,
+    "category": "Corporate Vocabulary",
+    "term": "Asset",
+    "part_of_speech": "noun",
+    "meaning_en": "A resource with economic value owned by a company.",
+    "meaning_ta": "ஒரு நிறுவனத்திற்கு சொந்தமான பொருளாதார மதிப்புள்ள ஒரு வளம்.",
+    "example_en": "The company's biggest asset is its skilled workforce.",
+    "example_ta": "நிறுவனத்தின் மிகப்பெரிய சொத்து அதன் திறமையான பணியாளர்கள்."
+  },
+  {
+    "id": 76,
+    "category": "Corporate Vocabulary",
+    "term": "Liquidity",
+    "part_of_speech": "noun",
+    "meaning_en": "The availability of liquid assets, such as cash, to meet short-term obligations.",
+    "meaning_ta": "குறுகிய கால கடமைகளை பூர்த்தி செய்ய திரவ சொத்துகளின் கிடைக்கும் தன்மை.",
+    "example_en": "The firm maintains strong liquidity to cover unexpected expenses.",
+    "example_ta": "எதிர்பாராத செலவுகளை ஈடுகட்ட நிறுவனம் வலுவான பணப் புழக்கத்தை பராமரிக்கிறது."
+  },
+  {
+    "id": 77,
+    "category": "Corporate Vocabulary",
+    "term": "Equity",
+    "part_of_speech": "noun",
+    "meaning_en": "Ownership interest in a company, represented by shares.",
+    "meaning_ta": "பங்குகளால் குறிக்கப்படும் ஒரு நிறுவனத்தில் உரிமையாளர் ஆர்வம்.",
+    "example_en": "Employees receive equity as part of their compensation package.",
+    "example_ta": "ஊழியர்கள் தங்கள் ஊதிய தொகுப்பின் ஒரு பகுதியாக பங்கு உரிமையைப் பெறுகின்றனர்."
+  },
+  {
+    "id": 78,
+    "category": "Corporate Vocabulary",
+    "term": "Depreciation",
+    "part_of_speech": "noun",
+    "meaning_en": "The reduction in value of an asset over time.",
+    "meaning_ta": "காலப்போக்கில் ஒரு சொத்தின் மதிப்பு குறைவது.",
+    "example_en": "The value of the equipment decreases due to depreciation each year.",
+    "example_ta": "ஒவ்வொரு ஆண்டும் தேய்மானம் காரணமாக உபகரணத்தின் மதிப்பு குறைகிறது."
+  },
+  {
+    "id": 79,
+    "category": "Corporate Vocabulary",
+    "term": "Fiscal year",
+    "part_of_speech": "noun",
+    "meaning_en": "A one-year period used for financial reporting and budgeting.",
+    "meaning_ta": "நிதி அறிக்கை மற்றும் பட்ஜெட் தயாரிப்பிற்கு பயன்படுத்தப்படும் ஒரு ஆண்டு காலம்.",
+    "example_en": "Our fiscal year ends in March.",
+    "example_ta": "எங்கள் நிதியாண்டு மார்ச் மாதத்தில் முடிவடைகிறது."
+  },
+  {
+    "id": 80,
+    "category": "Corporate Vocabulary",
+    "term": "Audit",
+    "part_of_speech": "noun",
+    "meaning_en": "An official inspection of financial accounts or processes.",
+    "meaning_ta": "நிதி கணக்குகள் அல்லது செயல்முறைகளின் அதிகாரப்பூர்வ ஆய்வு.",
+    "example_en": "The company undergoes an annual audit by external accountants.",
+    "example_ta": "வெளிப்புற கணக்காளர்களால் நிறுவனம் ஆண்டுதோறும் தணிக்கை செய்யப்படுகிறது."
+  },
+  {
+    "id": 81,
+    "category": "Corporate Vocabulary",
+    "term": "Invoice",
+    "part_of_speech": "noun",
+    "meaning_en": "A document listing goods or services provided, and the amount owed.",
+    "meaning_ta": "வழங்கப்பட்ட பொருட்கள் அல்லது சேவைகள் மற்றும் செலுத்த வேண்டிய தொகையை பட்டியலிடும் ஆவணம்.",
+    "example_en": "Please send the invoice by the end of the week.",
+    "example_ta": "வார இறுதிக்குள் விலைப்பட்டியலை அனுப்பவும்."
+  },
+  {
+    "id": 82,
+    "category": "Corporate Vocabulary",
+    "term": "Procurement",
+    "part_of_speech": "noun",
+    "meaning_en": "The process of obtaining goods or services for a business.",
+    "meaning_ta": "ஒரு தொழிலுக்காக பொருட்கள் அல்லது சேவைகளைப் பெறும் செயல்முறை.",
+    "example_en": "The procurement team is negotiating with new suppliers.",
+    "example_ta": "கொள்முதல் குழு புதிய சப்ளையர்களுடன் பேச்சுவார்த்தை நடத்துகிறது."
+  },
+  {
+    "id": 83,
+    "category": "Corporate Vocabulary",
+    "term": "Vendor",
+    "part_of_speech": "noun",
+    "meaning_en": "A person or company that supplies goods or services to another business.",
+    "meaning_ta": "மற்றொரு தொழிலுக்கு பொருட்கள் அல்லது சேவைகளை வழங்கும் ஒரு நபர் அல்லது நிறுவனம்.",
+    "example_en": "We changed our office supplies vendor last month.",
+    "example_ta": "கடந்த மாதம் எங்கள் அலுவலக பொருட்கள் விற்பனையாளரை மாற்றினோம்."
+  },
+  {
+    "id": 84,
+    "category": "Corporate Vocabulary",
+    "term": "Subsidiary",
+    "part_of_speech": "noun",
+    "meaning_en": "A company controlled by another, larger company.",
+    "meaning_ta": "மற்றொரு பெரிய நிறுவனத்தால் கட்டுப்படுத்தப்படும் ஒரு நிறுவனம்.",
+    "example_en": "The subsidiary operates independently but reports to the parent company.",
+    "example_ta": "துணை நிறுவனம் சுயாதீனமாக செயல்படுகிறது, ஆனால் தாய் நிறுவனத்திற்கு அறிக்கை அளிக்கிறது."
+  },
+  {
+    "id": 85,
+    "category": "Corporate Vocabulary",
+    "term": "Merger",
+    "part_of_speech": "noun",
+    "meaning_en": "The combination of two companies into one.",
+    "meaning_ta": "இரண்டு நிறுவனங்களை ஒன்றாக இணைப்பது.",
+    "example_en": "The merger created one of the largest firms in the industry.",
+    "example_ta": "அந்த இணைப்பு தொழிலில் மிகப்பெரிய நிறுவனங்களில் ஒன்றை உருவாக்கியது."
+  },
+  {
+    "id": 86,
+    "category": "Corporate Vocabulary",
+    "term": "Acquisition",
+    "part_of_speech": "noun",
+    "meaning_en": "The purchase of one company by another.",
+    "meaning_ta": "ஒரு நிறுவனத்தை மற்றொரு நிறுவனம் வாங்குவது.",
+    "example_en": "The tech giant announced the acquisition of a small startup.",
+    "example_ta": "அந்த தொழில்நுட்ப நிறுவனம் ஒரு சிறிய ஸ்டார்ட்அப்பை வாங்கியதை அறிவித்தது."
+  },
+  {
+    "id": 87,
+    "category": "Corporate Vocabulary",
+    "term": "Diversify",
+    "part_of_speech": "verb",
+    "meaning_en": "To expand into different areas or products to reduce risk.",
+    "meaning_ta": "ஆபத்தைக் குறைக்க வெவ்வேறு பகுதிகள் அல்லது தயாரிப்புகளுக்கு விரிவாக்குவது.",
+    "example_en": "The company diversified into new markets to reduce risk.",
+    "example_ta": "ஆபத்தைக் குறைக்க நிறுவனம் புதிய சந்தைகளுக்கு விரிவாக்கியது."
+  },
+  {
+    "id": 88,
+    "category": "Corporate Vocabulary",
+    "term": "Market share",
+    "part_of_speech": "noun",
+    "meaning_en": "The portion of a market controlled by a particular company.",
+    "meaning_ta": "ஒரு குறிப்பிட்ட நிறுவனத்தால் கட்டுப்படுத்தப்படும் சந்தையின் பகுதி.",
+    "example_en": "The company increased its market share by 5% this year.",
+    "example_ta": "இந்த ஆண்டு நிறுவனம் தன் சந்தைப் பங்கை 5% அதிகரித்தது."
+  },
+  {
+    "id": 89,
+    "category": "Corporate Vocabulary",
+    "term": "Competitive advantage",
+    "part_of_speech": "noun",
+    "meaning_en": "A factor that allows a company to outperform its rivals.",
+    "meaning_ta": "ஒரு நிறுவனத்தை அதன் போட்டியாளர்களை விட சிறப்பாக செயல்பட அனுமதிக்கும் ஒரு காரணி.",
+    "example_en": "Our fast delivery time is a key competitive advantage.",
+    "example_ta": "எங்கள் விரைவான டெலிவரி நேரம் ஒரு முக்கிய போட்டி நன்மையாகும்."
+  },
+  {
+    "id": 90,
+    "category": "Corporate Vocabulary",
+    "term": "Brand equity",
+    "part_of_speech": "noun",
+    "meaning_en": "The value a brand adds to a product beyond its functional benefits.",
+    "meaning_ta": "ஒரு பிராண்டு அதன் செயல்பாட்டு நன்மைகளுக்கு அப்பால் ஒரு தயாரிப்புக்கு சேர்க்கும் மதிப்பு.",
+    "example_en": "Strong brand equity allows the company to charge premium prices.",
+    "example_ta": "வலுவான பிராண்டு மதிப்பு நிறுவனத்தை உயர் விலைகளை நிர்ணயிக்க அனுமதிக்கிறது."
+  },
+  {
+    "id": 91,
+    "category": "Corporate Vocabulary",
+    "term": "Target audience",
+    "part_of_speech": "noun",
+    "meaning_en": "The specific group of people a product or campaign is designed for.",
+    "meaning_ta": "ஒரு தயாரிப்பு அல்லது பிரச்சாரம் வடிவமைக்கப்பட்ட குறிப்பிட்ட நபர்களின் குழு.",
+    "example_en": "Our target audience is young professionals aged 25 to 35.",
+    "example_ta": "25 முதல் 35 வயது வரையிலான இளம் தொழில் வல்லுநர்களே எங்கள் இலக்கு பார்வையாளர்கள்."
+  },
+  {
+    "id": 92,
+    "category": "Corporate Vocabulary",
+    "term": "Conversion rate",
+    "part_of_speech": "noun",
+    "meaning_en": "The percentage of people who take a desired action, such as making a purchase.",
+    "meaning_ta": "வாங்குதல் போன்ற விரும்பிய நடவடிக்கையை எடுக்கும் நபர்களின் சதவீதம்.",
+    "example_en": "The new landing page improved our conversion rate significantly.",
+    "example_ta": "புதிய இறங்குதள பக்கம் எங்கள் மாற்று விகிதத்தை கணிசமாக மேம்படுத்தியது."
+  },
+  {
+    "id": 93,
+    "category": "Corporate Vocabulary",
+    "term": "Brand awareness",
+    "part_of_speech": "noun",
+    "meaning_en": "The extent to which consumers recognize or recall a brand.",
+    "meaning_ta": "நுகர்வோர் ஒரு பிராண்டை அடையாளம் காணும் அல்லது நினைவில் வைத்திருக்கும் அளவு.",
+    "example_en": "The ad campaign boosted brand awareness across social media.",
+    "example_ta": "விளம்பரப் பிரச்சாரம் சமூக ஊடகங்களில் பிராண்ட் விழிப்புணர்வை அதிகரித்தது."
+  },
+  {
+    "id": 94,
+    "category": "Corporate Vocabulary",
+    "term": "Churn rate",
+    "part_of_speech": "noun",
+    "meaning_en": "The rate at which customers stop doing business with a company.",
+    "meaning_ta": "வாடிக்கையாளர்கள் ஒரு நிறுவனத்துடன் தொழில் செய்வதை நிறுத்தும் விகிதம்.",
+    "example_en": "Reducing the churn rate is a top priority for the subscription service.",
+    "example_ta": "சந்தா சேவைக்கு வாடிக்கையாளர் இழப்பு விகிதத்தைக் குறைப்பது முதன்மை முன்னுரிமையாகும்."
+  },
+  {
+    "id": 95,
+    "category": "Corporate Vocabulary",
+    "term": "Customer retention",
+    "part_of_speech": "noun",
+    "meaning_en": "The ability of a company to keep its existing customers.",
+    "meaning_ta": "ஒரு நிறுவனம் தன் தற்போதைய வாடிக்கையாளர்களை தக்கவைத்துக்கொள்ளும் திறன்.",
+    "example_en": "Loyalty programs help improve customer retention.",
+    "example_ta": "விசுவாச திட்டங்கள் வாடிக்கையாளர் தக்கவைப்பை மேம்படுத்த உதவுகின்றன."
+  },
+  {
+    "id": 96,
+    "category": "Corporate Vocabulary",
+    "term": "Pipeline",
+    "part_of_speech": "noun",
+    "meaning_en": "A series of stages that leads to a completed sale or project.",
+    "meaning_ta": "ஒரு முடிக்கப்பட்ட விற்பனை அல்லது திட்டத்திற்கு வழிவகுக்கும் ஒரு தொடர் கட்டங்கள்.",
+    "example_en": "We have several deals in the sales pipeline this quarter.",
+    "example_ta": "இந்த காலாண்டில் விற்பனை பைப்லைனில் எங்களுக்கு பல ஒப்பந்தங்கள் உள்ளன."
+  },
+  {
+    "id": 97,
+    "category": "Corporate Vocabulary",
+    "term": "Lead generation",
+    "part_of_speech": "noun",
+    "meaning_en": "The process of attracting and converting prospects into potential customers.",
+    "meaning_ta": "வாய்ப்புள்ளவர்களை ஈர்த்து சாத்தியமான வாடிக்கையாளர்களாக மாற்றும் செயல்முறை.",
+    "example_en": "The webinar was a great tool for lead generation.",
+    "example_ta": "வலைக் கருத்தரங்கு தலைமை உருவாக்கத்திற்கு ஒரு சிறந்த கருவியாக இருந்தது."
+  },
+  {
+    "id": 98,
+    "category": "Corporate Vocabulary",
+    "term": "Cold calling",
+    "part_of_speech": "noun",
+    "meaning_en": "Contacting potential customers who have not previously shown interest.",
+    "meaning_ta": "முன்பு ஆர்வம் காட்டாத சாத்தியமான வாடிக்கையாளர்களை தொடர்பு கொள்வது.",
+    "example_en": "The sales team spends mornings cold calling new prospects.",
+    "example_ta": "விற்பனைக் குழு காலை நேரங்களில் புதிய வாய்ப்புள்ளவர்களை தொடர்பு கொள்கிறது."
+  },
+  {
+    "id": 99,
+    "category": "Corporate Vocabulary",
+    "term": "Upsell",
+    "part_of_speech": "verb",
+    "meaning_en": "To persuade a customer to buy a more expensive item or add-on.",
+    "meaning_ta": "ஒரு வாடிக்கையாளரை அதிக விலையுள்ள பொருளை அல்லது கூடுதல் சேவையை வாங்கச் சம்மதிக்க வைப்பது.",
+    "example_en": "The salesperson tried to upsell an extended warranty.",
+    "example_ta": "விற்பனையாளர் நீட்டிக்கப்பட்ட உத்தரவாதத்தை விற்க முயன்றார்."
+  },
+  {
+    "id": 100,
+    "category": "Corporate Vocabulary",
+    "term": "Cross-sell",
+    "part_of_speech": "verb",
+    "meaning_en": "To sell a related or complementary product to an existing customer.",
+    "meaning_ta": "ஒரு தற்போதைய வாடிக்கையாளருக்கு தொடர்புடைய அல்லது கூடுதல் தயாரிப்பை விற்பது.",
+    "example_en": "We cross-sell insurance products to our banking customers.",
+    "example_ta": "எங்கள் வங்கி வாடிக்கையாளர்களுக்கு காப்பீட்டு தயாரிப்புகளை நாங்கள் குறுக்கு-விற்பனை செய்கிறோம்."
+  },
+  {
+    "id": 101,
+    "category": "Corporate Vocabulary",
+    "term": "Elevator pitch",
+    "part_of_speech": "noun",
+    "meaning_en": "A short, persuasive summary of an idea, product, or business.",
+    "meaning_ta": "ஒரு யோசனை, தயாரிப்பு அல்லது தொழிலின் சுருக்கமான, வற்புறுத்தும் சுருக்கம்.",
+    "example_en": "She perfected her elevator pitch before the investor meeting.",
+    "example_ta": "முதலீட்டாளர் கூட்டத்திற்கு முன் அவள் தன் சுருக்க அறிமுகத்தை மெருகேற்றினாள்."
+  },
+  {
+    "id": 102,
+    "category": "Corporate Vocabulary",
+    "term": "Onward planning",
+    "part_of_speech": "noun",
+    "meaning_en": "Planning ahead for future steps in a project or strategy.",
+    "meaning_ta": "ஒரு திட்டம் அல்லது மூலோபாயத்தில் எதிர்கால படிகளுக்கான திட்டமிடல்.",
+    "example_en": "The team focused on onward planning for the next fiscal year.",
+    "example_ta": "அடுத்த நிதியாண்டிற்கான முன்னோக்கிய திட்டமிடலில் குழு கவனம் செலுத்தியது."
+  },
+  {
+    "id": 103,
+    "category": "Corporate Vocabulary",
+    "term": "Performance review",
+    "part_of_speech": "noun",
+    "meaning_en": "A formal assessment of an employee's work and contributions.",
+    "meaning_ta": "ஒரு ஊழியரின் வேலை மற்றும் பங்களிப்புகளின் முறையான மதிப்பீடு.",
+    "example_en": "My performance review is scheduled for next Tuesday.",
+    "example_ta": "என் செயல்திறன் மதிப்பாய்வு அடுத்த செவ்வாய்க்கிழமை திட்டமிடப்பட்டுள்ளது."
+  },
+  {
+    "id": 104,
+    "category": "Corporate Vocabulary",
+    "term": "Feedback loop",
+    "part_of_speech": "noun",
+    "meaning_en": "An ongoing process of giving and receiving feedback to improve performance.",
+    "meaning_ta": "செயல்திறனை மேம்படுத்த கருத்துகளை வழங்கி பெறும் தொடர் செயல்முறை.",
+    "example_en": "We've set up a feedback loop between managers and employees.",
+    "example_ta": "மேலாளர்களுக்கும் ஊழியர்களுக்கும் இடையே ஒரு கருத்து சுழற்சியை நாங்கள் அமைத்துள்ளோம்."
+  },
+  {
+    "id": 105,
+    "category": "Corporate Vocabulary",
+    "term": "Constructive criticism",
+    "part_of_speech": "noun",
+    "meaning_en": "Feedback intended to help someone improve, given in a helpful way.",
+    "meaning_ta": "ஒருவரை மேம்படுத்த உதவும் நோக்கத்துடன், உதவிகரமான முறையில் அளிக்கப்படும் கருத்து.",
+    "example_en": "She offered constructive criticism on my presentation.",
+    "example_ta": "என் விளக்கக்காட்சி குறித்து அவள் ஆக்கபூர்வமான விமர்சனத்தை அளித்தாள்."
+  },
+  {
+    "id": 106,
+    "category": "Corporate Vocabulary",
+    "term": "Employee engagement",
+    "part_of_speech": "noun",
+    "meaning_en": "The level of enthusiasm and commitment employees feel toward their work.",
+    "meaning_ta": "ஊழியர்கள் தங்கள் வேலையில் உணரும் உற்சாகம் மற்றும் அர்ப்பணிப்பின் அளவு.",
+    "example_en": "The survey measures employee engagement across departments.",
+    "example_ta": "இந்த ஆய்வு துறைகள் முழுவதும் ஊழியர் ஈடுபாட்டை அளவிடுகிறது."
+  },
+  {
+    "id": 107,
+    "category": "Corporate Vocabulary",
+    "term": "Work-life balance",
+    "part_of_speech": "noun",
+    "meaning_en": "The balance between time spent on work and personal life.",
+    "meaning_ta": "வேலைக்கும் தனிப்பட்ட வாழ்க்கைக்கும் இடையேயான சமநிலை.",
+    "example_en": "The company promotes work-life balance through flexible hours.",
+    "example_ta": "நெகிழ்வான நேரங்கள் மூலம் நிறுவனம் வேலை-வாழ்க்கை சமநிலையை ஊக்குவிக்கிறது."
+  },
+  {
+    "id": 108,
+    "category": "Corporate Vocabulary",
+    "term": "Remote work",
+    "part_of_speech": "noun",
+    "meaning_en": "Work performed outside of a traditional office environment.",
+    "meaning_ta": "பாரம்பரிய அலுவலக சூழலுக்கு வெளியே செய்யப்படும் வேலை.",
+    "example_en": "Remote work has become common since the pandemic.",
+    "example_ta": "தொற்றுநோய்க்குப் பிறகு தொலைதூர வேலை பொதுவானதாகிவிட்டது."
+  },
+  {
+    "id": 109,
+    "category": "Corporate Vocabulary",
+    "term": "Hybrid model",
+    "part_of_speech": "noun",
+    "meaning_en": "A work arrangement combining remote and in-office work.",
+    "meaning_ta": "தொலைதூர மற்றும் அலுவலக வேலையை ஒருங்கிணைக்கும் ஒரு பணி ஏற்பாடு.",
+    "example_en": "Our company adopted a hybrid model with three office days per week.",
+    "example_ta": "எங்கள் நிறுவனம் வாரத்திற்கு மூன்று அலுவலக நாட்களுடன் ஒரு கலப்பு மாதிரியை ஏற்றுக்கொண்டது."
+  },
+  {
+    "id": 110,
+    "category": "Corporate Vocabulary",
+    "term": "Attrition",
+    "part_of_speech": "noun",
+    "meaning_en": "The gradual reduction of staff through resignation or retirement.",
+    "meaning_ta": "ராஜினாமா அல்லது ஓய்வு மூலம் ஊழியர்களின் படிப்படியான குறைப்பு.",
+    "example_en": "The company is trying to reduce employee attrition.",
+    "example_ta": "ஊழியர் இழப்பைக் குறைக்க நிறுவனம் முயற்சிக்கிறது."
+  },
+  {
+    "id": 111,
+    "category": "Corporate Vocabulary",
+    "term": "Talent acquisition",
+    "part_of_speech": "noun",
+    "meaning_en": "The process of finding and hiring skilled employees.",
+    "meaning_ta": "திறமையான ஊழியர்களைக் கண்டறிந்து பணியமர்த்தும் செயல்முறை.",
+    "example_en": "The talent acquisition team is hiring for five open positions.",
+    "example_ta": "திறமை கையகப்படுத்தல் குழு ஐந்து காலி பணியிடங்களுக்கு பணியமர்த்துகிறது."
+  },
+  {
+    "id": 112,
+    "category": "Corporate Vocabulary",
+    "term": "Succession planning",
+    "part_of_speech": "noun",
+    "meaning_en": "Preparing for the future replacement of key employees.",
+    "meaning_ta": "முக்கிய ஊழியர்களின் எதிர்கால மாற்றத்திற்கு தயார் செய்தல்.",
+    "example_en": "Succession planning ensures leadership continuity after retirements.",
+    "example_ta": "ஓய்வுக்குப் பிறகு தலைமைத்துவ தொடர்ச்சியை வாரிசு திட்டமிடல் உறுதி செய்கிறது."
+  },
+  {
+    "id": 113,
+    "category": "Corporate Vocabulary",
+    "term": "Cultural fit",
+    "part_of_speech": "noun",
+    "meaning_en": "How well a candidate's values align with a company's culture.",
+    "meaning_ta": "ஒரு விண்ணப்பதாரரின் மதிப்புகள் ஒரு நிறுவனத்தின் கலாச்சாரத்துடன் எவ்வளவு பொருந்துகின்றன.",
+    "example_en": "Cultural fit is just as important as technical skills in our hiring.",
+    "example_ta": "எங்கள் பணியமர்த்தலில் தொழில்நுட்ப திறன்கள் போலவே கலாச்சார பொருத்தமும் முக்கியம்."
+  },
+  {
+    "id": 114,
+    "category": "Corporate Vocabulary",
+    "term": "Diversity and inclusion",
+    "part_of_speech": "noun",
+    "meaning_en": "Efforts to ensure representation and fair treatment of people from different backgrounds.",
+    "meaning_ta": "வெவ்வேறு பின்னணியில் இருந்தவர்களுக்கு பிரதிநிதித்துவம் மற்றும் நியாயமான நடத்தையை உறுதி செய்யும் முயற்சிகள்.",
+    "example_en": "The company launched new diversity and inclusion initiatives this year.",
+    "example_ta": "இந்த ஆண்டு நிறுவனம் புதிய பன்முகத்தன்மை மற்றும் உள்ளடக்க முயற்சிகளைத் தொடங்கியது."
+  },
+  {
+    "id": 115,
+    "category": "Corporate Vocabulary",
+    "term": "Mentorship",
+    "part_of_speech": "noun",
+    "meaning_en": "A relationship in which an experienced person guides a less experienced one.",
+    "meaning_ta": "அனுபவமுள்ள ஒருவர் குறைவான அனுபவமுள்ள ஒருவருக்கு வழிகாட்டும் உறவு.",
+    "example_en": "The mentorship program pairs new hires with senior staff.",
+    "example_ta": "வழிகாட்டுதல் திட்டம் புதிய ஊழியர்களை மூத்த பணியாளர்களுடன் இணைக்கிறது."
+  },
+  {
+    "id": 116,
+    "category": "Corporate Vocabulary",
+    "term": "Team building",
+    "part_of_speech": "noun",
+    "meaning_en": "Activities designed to improve cooperation and relationships among team members.",
+    "meaning_ta": "குழு உறுப்பினர்களிடையே ஒத்துழைப்பையும் உறவுகளையும் மேம்படுத்த வடிவமைக்கப்பட்ட செயல்பாடுகள்.",
+    "example_en": "We organized a team building event last Friday.",
+    "example_ta": "கடந்த வெள்ளிக்கிழமை நாங்கள் ஒரு குழு-கட்டமைப்பு நிகழ்வை ஏற்பாடு செய்தோம்."
+  },
+  {
+    "id": 117,
+    "category": "Corporate Vocabulary",
+    "term": "Micromanage",
+    "part_of_speech": "verb",
+    "meaning_en": "To control or oversee every small detail of someone's work excessively.",
+    "meaning_ta": "ஒருவரின் வேலையின் ஒவ்வொரு சிறிய விவரத்தையும் அதிகமாகக் கட்டுப்படுத்துவது அல்லது கண்காணிப்பது.",
+    "example_en": "Employees feel demotivated when managers micromanage them.",
+    "example_ta": "மேலாளர்கள் அதிகமாக கண்காணிக்கும்போது ஊழியர்கள் ஊக்கமிழக்கிறார்கள்."
+  },
+  {
+    "id": 118,
+    "category": "Corporate Vocabulary",
+    "term": "Delegate",
+    "part_of_speech": "verb",
+    "meaning_en": "To assign a task or responsibility to another person.",
+    "meaning_ta": "ஒரு பணி அல்லது பொறுப்பை மற்றொருவருக்கு ஒப்படைப்பது.",
+    "example_en": "A good manager knows how to delegate tasks effectively.",
+    "example_ta": "ஒரு நல்ல மேலாளருக்கு பணிகளை திறம்பட ஒப்படைப்பது எப்படி என்று தெரியும்."
+  },
+  {
+    "id": 119,
+    "category": "Corporate Vocabulary",
+    "term": "Empower",
+    "part_of_speech": "verb",
+    "meaning_en": "To give someone the authority or confidence to act independently.",
+    "meaning_ta": "ஒருவருக்கு சுயாதீனமாக செயல்பட அதிகாரம் அல்லது நம்பிக்கையை அளிப்பது.",
+    "example_en": "The new policy empowers employees to make their own decisions.",
+    "example_ta": "புதிய கொள்கை ஊழியர்களை தங்கள் சொந்த முடிவுகளை எடுக்க அதிகாரம் அளிக்கிறது."
+  },
+  {
+    "id": 120,
+    "category": "Corporate Vocabulary",
+    "term": "Accountability",
+    "part_of_speech": "noun",
+    "meaning_en": "The obligation to accept responsibility for one's actions.",
+    "meaning_ta": "ஒருவரின் செயல்களுக்கு பொறுப்பேற்கும் கடமை.",
+    "example_en": "We're building a culture of accountability across the team.",
+    "example_ta": "குழு முழுவதும் பொறுப்புணர்வு கலாச்சாரத்தை நாங்கள் உருவாக்குகிறோம்."
+  },
+  {
+    "id": 121,
+    "category": "Corporate Vocabulary",
+    "term": "Transparency",
+    "part_of_speech": "noun",
+    "meaning_en": "Openness and honesty in communication and decision-making.",
+    "meaning_ta": "தொடர்பு மற்றும் முடிவெடுப்பதில் வெளிப்படைத்தன்மையும் நேர்மையும்.",
+    "example_en": "The CEO emphasized transparency in all company communications.",
+    "example_ta": "நிறுவனத்தின் அனைத்து தொடர்புகளிலும் வெளிப்படைத்தன்மையை தலைமை நிர்வாக அதிகாரி வலியுறுத்தினார்."
+  },
+  {
+    "id": 122,
+    "category": "Corporate Vocabulary",
+    "term": "Onward communication",
+    "part_of_speech": "noun",
+    "meaning_en": "Passing on information to relevant parties after receiving it.",
+    "meaning_ta": "தகவலைப் பெற்ற பிறகு அதை சம்பந்தப்பட்டவர்களுக்கு அனுப்புவது.",
+    "example_en": "Please ensure onward communication of this update to your teams.",
+    "example_ta": "இந்த புதுப்பிப்பை உங்கள் குழுக்களுக்கு தெரிவிப்பதை உறுதி செய்யவும்."
+  },
+  {
+    "id": 123,
+    "category": "Corporate Vocabulary",
+    "term": "Brainstorm",
+    "part_of_speech": "verb",
+    "meaning_en": "To generate ideas in a group discussion.",
+    "meaning_ta": "ஒரு குழு விவாதத்தில் யோசனைகளை உருவாக்குவது.",
+    "example_en": "Let's brainstorm some ideas for the new campaign.",
+    "example_ta": "புதிய பிரச்சாரத்திற்கான சில யோசனைகளை பரிமாறிக் கொள்வோம்."
+  },
+  {
+    "id": 124,
+    "category": "Corporate Vocabulary",
+    "term": "Kickoff meeting",
+    "part_of_speech": "noun",
+    "meaning_en": "The first meeting of a project to align goals and roles.",
+    "meaning_ta": "இலக்குகளையும் பணிகளையும் ஒத்திசைக்க ஒரு திட்டத்தின் முதல் கூட்டம்.",
+    "example_en": "The kickoff meeting is scheduled for Monday morning.",
+    "example_ta": "தொடக்கக் கூட்டம் திங்கள் காலைக்கு திட்டமிடப்பட்டுள்ளது."
+  },
+  {
+    "id": 125,
+    "category": "Corporate Vocabulary",
+    "term": "Stand-up meeting",
+    "part_of_speech": "noun",
+    "meaning_en": "A short daily meeting where team members share updates.",
+    "meaning_ta": "குழு உறுப்பினர்கள் புதுப்பிப்புகளைப் பகிரும் ஒரு குறுகிய தினசரி கூட்டம்.",
+    "example_en": "We have a stand-up meeting every morning at 9.",
+    "example_ta": "ஒவ்வொரு காலையிலும் காலை 9 மணிக்கு எங்களுக்கு ஒரு குறுகிய கூட்டம் நடக்கும்."
+  },
+  {
+    "id": 126,
+    "category": "Corporate Vocabulary",
+    "term": "Task force",
+    "part_of_speech": "noun",
+    "meaning_en": "A group formed to focus on a specific problem or project.",
+    "meaning_ta": "ஒரு குறிப்பிட்ட பிரச்சனை அல்லது திட்டத்தில் கவனம் செலுத்த உருவாக்கப்படும் ஒரு குழு.",
+    "example_en": "A task force was created to address the supply chain delays.",
+    "example_ta": "விநியோகச் சங்கிலி தாமதங்களை நிவர்த்தி செய்ய ஒரு பணிக்குழு உருவாக்கப்பட்டது."
+  },
+  {
+    "id": 127,
+    "category": "Corporate Vocabulary",
+    "term": "Steering committee",
+    "part_of_speech": "noun",
+    "meaning_en": "A group that provides guidance and oversight for a project.",
+    "meaning_ta": "ஒரு திட்டத்திற்கு வழிகாட்டுதலையும் மேற்பார்வையையும் வழங்கும் ஒரு குழு.",
+    "example_en": "The steering committee will review the project's progress monthly.",
+    "example_ta": "வழிநடத்தும் குழு திட்டத்தின் முன்னேற்றத்தை மாதந்தோறும் மதிப்பாய்வு செய்யும்."
+  },
+  {
+    "id": 128,
+    "category": "Corporate Vocabulary",
+    "term": "Executive summary",
+    "part_of_speech": "noun",
+    "meaning_en": "A brief overview of a longer report, highlighting key points.",
+    "meaning_ta": "ஒரு நீண்ட அறிக்கையின் சுருக்கமான கண்ணோட்டம், முக்கிய கருத்துகளை எடுத்துக்காட்டுகிறது.",
+    "example_en": "Read the executive summary before diving into the full report.",
+    "example_ta": "முழு அறிக்கையையும் படிப்பதற்கு முன் நிர்வாக சுருக்கத்தைப் படியுங்கள்."
+  },
+  {
+    "id": 129,
+    "category": "Corporate Vocabulary",
+    "term": "Stakeholder buy-in",
+    "part_of_speech": "noun",
+    "meaning_en": "Support and agreement gained from those affected by a decision.",
+    "meaning_ta": "ஒரு முடிவால் பாதிக்கப்பட்டவர்களிடமிருந்து பெறப்படும் ஆதரவும் ஒப்புதலும்.",
+    "example_en": "We secured stakeholder buy-in before launching the new policy.",
+    "example_ta": "புதிய கொள்கையைத் தொடங்குவதற்கு முன் பங்குதாரர்களின் ஒப்புதலை நாங்கள் பெற்றோம்."
+  },
+  {
+    "id": 130,
+    "category": "Corporate Vocabulary",
+    "term": "Change management",
+    "part_of_speech": "noun",
+    "meaning_en": "The approach to preparing and supporting individuals through organizational change.",
+    "meaning_ta": "நிறுவன மாற்றத்தின் போது தனிநபர்களைத் தயார்படுத்தி ஆதரிக்கும் அணுகுமுறை.",
+    "example_en": "Change management is critical during any major restructuring.",
+    "example_ta": "எந்த முக்கிய மறுசீரமைப்பின் போதும் மாற்ற மேலாண்மை முக்கியமானது."
+  },
+  {
+    "id": 131,
+    "category": "Corporate Vocabulary",
+    "term": "Growth mindset",
+    "part_of_speech": "noun",
+    "meaning_en": "The belief that abilities can be developed through effort and learning.",
+    "meaning_ta": "முயற்சி மற்றும் கற்றல் மூலம் திறன்களை வளர்க்க முடியும் என்ற நம்பிக்கை.",
+    "example_en": "The company encourages a growth mindset among employees.",
+    "example_ta": "ஊழியர்களிடையே வளர்ச்சி மனநிலையை நிறுவனம் ஊக்குவிக்கிறது."
+  },
+  {
+    "id": 132,
+    "category": "Corporate Vocabulary",
+    "term": "Onward strategy",
+    "part_of_speech": "noun",
+    "meaning_en": "The future direction and plan for achieving long-term goals.",
+    "meaning_ta": "நீண்ட கால இலக்குகளை அடைவதற்கான எதிர்கால திசையும் திட்டமும்.",
+    "example_en": "Leadership presented the onward strategy for the next five years.",
+    "example_ta": "அடுத்த ஐந்து ஆண்டுகளுக்கான முன்னோக்கிய மூலோபாயத்தை தலைமை வழங்கியது."
+  },
+  {
+    "id": 133,
+    "category": "Corporate Vocabulary",
+    "term": "Core competency",
+    "part_of_speech": "noun",
+    "meaning_en": "A defining capability or advantage that distinguishes a company.",
+    "meaning_ta": "ஒரு நிறுவனத்தை வேறுபடுத்தும் ஒரு முக்கிய திறன் அல்லது நன்மை.",
+    "example_en": "Innovation is one of our core competencies.",
+    "example_ta": "புதுமையானது எங்கள் முக்கிய திறன்களில் ஒன்று."
+  },
+  {
+    "id": 134,
+    "category": "Corporate Vocabulary",
+    "term": "Blue ocean strategy",
+    "part_of_speech": "noun",
+    "meaning_en": "A strategy of creating new, uncontested market space rather than competing in existing markets.",
+    "meaning_ta": "தற்போதைய சந்தைகளில் போட்டியிடுவதற்குப் பதிலாக புதிய, போட்டியற்ற சந்தை இடத்தை உருவாக்கும் ஒரு மூலோபாயம்.",
+    "example_en": "The startup used a blue ocean strategy to avoid direct competition.",
+    "example_ta": "நேரடி போட்டியைத் தவிர்க்க அந்த ஸ்டார்ட்அப் ஒரு புதிய-சந்தை மூலோபாயத்தைப் பயன்படுத்தியது."
+  },
+  {
+    "id": 135,
+    "category": "Corporate Vocabulary",
+    "term": "SWOT analysis",
+    "part_of_speech": "noun",
+    "meaning_en": "A framework for evaluating strengths, weaknesses, opportunities, and threats.",
+    "meaning_ta": "வலிமைகள், பலவீனங்கள், வாய்ப்புகள் மற்றும் அச்சுறுத்தல்களை மதிப்பிடும் ஒரு கட்டமைப்பு.",
+    "example_en": "We conducted a SWOT analysis before entering the new market.",
+    "example_ta": "புதிய சந்தையில் நுழைவதற்கு முன் நாங்கள் ஒரு SWOT பகுப்பாய்வை நடத்தினோம்."
+  },
+  {
+    "id": 136,
+    "category": "Corporate Vocabulary",
+    "term": "Market penetration",
+    "part_of_speech": "noun",
+    "meaning_en": "The extent to which a product is recognized and bought by customers in a market.",
+    "meaning_ta": "ஒரு சந்தையில் வாடிக்கையாளர்களால் ஒரு தயாரிப்பு எவ்வளவு அங்கீகரிக்கப்பட்டு வாங்கப்படுகிறது.",
+    "example_en": "The company is focused on increasing market penetration in Asia.",
+    "example_ta": "ஆசியாவில் சந்தை ஊடுருவலை அதிகரிப்பதில் நிறுவனம் கவனம் செலுத்துகிறது."
+  },
+  {
+    "id": 137,
+    "category": "Corporate Vocabulary",
+    "term": "Economies of scale",
+    "part_of_speech": "noun",
+    "meaning_en": "Cost advantages gained by increasing the scale of production.",
+    "meaning_ta": "உற்பத்தி அளவை அதிகரிப்பதன் மூலம் பெறப்படும் செலவு நன்மைகள்.",
+    "example_en": "Larger factories benefit from economies of scale.",
+    "example_ta": "பெரிய தொழிற்சாலைகள் அளவு பொருளாதாரத்தால் பயனடைகின்றன."
+  },
+  {
+    "id": 138,
+    "category": "Corporate Vocabulary",
+    "term": "Supply chain",
+    "part_of_speech": "noun",
+    "meaning_en": "The network involved in producing and delivering a product.",
+    "meaning_ta": "ஒரு தயாரிப்பை உற்பத்தி செய்து வழங்குவதில் ஈடுபடும் வலையமைப்பு.",
+    "example_en": "The pandemic disrupted global supply chains.",
+    "example_ta": "தொற்றுநோய் உலகளாவிய விநியோகச் சங்கிலிகளை சீர்குலைத்தது."
+  },
+  {
+    "id": 139,
+    "category": "Corporate Vocabulary",
+    "term": "Inventory management",
+    "part_of_speech": "noun",
+    "meaning_en": "The process of ordering, storing, and using a company's stock.",
+    "meaning_ta": "ஒரு நிறுவனத்தின் இருப்பை ஆர்டர் செய்தல், சேமித்தல் மற்றும் பயன்படுத்தும் செயல்முறை.",
+    "example_en": "Better inventory management reduced our storage costs.",
+    "example_ta": "சிறந்த சரக்கு மேலாண்மை எங்கள் சேமிப்பு செலவுகளைக் குறைத்தது."
+  },
+  {
+    "id": 140,
+    "category": "Corporate Vocabulary",
+    "term": "Just-in-time",
+    "part_of_speech": "adjective",
+    "meaning_en": "A production strategy that reduces inventory by receiving goods only as needed.",
+    "meaning_ta": "தேவைப்படும்போது மட்டும் பொருட்களைப் பெறுவதன் மூலம் சரக்கை குறைக்கும் உற்பத்தி மூலோபாயம்.",
+    "example_en": "The factory uses just-in-time delivery to minimize storage costs.",
+    "example_ta": "சேமிப்பு செலவுகளைக் குறைக்க தொழிற்சாலை உடனடி-நேர விநியோகத்தைப் பயன்படுத்துகிறது."
+  },
+  {
+    "id": 141,
+    "category": "Corporate Vocabulary",
+    "term": "Quality assurance",
+    "part_of_speech": "noun",
+    "meaning_en": "The process of ensuring products or services meet required standards.",
+    "meaning_ta": "தயாரிப்புகள் அல்லது சேவைகள் தேவையான தரநிலைகளை பூர்த்தி செய்வதை உறுதி செய்யும் செயல்முறை.",
+    "example_en": "The quality assurance team tests every product before shipping.",
+    "example_ta": "அனுப்புவதற்கு முன் தர உறுதி குழு ஒவ்வொரு தயாரிப்பையும் சோதிக்கிறது."
+  },
+  {
+    "id": 142,
+    "category": "Corporate Vocabulary",
+    "term": "Root cause analysis",
+    "part_of_speech": "noun",
+    "meaning_en": "A method of identifying the underlying cause of a problem.",
+    "meaning_ta": "ஒரு பிரச்சனையின் அடிப்படை காரணத்தை அடையாளம் காணும் முறை.",
+    "example_en": "Root cause analysis revealed a flaw in the manufacturing process.",
+    "example_ta": "மூல காரண பகுப்பாய்வு உற்பத்தி செயல்முறையில் ஒரு குறையை வெளிப்படுத்தியது."
+  },
+  {
+    "id": 143,
+    "category": "Corporate Vocabulary",
+    "term": "Lean methodology",
+    "part_of_speech": "noun",
+    "meaning_en": "An approach focused on minimizing waste while maximizing value.",
+    "meaning_ta": "வீணாக்குதலைக் குறைத்து மதிப்பை அதிகரிப்பதில் கவனம் செலுத்தும் ஒரு அணுகுமுறை.",
+    "example_en": "The company adopted lean methodology to reduce waste in production.",
+    "example_ta": "உற்பத்தியில் வீணாக்குதலைக் குறைக்க நிறுவனம் லீன் முறையை ஏற்றுக்கொண்டது."
+  },
+  {
+    "id": 144,
+    "category": "Corporate Vocabulary",
+    "term": "Six Sigma",
+    "part_of_speech": "noun",
+    "meaning_en": "A set of techniques for process improvement and reducing defects.",
+    "meaning_ta": "செயல்முறை மேம்பாடு மற்றும் குறைபாடுகளைக் குறைப்பதற்கான நுட்பங்களின் தொகுப்பு.",
+    "example_en": "Employees were trained in Six Sigma to improve quality control.",
+    "example_ta": "தர கட்டுப்பாட்டை மேம்படுத்த ஊழியர்களுக்கு சிக்ஸ் சிக்மா பயிற்சி அளிக்கப்பட்டது."
+  },
+  {
+    "id": 145,
+    "category": "Corporate Vocabulary",
+    "term": "Business continuity plan",
+    "part_of_speech": "noun",
+    "meaning_en": "A plan to ensure operations continue during a disruption.",
+    "meaning_ta": "ஒரு இடையூறின் போது செயல்பாடுகள் தொடர்வதை உறுதி செய்யும் திட்டம்.",
+    "example_en": "The company updated its business continuity plan after the flood.",
+    "example_ta": "வெள்ளத்திற்குப் பிறகு நிறுவனம் தன் தொழில் தொடர்ச்சி திட்டத்தை புதுப்பித்தது."
+  },
+  {
+    "id": 146,
+    "category": "Corporate Vocabulary",
+    "term": "Risk assessment",
+    "part_of_speech": "noun",
+    "meaning_en": "The process of identifying and evaluating potential risks.",
+    "meaning_ta": "சாத்தியமான ஆபத்துகளை அடையாளம் கண்டு மதிப்பிடும் செயல்முறை.",
+    "example_en": "A risk assessment was conducted before launching the new product.",
+    "example_ta": "புதிய தயாரிப்பைத் தொடங்குவதற்கு முன் ஒரு ஆபத்து மதிப்பீடு நடத்தப்பட்டது."
+  },
+  {
+    "id": 147,
+    "category": "Corporate Vocabulary",
+    "term": "Contingency plan",
+    "part_of_speech": "noun",
+    "meaning_en": "A backup plan for handling unexpected events.",
+    "meaning_ta": "எதிர்பாராத நிகழ்வுகளைக் கையாள்வதற்கான ஒரு காப்பு திட்டம்.",
+    "example_en": "We have a contingency plan in case the main supplier fails to deliver.",
+    "example_ta": "முக்கிய சப்ளையர் விநியோகிக்கத் தவறினால் எங்களிடம் ஒரு அவசர திட்டம் உள்ளது."
+  },
+  {
+    "id": 148,
+    "category": "Corporate Vocabulary",
+    "term": "Digital transformation",
+    "part_of_speech": "noun",
+    "meaning_en": "The integration of digital technology into all areas of a business.",
+    "meaning_ta": "ஒரு தொழிலின் அனைத்து பகுதிகளிலும் டிஜிட்டல் தொழில்நுட்பத்தை ஒருங்கிணைப்பது.",
+    "example_en": "The bank is undergoing digital transformation to improve customer service.",
+    "example_ta": "வாடிக்கையாளர் சேவையை மேம்படுத்த வங்கி டிஜிட்டல் மாற்றத்திற்கு உட்படுத்தப்படுகிறது."
+  },
+  {
+    "id": 149,
+    "category": "Corporate Vocabulary",
+    "term": "Automation",
+    "part_of_speech": "noun",
+    "meaning_en": "The use of technology to perform tasks with minimal human intervention.",
+    "meaning_ta": "குறைந்தபட்ச மனித தலையீட்டுடன் பணிகளைச் செய்ய தொழில்நுட்பத்தைப் பயன்படுத்துவது.",
+    "example_en": "Automation has reduced manual errors in our billing process.",
+    "example_ta": "தானியங்குமயமாக்கல் எங்கள் பில்லிங் செயல்முறையில் கையேடு பிழைகளைக் குறைத்துள்ளது."
+  },
+  {
+    "id": 150,
+    "category": "Corporate Vocabulary",
+    "term": "Data-driven",
+    "part_of_speech": "adjective",
+    "meaning_en": "Making decisions based on data analysis rather than intuition.",
+    "meaning_ta": "உள்ளுணர்வுக்கு பதிலாக தரவு பகுப்பாய்வின் அடிப்படையில் முடிவெடுப்பது.",
+    "example_en": "We take a data-driven approach to all marketing decisions.",
+    "example_ta": "எல்லா சந்தைப்படுத்தல் முடிவுகளுக்கும் நாங்கள் தரவு அடிப்படையிலான அணுகுமுறையை பின்பற்றுகிறோம்."
+  },
+  {
+    "id": 151,
+    "category": "Corporate Vocabulary",
+    "term": "Dashboard",
+    "part_of_speech": "noun",
+    "meaning_en": "A visual display of key metrics and data for quick analysis.",
+    "meaning_ta": "விரைவான பகுப்பாய்வுக்கான முக்கிய அளவீடுகள் மற்றும் தரவுகளின் காட்சி காட்சி.",
+    "example_en": "The sales dashboard updates in real time.",
+    "example_ta": "விற்பனை டாஷ்போர்டு நேரடியாக புதுப்பிக்கப்படுகிறது."
+  },
+  {
+    "id": 152,
+    "category": "Corporate Vocabulary",
+    "term": "Analytics",
+    "part_of_speech": "noun",
+    "meaning_en": "The systematic analysis of data to gain insights.",
+    "meaning_ta": "நுண்ணறிவைப் பெற தரவின் முறையான பகுப்பாய்வு.",
+    "example_en": "Marketing analytics show which campaigns perform best.",
+    "example_ta": "எந்த பிரச்சாரங்கள் சிறப்பாக செயல்படுகின்றன என்பதை சந்தைப்படுத்தல் பகுப்பாய்வு காட்டுகிறது."
+  },
+  {
+    "id": 153,
+    "category": "Corporate Vocabulary",
+    "term": "Cloud-based",
+    "part_of_speech": "adjective",
+    "meaning_en": "Relating to software or storage hosted on remote servers accessed via the internet.",
+    "meaning_ta": "இணையம் வழியாக அணுகக்கூடிய தொலைநிலை சேவையகங்களில் ஹோஸ்ட் செய்யப்பட்ட மென்பொருள் அல்லது சேமிப்பு தொடர்பான.",
+    "example_en": "We migrated to a cloud-based accounting system last year.",
+    "example_ta": "கடந்த ஆண்டு நாங்கள் ஒரு கிளவுட் அடிப்படையிலான கணக்கியல் அமைப்பிற்கு மாறினோம்."
+  },
+  {
+    "id": 154,
+    "category": "Corporate Vocabulary",
+    "term": "Cybersecurity",
+    "part_of_speech": "noun",
+    "meaning_en": "The practice of protecting systems and data from digital attacks.",
+    "meaning_ta": "டிஜிட்டல் தாக்குதல்களிலிருந்து அமைப்புகளையும் தரவையும் பாதுகாக்கும் நடைமுறை.",
+    "example_en": "The company invested heavily in cybersecurity after the breach.",
+    "example_ta": "மீறலுக்குப் பிறகு நிறுவனம் இணைய பாதுகாப்பில் அதிக முதலீடு செய்தது."
+  },
+  {
+    "id": 155,
+    "category": "Corporate Vocabulary",
+    "term": "Legacy system",
+    "part_of_speech": "noun",
+    "meaning_en": "Outdated computer systems still in use within an organization.",
+    "meaning_ta": "ஒரு நிறுவனத்தில் இன்னும் பயன்பாட்டில் உள்ள பழைய கணினி அமைப்புகள்.",
+    "example_en": "The company is replacing its legacy system with a modern platform.",
+    "example_ta": "நிறுவனம் தன் பழைய அமைப்பை ஒரு நவீன தளத்துடன் மாற்றுகிறது."
+  },
+  {
+    "id": 156,
+    "category": "Corporate Vocabulary",
+    "term": "Onboarding funnel",
+    "part_of_speech": "noun",
+    "meaning_en": "The stages a new user goes through before fully adopting a product.",
+    "meaning_ta": "ஒரு புதிய பயனர் ஒரு தயாரிப்பை முழுமையாக ஏற்றுக்கொள்வதற்கு முன் கடக்கும் நிலைகள்.",
+    "example_en": "We simplified the onboarding funnel to reduce user drop-off.",
+    "example_ta": "பயனர் இழப்பைக் குறைக்க இணைவு செயல்முறையை நாங்கள் எளிமைப்படுத்தினோம்."
+  },
+  {
+    "id": 157,
+    "category": "Corporate Vocabulary",
+    "term": "Sunset a product",
+    "part_of_speech": "verb",
+    "meaning_en": "To discontinue support or production of a product.",
+    "meaning_ta": "ஒரு தயாரிப்புக்கான ஆதரவு அல்லது உற்பத்தியை நிறுத்துவது.",
+    "example_en": "The company decided to sunset the older version of the app.",
+    "example_ta": "செயலியின் பழைய பதிப்பை நிறுத்த நிறுவனம் முடிவு செய்தது."
+  },
+  {
+    "id": 158,
+    "category": "Corporate Vocabulary",
+    "term": "Minimum viable product",
+    "part_of_speech": "noun",
+    "meaning_en": "A basic version of a product with just enough features to satisfy early users.",
+    "meaning_ta": "ஆரம்ப பயனர்களை திருப்திப்படுத்த போதுமான அம்சங்களுடன் ஒரு தயாரிப்பின் அடிப்படை பதிப்பு.",
+    "example_en": "We launched a minimum viable product to test market interest.",
+    "example_ta": "சந்தை ஆர்வத்தை சோதிக்க நாங்கள் ஒரு குறைந்தபட்ச நடைமுறை தயாரிப்பைத் தொடங்கினோம்."
+  },
+  {
+    "id": 159,
+    "category": "Corporate Vocabulary",
+    "term": "Sprint",
+    "part_of_speech": "noun",
+    "meaning_en": "A short, fixed period during which specific work must be completed, common in agile projects.",
+    "meaning_ta": "நெகிழ்வு திட்டங்களில் பொதுவான, குறிப்பிட்ட வேலையை முடிக்க வேண்டிய ஒரு குறுகிய, நிலையான காலம்.",
+    "example_en": "Our team works in two-week sprints.",
+    "example_ta": "எங்கள் குழு இரண்டு வார ஸ்பிரிண்ட்களில் வேலை செய்கிறது."
+  },
+  {
+    "id": 160,
+    "category": "Corporate Vocabulary",
+    "term": "Backlog",
+    "part_of_speech": "noun",
+    "meaning_en": "A list of tasks or features waiting to be worked on.",
+    "meaning_ta": "வேலை செய்ய காத்திருக்கும் பணிகள் அல்லது அம்சங்களின் பட்டியல்.",
+    "example_en": "The new feature request was added to the product backlog.",
+    "example_ta": "புதிய அம்ச கோரிக்கை தயாரிப்பு பின்தொடர் பட்டியலில் சேர்க்கப்பட்டது."
+  },
+  {
+    "id": 161,
+    "category": "Corporate Vocabulary",
+    "term": "Retrospective",
+    "part_of_speech": "noun",
+    "meaning_en": "A meeting held after a project or sprint to review what worked and what didn't.",
+    "meaning_ta": "என்ன வேலை செய்தது, என்ன செய்யவில்லை என்பதை மதிப்பாய்வு செய்ய ஒரு திட்டம் அல்லது ஸ்பிரிண்டிற்குப் பிறகு நடத்தப்படும் கூட்டம்.",
+    "example_en": "We hold a retrospective at the end of every sprint.",
+    "example_ta": "ஒவ்வொரு ஸ்பிரிண்ட் முடிவிலும் நாங்கள் ஒரு பின்நோக்கு கூட்டத்தை நடத்துகிறோம்."
+  },
+  {
+    "id": 162,
+    "category": "Corporate Vocabulary",
+    "term": "Blocker",
+    "part_of_speech": "noun",
+    "meaning_en": "An obstacle preventing progress on a task.",
+    "meaning_ta": "ஒரு பணியில் முன்னேற்றத்தைத் தடுக்கும் ஒரு தடை.",
+    "example_en": "The delayed API access is a major blocker for our team.",
+    "example_ta": "தாமதமான API அணுகல் எங்கள் குழுவிற்கு ஒரு பெரிய தடையாக உள்ளது."
+  },
+  {
+    "id": 163,
+    "category": "Corporate Vocabulary",
+    "term": "Stakeholder mapping",
+    "part_of_speech": "noun",
+    "meaning_en": "Identifying and categorizing people who have an interest in a project.",
+    "meaning_ta": "ஒரு திட்டத்தில் ஆர்வமுள்ளவர்களை அடையாளம் கண்டு வகைப்படுத்துதல்.",
+    "example_en": "Stakeholder mapping helped us prioritize communication efforts.",
+    "example_ta": "பங்குதாரர் வரைபடமாக்கல் எங்கள் தொடர்பு முயற்சிகளுக்கு முன்னுரிமை அளிக்க உதவியது."
+  },
+  {
+    "id": 164,
+    "category": "Corporate Vocabulary",
+    "term": "Onward reporting",
+    "part_of_speech": "noun",
+    "meaning_en": "Continuing to submit updates or reports through a process.",
+    "meaning_ta": "ஒரு செயல்முறை முழுவதும் புதுப்பிப்புகள் அல்லது அறிக்கைகளைத் தொடர்ந்து சமர்ப்பிப்பது.",
+    "example_en": "Onward reporting to leadership is required weekly.",
+    "example_ta": "தலைமைக்கு வாராந்திர அறிக்கை தொடர்ந்து தேவைப்படுகிறது."
+  },
+  {
+    "id": 165,
+    "category": "Corporate Vocabulary",
+    "term": "Thought leader",
+    "part_of_speech": "noun",
+    "meaning_en": "A person recognized as an authoritative expert in a field.",
+    "meaning_ta": "ஒரு துறையில் அதிகாரப்பூர்வ நிபுணராக அங்கீகரிக்கப்பட்ட நபர்.",
+    "example_en": "She's considered a thought leader in sustainable business practices.",
+    "example_ta": "நிலைத்தன்மையான வணிக நடைமுறைகளில் அவள் ஒரு சிந்தனைத் தலைவராகக் கருதப்படுகிறாள்."
+  },
+  {
+    "id": 166,
+    "category": "Corporate Vocabulary",
+    "term": "Best practice",
+    "part_of_speech": "noun",
+    "meaning_en": "A commercial or professional procedure widely accepted as most effective.",
+    "meaning_ta": "மிகவும் திறம்பட்டதாக பரவலாக ஏற்றுக்கொள்ளப்பட்ட ஒரு வணிக அல்லது தொழில்முறை நடைமுறை.",
+    "example_en": "Following industry best practices reduces the risk of errors.",
+    "example_ta": "தொழில் சிறந்த நடைமுறைகளைப் பின்பற்றுவது பிழைகளின் ஆபத்தைக் குறைக்கிறது."
+  },
+  {
+    "id": 167,
+    "category": "Corporate Vocabulary",
+    "term": "Pain point",
+    "part_of_speech": "noun",
+    "meaning_en": "A specific problem that customers or users experience.",
+    "meaning_ta": "வாடிக்கையாளர்கள் அல்லது பயனர்கள் அனுபவிக்கும் ஒரு குறிப்பிட்ட பிரச்சனை.",
+    "example_en": "Slow checkout is a major pain point for online shoppers.",
+    "example_ta": "மெதுவான செக்அவுட் ஆன்லைன் ஷாப்பர்களுக்கு ஒரு முக்கிய பிரச்சனையாகும்."
+  },
+  {
+    "id": 168,
+    "category": "Corporate Vocabulary",
+    "term": "Value chain",
+    "part_of_speech": "noun",
+    "meaning_en": "The full range of activities involved in creating and delivering a product.",
+    "meaning_ta": "ஒரு தயாரிப்பை உருவாக்கி வழங்குவதில் ஈடுபடும் செயல்பாடுகளின் முழு வரம்பு.",
+    "example_en": "The company analyzed its value chain to identify cost savings.",
+    "example_ta": "செலவு சேமிப்புகளை அடையாளம் காண நிறுவனம் தன் மதிப்பு சங்கிலியை பகுப்பாய்வு செய்தது."
+  },
+  {
+    "id": 169,
+    "category": "Corporate Vocabulary",
+    "term": "Onward delegation",
+    "part_of_speech": "noun",
+    "meaning_en": "Assigning a received task to another person or team.",
+    "meaning_ta": "பெறப்பட்ட ஒரு பணியை மற்றொரு நபருக்கு அல்லது குழுவிற்கு ஒப்படைப்பது.",
+    "example_en": "The manager's onward delegation of the request sped up the process.",
+    "example_ta": "மேலாளரின் கோரிக்கையின் மேலொப்படைப்பு செயல்முறையை விரைவுபடுத்தியது."
+  },
+  {
+    "id": 170,
+    "category": "Corporate Vocabulary",
+    "term": "Onboardable",
+    "part_of_speech": "adjective",
+    "meaning_en": "Ready or suitable to be brought into an organization or system.",
+    "meaning_ta": "ஒரு நிறுவனம் அல்லது அமைப்பில் இணைக்கப்படத் தயாராக அல்லது ஏற்றதாக இருத்தல்.",
+    "example_en": "The new hires are fully onboardable starting Monday.",
+    "example_ta": "புதிய ஊழியர்கள் திங்கட்கிழமையிலிருந்து முழுமையாக இணைவதற்குத் தயார்."
+  },
+  {
+    "id": 171,
+    "category": "Corporate Vocabulary",
+    "term": "Client-facing",
+    "part_of_speech": "adjective",
+    "meaning_en": "Involving direct interaction with clients or customers.",
+    "meaning_ta": "வாடிக்கையாளர்களுடன் நேரடி தொடர்பை உள்ளடக்கியது.",
+    "example_en": "This is a client-facing role requiring strong communication skills.",
+    "example_ta": "இது வலுவான தொடர்பு திறன்கள் தேவைப்படும் வாடிக்கையாளர் தொடர்பு பணி."
+  },
+  {
+    "id": 172,
+    "category": "Corporate Vocabulary",
+    "term": "Onward correspondence",
+    "part_of_speech": "noun",
+    "meaning_en": "Ongoing written communication related to a matter.",
+    "meaning_ta": "ஒரு விஷயம் தொடர்பான தொடர் எழுத்துப்பூர்வ தொடர்பு.",
+    "example_en": "Please keep me copied on all onward correspondence with the client.",
+    "example_ta": "வாடிக்கையாளருடனான அனைத்து தொடர்பாடல்களிலும் தயவுசெய்து என்னையும் சேர்த்துக் கொள்ளுங்கள்."
+  },
+  {
+    "id": 173,
+    "category": "Corporate Vocabulary",
+    "term": "Turnkey solution",
+    "part_of_speech": "noun",
+    "meaning_en": "A product or service that is ready to use immediately after installation.",
+    "meaning_ta": "நிறுவப்பட்ட உடனேயே பயன்படுத்தத் தயாராக இருக்கும் ஒரு தயாரிப்பு அல்லது சேவை.",
+    "example_en": "We offer a turnkey solution for small businesses starting online.",
+    "example_ta": "ஆன்லைனில் தொடங்கும் சிறு தொழில்களுக்கு நாங்கள் ஒரு தயார்நிலை தீர்வை வழங்குகிறோம்."
+  },
+  {
+    "id": 174,
+    "category": "Corporate Vocabulary",
+    "term": "Bootstrap",
+    "part_of_speech": "verb",
+    "meaning_en": "To start and grow a business using minimal external funding.",
+    "meaning_ta": "குறைந்தபட்ச வெளிப்புற நிதியுதவியுடன் ஒரு தொழிலைத் தொடங்கி வளர்ப்பது.",
+    "example_en": "The founders bootstrapped the company for its first three years.",
+    "example_ta": "நிறுவனர்கள் முதல் மூன்று ஆண்டுகளுக்கு நிறுவனத்தை சொந்த முதலீட்டில் நடத்தினர்."
+  },
+  {
+    "id": 175,
+    "category": "Corporate Vocabulary",
+    "term": "Burn rate",
+    "part_of_speech": "noun",
+    "meaning_en": "The rate at which a company spends its available cash.",
+    "meaning_ta": "ஒரு நிறுவனம் தன் கிடைக்கும் பணத்தை செலவழிக்கும் விகிதம்.",
+    "example_en": "The startup's burn rate is too high given its current revenue.",
+    "example_ta": "தற்போதைய வருவாயைக் கருத்தில் கொண்டு ஸ்டார்ட்அப்பின் செலவு விகிதம் மிக அதிகமாக உள்ளது."
+  },
+  {
+    "id": 176,
+    "category": "Corporate Vocabulary",
+    "term": "Onward escalation",
+    "part_of_speech": "noun",
+    "meaning_en": "Passing an unresolved issue up to a higher level of authority.",
+    "meaning_ta": "தீர்க்கப்படாத ஒரு பிரச்சனையை உயர் அதிகாரத்திற்கு அனுப்புவது.",
+    "example_en": "Onward escalation to the director is needed for this decision.",
+    "example_ta": "இந்த முடிவுக்கு இயக்குநருக்கு மேல்நிலை தெரிவிப்பு தேவை."
+  },
+  {
+    "id": 177,
+    "category": "Corporate Vocabulary",
+    "term": "White paper",
+    "part_of_speech": "noun",
+    "meaning_en": "An authoritative report or guide that informs readers about a complex issue.",
+    "meaning_ta": "ஒரு சிக்கலான விஷயத்தைப் பற்றி வாசகர்களுக்குத் தெரிவிக்கும் ஒரு அதிகாரப்பூர்வ அறிக்கை அல்லது வழிகாட்டி.",
+    "example_en": "The company published a white paper on renewable energy trends.",
+    "example_ta": "புதுப்பிக்கத்தக்க எரிசக்தி போக்குகள் குறித்து நிறுவனம் ஒரு வெள்ளை அறிக்கையை வெளியிட்டது."
+  },
+  {
+    "id": 178,
+    "category": "Corporate Vocabulary",
+    "term": "Case study",
+    "part_of_speech": "noun",
+    "meaning_en": "A detailed analysis of a particular instance, used to illustrate a broader point.",
+    "meaning_ta": "ஒரு பரந்த கருத்தை விளக்க பயன்படுத்தப்படும் ஒரு குறிப்பிட்ட நிகழ்வின் விரிவான பகுப்பாய்வு.",
+    "example_en": "The sales team uses customer case studies to build trust.",
+    "example_ta": "நம்பிக்கையை உருவாக்க விற்பனைக் குழு வாடிக்கையாளர் வழக்கு ஆய்வுகளைப் பயன்படுத்துகிறது."
+  },
+  {
+    "id": 179,
+    "category": "Corporate Vocabulary",
+    "term": "Onward validation",
+    "part_of_speech": "noun",
+    "meaning_en": "Confirming the accuracy or approval of something as it moves forward.",
+    "meaning_ta": "ஒன்று முன்னேறும்போது அதன் துல்லியத்தை அல்லது ஒப்புதலை உறுதிப்படுத்துதல்.",
+    "example_en": "Onward validation from legal is required before signing.",
+    "example_ta": "கையெழுத்திடுவதற்கு முன் சட்டத் துறையின் ஒப்புதல் தேவை."
+  },
+  {
+    "id": 180,
+    "category": "Corporate Vocabulary",
+    "term": "Synergistic",
+    "part_of_speech": "adjective",
+    "meaning_en": "Producing combined effects greater than the sum of individual effects.",
+    "meaning_ta": "தனிப்பட்ட விளைவுகளின் கூட்டுத்தொகையை விட அதிக கூட்டு விளைவுகளை உருவாக்குதல்.",
+    "example_en": "The partnership was highly synergistic for both companies.",
+    "example_ta": "இந்த கூட்டாண்மை இரு நிறுவனங்களுக்கும் மிகவும் ஒத்துழைப்பானதாக இருந்தது."
+  },
+  {
+    "id": 181,
+    "category": "Corporate Vocabulary",
+    "term": "Bottom line",
+    "part_of_speech": "noun",
+    "meaning_en": "The final total in a financial statement; the essential point.",
+    "meaning_ta": "ஒரு நிதி அறிக்கையில் இறுதி மொத்தம்; அத்தியாவசிய கருத்து.",
+    "example_en": "The bottom line is we need to cut costs this quarter.",
+    "example_ta": "இந்த காலாண்டில் நாம் செலவுகளைக் குறைக்க வேண்டும் என்பதே முக்கிய கருத்து."
+  },
+  {
+    "id": 182,
+    "category": "Corporate Vocabulary",
+    "term": "Ballpark figure",
+    "part_of_speech": "noun",
+    "meaning_en": "An approximate number or estimate.",
+    "meaning_ta": "ஒரு தோராயமான எண் அல்லது மதிப்பீடு.",
+    "example_en": "Can you give me a ballpark figure for the total cost?",
+    "example_ta": "மொத்த செலவுக்கான தோராயமான எண்ணை எனக்குத் தர முடியுமா?"
+  },
+  {
+    "id": 183,
+    "category": "Corporate Vocabulary",
+    "term": "Fast-track",
+    "part_of_speech": "verb",
+    "meaning_en": "To speed up the progress of something.",
+    "meaning_ta": "ஒன்றின் முன்னேற்றத்தை விரைவுபடுத்துவது.",
+    "example_en": "We're fast-tracking the approval process for this client.",
+    "example_ta": "இந்த வாடிக்கையாளருக்கான ஒப்புதல் செயல்முறையை நாங்கள் விரைவுபடுத்துகிறோம்."
+  },
+  {
+    "id": 184,
+    "category": "Corporate Vocabulary",
+    "term": "Game changer",
+    "part_of_speech": "noun",
+    "meaning_en": "Something that significantly alters a situation or industry.",
+    "meaning_ta": "ஒரு சூழ்நிலையை அல்லது தொழிலை கணிசமாக மாற்றும் ஒன்று.",
+    "example_en": "The new technology is a game changer for the logistics industry.",
+    "example_ta": "புதிய தொழில்நுட்பம் தளவாட தொழிலுக்கு ஒரு மாற்றத்தை ஏற்படுத்துவதாக உள்ளது."
+  },
+  {
+    "id": 185,
+    "category": "Corporate Vocabulary",
+    "term": "Onward momentum",
+    "part_of_speech": "noun",
+    "meaning_en": "Continuing forward progress or energy in a project or initiative.",
+    "meaning_ta": "ஒரு திட்டம் அல்லது முயற்சியில் தொடர்ந்து முன்னோக்கிய முன்னேற்றம் அல்லது ஆற்றல்.",
+    "example_en": "The team maintained onward momentum despite the setbacks.",
+    "example_ta": "பின்னடைவுகள் இருந்தபோதிலும் குழு தொடர்ச்சியான முன்னேற்றத்தை பராமரித்தது."
+  },
+  {
+    "id": 186,
+    "category": "Corporate Vocabulary",
+    "term": "Corporate ladder",
+    "part_of_speech": "noun",
+    "meaning_en": "The hierarchy of positions within a company that employees can advance through.",
+    "meaning_ta": "ஊழியர்கள் முன்னேறக்கூடிய ஒரு நிறுவனத்தில் உள்ள பதவிகளின் படிநிலை.",
+    "example_en": "She climbed the corporate ladder quickly, becoming manager within two years.",
+    "example_ta": "இரண்டு ஆண்டுகளுக்குள் மேலாளராக ஆனதன் மூலம் அவள் விரைவாக நிறுவன படிநிலையில் முன்னேறினாள்."
+  },
+  {
+    "id": 187,
+    "category": "Corporate Vocabulary",
+    "term": "Glass ceiling",
+    "part_of_speech": "noun",
+    "meaning_en": "An unofficial barrier preventing certain groups from advancing to senior positions.",
+    "meaning_ta": "சில குழுக்கள் மூத்த பதவிகளுக்கு முன்னேறுவதைத் தடுக்கும் ஒரு அதிகாரப்பூர்வமற்ற தடை.",
+    "example_en": "The company is working to break the glass ceiling for women in leadership.",
+    "example_ta": "தலைமைத்துவத்தில் பெண்களுக்கான கண்ணாடி கூரையை உடைக்க நிறுவனம் முயற்சிக்கிறது."
+  },
+  {
+    "id": 188,
+    "category": "Corporate Vocabulary",
+    "term": "Onward negotiation",
+    "part_of_speech": "noun",
+    "meaning_en": "Continuing discussions to reach an agreement.",
+    "meaning_ta": "ஒரு உடன்பாட்டை அடைய தொடரும் விவாதங்கள்.",
+    "example_en": "Onward negotiation with the vendor is expected to conclude next week.",
+    "example_ta": "விற்பனையாளருடனான தொடர் பேச்சுவார்த்தை அடுத்த வாரம் முடிவடையும் என எதிர்பார்க்கப்படுகிறது."
+  },
+  {
+    "id": 189,
+    "category": "Corporate Vocabulary",
+    "term": "Break-even point",
+    "part_of_speech": "noun",
+    "meaning_en": "The point at which total revenue equals total costs.",
+    "meaning_ta": "மொத்த வருவாய் மொத்த செலவுகளுக்கு சமமாக இருக்கும் புள்ளி.",
+    "example_en": "The business is expected to reach its break-even point next year.",
+    "example_ta": "அடுத்த ஆண்டு தொழில் தன் இலாப-நஷ்டமில்லா புள்ளியை அடையும் என எதிர்பார்க்கப்படுகிறது."
+  },
+  {
+    "id": 190,
+    "category": "Corporate Vocabulary",
+    "term": "Onward feedback",
+    "part_of_speech": "noun",
+    "meaning_en": "Continuing to relay comments or evaluations through a process.",
+    "meaning_ta": "ஒரு செயல்முறை முழுவதும் கருத்துகளை தொடர்ந்து தெரிவிப்பது.",
+    "example_en": "Onward feedback from customers is reviewed weekly by the product team.",
+    "example_ta": "வாடிக்கையாளர்களிடமிருந்து வரும் தொடர் கருத்துகளை தயாரிப்பு குழு வாராந்திரம் மதிப்பாய்வு செய்கிறது."
+  },
+  {
+    "id": 191,
+    "category": "Corporate Vocabulary",
+    "term": "Onward planning cycle",
+    "part_of_speech": "noun",
+    "meaning_en": "A repeated process of setting and reviewing future plans.",
+    "meaning_ta": "எதிர்கால திட்டங்களை அமைத்து மதிப்பாய்வு செய்யும் ஒரு தொடர் செயல்முறை.",
+    "example_en": "The onward planning cycle begins each January.",
+    "example_ta": "முன்னோக்கிய திட்டமிடல் சுழற்சி ஒவ்வொரு ஜனவரியிலும் தொடங்குகிறது."
+  }
+]

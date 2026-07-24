@@ -1,0 +1,1272 @@
+[
+  {
+    "id": 1,
+    "category": "Phrasal Verb",
+    "term": "Break down",
+    "part_of_speech": "",
+    "meaning_en": "To stop functioning (machine); or to lose emotional control.",
+    "meaning_ta": "இயங்குவதை நிறுத்துவது (இயந்திரம்); அல்லது உணர்ச்சிவசப்படுவது.",
+    "example_en": "My car broke down on the way to work this morning.",
+    "example_ta": "இன்று காலை வேலைக்குச் செல்லும் வழியில் என் கார் பழுதடைந்தது."
+  },
+  {
+    "id": 2,
+    "category": "Phrasal Verb",
+    "term": "Bring up",
+    "part_of_speech": "",
+    "meaning_en": "To mention a topic; or to raise a child.",
+    "meaning_ta": "ஒரு விஷயத்தைக் குறிப்பிடுவது; அல்லது ஒரு குழந்தையை வளர்ப்பது.",
+    "example_en": "She brought up the budget issue during the call.",
+    "example_ta": "அழைப்பின்போது அவள் பட்ஜெட் விவகாரத்தைக் குறிப்பிட்டாள்."
+  },
+  {
+    "id": 3,
+    "category": "Phrasal Verb",
+    "term": "Call off",
+    "part_of_speech": "",
+    "meaning_en": "To cancel something.",
+    "meaning_ta": "ஒன்றை ரத்து செய்வது.",
+    "example_en": "They called off the meeting due to the storm.",
+    "example_ta": "புயலின் காரணமாக அவர்கள் கூட்டத்தை ரத்து செய்தனர்."
+  },
+  {
+    "id": 4,
+    "category": "Phrasal Verb",
+    "term": "Carry on",
+    "part_of_speech": "",
+    "meaning_en": "To continue doing something.",
+    "meaning_ta": "ஒன்றைத் தொடர்ந்து செய்வது.",
+    "example_en": "Please carry on with your presentation.",
+    "example_ta": "தயவுசெய்து உங்கள் விளக்கக்காட்சியைத் தொடருங்கள்."
+  },
+  {
+    "id": 5,
+    "category": "Phrasal Verb",
+    "term": "Check in",
+    "part_of_speech": "",
+    "meaning_en": "To register at a hotel or airport; or to see how someone is doing.",
+    "meaning_ta": "ஒரு விடுதி அல்லது விமான நிலையத்தில் பதிவு செய்வது; அல்லது ஒருவரின் நலம் விசாரிப்பது.",
+    "example_en": "We need to check in at the hotel before 3 PM.",
+    "example_ta": "மதியம் 3 மணிக்கு முன் நாங்கள் விடுதியில் பதிவு செய்ய வேண்டும்."
+  },
+  {
+    "id": 6,
+    "category": "Phrasal Verb",
+    "term": "Check out",
+    "part_of_speech": "",
+    "meaning_en": "To leave a hotel after paying; or to examine something.",
+    "meaning_ta": "செலுத்திய பிறகு விடுதியை விட்டு வெளியேறுவது; அல்லது ஒன்றைப் பரிசோதிப்பது.",
+    "example_en": "Guests must check out by noon.",
+    "example_ta": "விருந்தினர்கள் மதியத்திற்குள் விடுதியை காலி செய்ய வேண்டும்."
+  },
+  {
+    "id": 7,
+    "category": "Phrasal Verb",
+    "term": "Cheer up",
+    "part_of_speech": "",
+    "meaning_en": "To become or make someone happier.",
+    "meaning_ta": "மகிழ்ச்சியடைவது அல்லது ஒருவரை மகிழ்விப்பது.",
+    "example_en": "I brought some chocolates to cheer her up.",
+    "example_ta": "அவளை மகிழ்விக்க நான் சில சாக்லேட்டுகளை கொண்டு வந்தேன்."
+  },
+  {
+    "id": 8,
+    "category": "Phrasal Verb",
+    "term": "Come across",
+    "part_of_speech": "",
+    "meaning_en": "To find something by chance; or to give an impression.",
+    "meaning_ta": "தற்செயலாக ஒன்றைக் கண்டறிவது; அல்லது ஒரு தோற்றத்தை ஏற்படுத்துவது.",
+    "example_en": "I came across an old photo while cleaning the attic.",
+    "example_ta": "பாத்தியை சுத்தம் செய்யும் போது ஒரு பழைய புகைப்படத்தை தற்செயலாகக் கண்டேன்."
+  },
+  {
+    "id": 9,
+    "category": "Phrasal Verb",
+    "term": "Come up with",
+    "part_of_speech": "",
+    "meaning_en": "To think of an idea or plan.",
+    "meaning_ta": "ஒரு யோசனை அல்லது திட்டத்தை உருவாக்குவது.",
+    "example_en": "The team came up with a new marketing strategy.",
+    "example_ta": "குழு ஒரு புதிய சந்தைப்படுத்தல் மூலோபாயத்தை உருவாக்கியது."
+  },
+  {
+    "id": 10,
+    "category": "Phrasal Verb",
+    "term": "Cut down on",
+    "part_of_speech": "",
+    "meaning_en": "To reduce the amount of something.",
+    "meaning_ta": "ஒன்றின் அளவைக் குறைப்பது.",
+    "example_en": "He's trying to cut down on sugar.",
+    "example_ta": "அவர் சர்க்கரையைக் குறைக்க முயற்சிக்கிறார்."
+  },
+  {
+    "id": 11,
+    "category": "Phrasal Verb",
+    "term": "Deal with",
+    "part_of_speech": "",
+    "meaning_en": "To handle or manage a situation.",
+    "meaning_ta": "ஒரு சூழ்நிலையைக் கையாள்வது அல்லது நிர்வகிப்பது.",
+    "example_en": "I'll deal with the customer complaint this afternoon.",
+    "example_ta": "இன்று மதியம் நான் வாடிக்கையாளர் புகாரைக் கையாள்வேன்."
+  },
+  {
+    "id": 12,
+    "category": "Phrasal Verb",
+    "term": "Drop by",
+    "part_of_speech": "",
+    "meaning_en": "To visit informally without prior notice.",
+    "meaning_ta": "முன் அறிவிப்பு இல்லாமல் முறைசாராமல் வருகை தருவது.",
+    "example_en": "Feel free to drop by anytime this weekend.",
+    "example_ta": "இந்த வார இறுதியில் எப்போது வேண்டுமானாலும் வரலாம்."
+  },
+  {
+    "id": 13,
+    "category": "Phrasal Verb",
+    "term": "Fall apart",
+    "part_of_speech": "",
+    "meaning_en": "To break into pieces; or to fail emotionally or structurally.",
+    "meaning_ta": "துண்டு துண்டாக உடைவது; அல்லது உணர்ச்சிரீதியாக அல்லது கட்டமைப்பு ரீதியாக தோல்வியடைவது.",
+    "example_en": "The old chair fell apart when he sat on it.",
+    "example_ta": "அவர் அமர்ந்தபோது பழைய நாற்காலி உடைந்துவிட்டது."
+  },
+  {
+    "id": 14,
+    "category": "Phrasal Verb",
+    "term": "Figure out",
+    "part_of_speech": "",
+    "meaning_en": "To understand or solve something.",
+    "meaning_ta": "ஒன்றைப் புரிந்துகொள்வது அல்லது தீர்ப்பது.",
+    "example_en": "I finally figured out how to fix the printer.",
+    "example_ta": "பிரிண்டரை எவ்வாறு சரிசெய்வது என்று இறுதியாகக் கண்டுபிடித்தேன்."
+  },
+  {
+    "id": 15,
+    "category": "Phrasal Verb",
+    "term": "Fill in",
+    "part_of_speech": "",
+    "meaning_en": "To complete a form; or to substitute for someone.",
+    "meaning_ta": "ஒரு படிவத்தை நிரப்புவது; அல்லது ஒருவருக்குப் பதிலாகச் செயல்படுவது.",
+    "example_en": "Please fill in your details on this form.",
+    "example_ta": "இந்தப் படிவத்தில் உங்கள் விவரங்களை நிரப்பவும்."
+  },
+  {
+    "id": 16,
+    "category": "Phrasal Verb",
+    "term": "Find out",
+    "part_of_speech": "",
+    "meaning_en": "To discover information.",
+    "meaning_ta": "தகவலைக் கண்டறிவது.",
+    "example_en": "I need to find out what time the store closes.",
+    "example_ta": "கடை எத்தனை மணிக்கு மூடுகிறது என்று நான் கண்டறிய வேண்டும்."
+  },
+  {
+    "id": 17,
+    "category": "Phrasal Verb",
+    "term": "Get along with",
+    "part_of_speech": "",
+    "meaning_en": "To have a good relationship with someone.",
+    "meaning_ta": "ஒருவருடன் நல்ல உறவைப் பேணுவது.",
+    "example_en": "She gets along with all her colleagues.",
+    "example_ta": "அவள் தன் சக ஊழியர்கள் அனைவருடனும் நன்றாகப் பழகுகிறாள்."
+  },
+  {
+    "id": 18,
+    "category": "Phrasal Verb",
+    "term": "Get away with",
+    "part_of_speech": "",
+    "meaning_en": "To avoid punishment for something wrong.",
+    "meaning_ta": "தவறான ஒன்றுக்கான தண்டனையைத் தவிர்ப்பது.",
+    "example_en": "He got away with being late again.",
+    "example_ta": "மீண்டும் தாமதமாக வந்ததற்கு அவருக்கு தண்டனை ஏதும் இல்லை."
+  },
+  {
+    "id": 19,
+    "category": "Phrasal Verb",
+    "term": "Get back to",
+    "part_of_speech": "",
+    "meaning_en": "To reply to someone later.",
+    "meaning_ta": "பிற்பாடு ஒருவருக்கு பதிலளிப்பது.",
+    "example_en": "I'll get back to you with the details tomorrow.",
+    "example_ta": "நாளை உங்களுக்கு விவரங்களுடன் பதிலளிக்கிறேன்."
+  },
+  {
+    "id": 20,
+    "category": "Phrasal Verb",
+    "term": "Get over",
+    "part_of_speech": "",
+    "meaning_en": "To recover from something, such as an illness or disappointment.",
+    "meaning_ta": "ஒரு நோய் அல்லது ஏமாற்றத்திலிருந்து மீள்வது.",
+    "example_en": "It took her weeks to get over the flu.",
+    "example_ta": "காய்ச்சலிலிருந்து மீள அவளுக்கு பல வாரங்கள் ஆனது."
+  },
+  {
+    "id": 21,
+    "category": "Phrasal Verb",
+    "term": "Get through",
+    "part_of_speech": "",
+    "meaning_en": "To successfully complete or endure something difficult.",
+    "meaning_ta": "ஒரு கடினமான காலகட்டத்தை வெற்றிகரமாக முடிப்பது அல்லது தாங்குவது.",
+    "example_en": "We finally got through the busy season.",
+    "example_ta": "இறுதியாக பரபரப்பான காலகட்டத்தைக் கடந்துவிட்டோம்."
+  },
+  {
+    "id": 22,
+    "category": "Phrasal Verb",
+    "term": "Give up",
+    "part_of_speech": "",
+    "meaning_en": "To stop trying; to quit.",
+    "meaning_ta": "முயற்சி செய்வதை நிறுத்துவது; விட்டுவிடுவது.",
+    "example_en": "Don't give up on your goals.",
+    "example_ta": "உங்கள் இலக்குகளை விட்டுவிடாதீர்கள்."
+  },
+  {
+    "id": 23,
+    "category": "Phrasal Verb",
+    "term": "Go ahead",
+    "part_of_speech": "",
+    "meaning_en": "To proceed with something.",
+    "meaning_ta": "ஒன்றைத் தொடர்வது.",
+    "example_en": "You can go ahead and start the presentation.",
+    "example_ta": "நீங்கள் தொடர்ந்து விளக்கக்காட்சியைத் தொடங்கலாம்."
+  },
+  {
+    "id": 24,
+    "category": "Phrasal Verb",
+    "term": "Go over",
+    "part_of_speech": "",
+    "meaning_en": "To review something carefully.",
+    "meaning_ta": "ஒன்றை கவனமாக மறுஆய்வு செய்வது.",
+    "example_en": "Let's go over the report before the meeting.",
+    "example_ta": "கூட்டத்திற்கு முன் அறிக்கையை மறுஆய்வு செய்வோம்."
+  },
+  {
+    "id": 25,
+    "category": "Phrasal Verb",
+    "term": "Grow up",
+    "part_of_speech": "",
+    "meaning_en": "To become an adult; to mature.",
+    "meaning_ta": "வளர்ந்து பெரியவராவது; முதிர்ச்சி அடைவது.",
+    "example_en": "He grew up in a small village.",
+    "example_ta": "அவர் ஒரு சிறிய கிராமத்தில் வளர்ந்தார்."
+  },
+  {
+    "id": 26,
+    "category": "Phrasal Verb",
+    "term": "Hand in",
+    "part_of_speech": "",
+    "meaning_en": "To submit something, like an assignment.",
+    "meaning_ta": "ஒன்றை சமர்ப்பிப்பது.",
+    "example_en": "Please hand in your reports by Friday.",
+    "example_ta": "தயவுசெய்து வெள்ளிக்கிழமைக்குள் உங்கள் அறிக்கைகளை சமர்ப்பிக்கவும்."
+  },
+  {
+    "id": 27,
+    "category": "Phrasal Verb",
+    "term": "Hang out",
+    "part_of_speech": "",
+    "meaning_en": "To spend time relaxing with others.",
+    "meaning_ta": "மற்றவர்களுடன் ஓய்வாக நேரம் செலவிடுவது.",
+    "example_en": "We usually hang out at the cafe after work.",
+    "example_ta": "வேலை முடிந்த பிறகு நாங்கள் பொதுவாக கஃபேயில் நேரம் செலவிடுவோம்."
+  },
+  {
+    "id": 28,
+    "category": "Phrasal Verb",
+    "term": "Hold on",
+    "part_of_speech": "",
+    "meaning_en": "To wait for a short time.",
+    "meaning_ta": "சிறிது நேரம் காத்திருப்பது.",
+    "example_en": "Hold on a second, I'll be right back.",
+    "example_ta": "ஒரு நிமிடம் காத்திருங்கள், நான் உடனே வருகிறேன்."
+  },
+  {
+    "id": 29,
+    "category": "Phrasal Verb",
+    "term": "Keep up with",
+    "part_of_speech": "",
+    "meaning_en": "To stay at the same level or pace as someone or something.",
+    "meaning_ta": "ஒருவரின் அல்லது ஒன்றின் அதே வேகத்தில் அல்லது நிலையில் இருப்பது.",
+    "example_en": "It's hard to keep up with all the new technology.",
+    "example_ta": "புதிய தொழில்நுட்பங்கள் அனைத்தையும் தொடர்ந்து அறிந்துகொள்வது கடினம்."
+  },
+  {
+    "id": 30,
+    "category": "Phrasal Verb",
+    "term": "Look after",
+    "part_of_speech": "",
+    "meaning_en": "To take care of someone or something.",
+    "meaning_ta": "ஒருவரை அல்லது ஒன்றை கவனித்துக்கொள்வது.",
+    "example_en": "Can you look after my plants while I'm away?",
+    "example_ta": "நான் இல்லாதபோது என் செடிகளைக் கவனித்துக்கொள்ள முடியுமா?"
+  },
+  {
+    "id": 31,
+    "category": "Phrasal Verb",
+    "term": "Look forward to",
+    "part_of_speech": "",
+    "meaning_en": "To feel excited about something that is going to happen.",
+    "meaning_ta": "நடக்கவிருக்கும் ஒன்றைப் பற்றி உற்சாகமாக உணர்வது.",
+    "example_en": "I'm looking forward to the weekend trip.",
+    "example_ta": "வார இறுதி பயணத்திற்காக நான் ஆவலுடன் காத்திருக்கிறேன்."
+  },
+  {
+    "id": 32,
+    "category": "Phrasal Verb",
+    "term": "Look into",
+    "part_of_speech": "",
+    "meaning_en": "To investigate something.",
+    "meaning_ta": "ஒன்றை விசாரிப்பது.",
+    "example_en": "The manager promised to look into the complaint.",
+    "example_ta": "புகாரை விசாரிப்பதாக மேலாளர் வாக்குறுதி அளித்தார்."
+  },
+  {
+    "id": 33,
+    "category": "Phrasal Verb",
+    "term": "Look up",
+    "part_of_speech": "",
+    "meaning_en": "To search for information, e.g. in a book or online.",
+    "meaning_ta": "தகவலைத் தேடுவது, எடுத்துக்காட்டாக ஒரு புத்தகத்தில் அல்லது இணையத்தில்.",
+    "example_en": "I looked up the word in the dictionary.",
+    "example_ta": "நான் அகராதியில் அந்த வார்த்தையைத் தேடினேன்."
+  },
+  {
+    "id": 34,
+    "category": "Phrasal Verb",
+    "term": "Make up",
+    "part_of_speech": "",
+    "meaning_en": "To invent a story; or to reconcile after an argument.",
+    "meaning_ta": "ஒரு கதையை கற்பனை செய்வது; அல்லது வாக்குவாதத்திற்குப் பிறகு சமாதானமாவது.",
+    "example_en": "They made up after their disagreement.",
+    "example_ta": "அவர்கள் கருத்து வேறுபாட்டிற்குப் பிறகு சமாதானமானார்கள்."
+  },
+  {
+    "id": 35,
+    "category": "Phrasal Verb",
+    "term": "Move on",
+    "part_of_speech": "",
+    "meaning_en": "To progress to a new stage; to stop dwelling on something.",
+    "meaning_ta": "ஒரு புதிய நிலைக்கு முன்னேறுவது; ஒன்றைப் பற்றி தொடர்ந்து யோசிக்காமல் இருப்பது.",
+    "example_en": "It's time to move on from this failed project.",
+    "example_ta": "இந்த தோல்வியடைந்த திட்டத்தை விட்டுவிட்டு முன்னேற வேண்டிய நேரம் இது."
+  },
+  {
+    "id": 36,
+    "category": "Phrasal Verb",
+    "term": "Pass away",
+    "part_of_speech": "",
+    "meaning_en": "A polite way to say someone died.",
+    "meaning_ta": "ஒருவர் இறந்துவிட்டார் என்று பணிவாகச் சொல்லும் வழி.",
+    "example_en": "Her grandfather passed away last year.",
+    "example_ta": "அவளுடைய தாத்தா கடந்த ஆண்டு காலமானார்."
+  },
+  {
+    "id": 37,
+    "category": "Phrasal Verb",
+    "term": "Pay off",
+    "part_of_speech": "",
+    "meaning_en": "To be successful or worthwhile in the end.",
+    "meaning_ta": "இறுதியில் வெற்றிகரமாக அல்லது பயனுள்ளதாக இருப்பது.",
+    "example_en": "All her hard work finally paid off.",
+    "example_ta": "அவளுடைய கடின உழைப்பு இறுதியில் பலனளித்தது."
+  },
+  {
+    "id": 38,
+    "category": "Phrasal Verb",
+    "term": "Pick up",
+    "part_of_speech": "",
+    "meaning_en": "To collect someone or something; or to learn casually.",
+    "meaning_ta": "ஒருவரை அல்லது ஒன்றை சேகரிப்பது; அல்லது எளிதாகக் கற்றுக்கொள்வது.",
+    "example_en": "I'll pick you up from the airport.",
+    "example_ta": "நான் உன்னை விமான நிலையத்தில் இருந்து அழைத்துச் செல்கிறேன்."
+  },
+  {
+    "id": 39,
+    "category": "Phrasal Verb",
+    "term": "Point out",
+    "part_of_speech": "",
+    "meaning_en": "To indicate or draw attention to something.",
+    "meaning_ta": "ஒன்றைக் குறிப்பிடுவது அல்லது கவனத்தை ஈர்ப்பது.",
+    "example_en": "She pointed out a mistake in the report.",
+    "example_ta": "அறிக்கையில் இருந்த ஒரு தவறை அவள் சுட்டிக்காட்டினாள்."
+  },
+  {
+    "id": 40,
+    "category": "Phrasal Verb",
+    "term": "Put off",
+    "part_of_speech": "",
+    "meaning_en": "To postpone something.",
+    "meaning_ta": "ஒன்றை ஒத்திவைப்பது.",
+    "example_en": "We had to put off the trip because of the weather.",
+    "example_ta": "வானிலை காரணமாக பயணத்தை ஒத்திவைக்க வேண்டியிருந்தது."
+  },
+  {
+    "id": 41,
+    "category": "Phrasal Verb",
+    "term": "Put up with",
+    "part_of_speech": "",
+    "meaning_en": "To tolerate something unpleasant.",
+    "meaning_ta": "விருப்பமில்லாத ஒன்றைப் பொறுத்துக்கொள்வது.",
+    "example_en": "I can't put up with this noise anymore.",
+    "example_ta": "இந்த சத்தத்தை என்னால் இனி தாங்க முடியாது."
+  },
+  {
+    "id": 42,
+    "category": "Phrasal Verb",
+    "term": "Run into",
+    "part_of_speech": "",
+    "meaning_en": "To meet someone by chance; or to encounter a problem.",
+    "meaning_ta": "தற்செயலாக ஒருவரைச் சந்திப்பது; அல்லது ஒரு பிரச்சனையை எதிர்கொள்வது.",
+    "example_en": "I ran into an old friend at the mall.",
+    "example_ta": "வணிக வளாகத்தில் நான் ஒரு பழைய நண்பரை தற்செயலாகச் சந்தித்தேன்."
+  },
+  {
+    "id": 43,
+    "category": "Phrasal Verb",
+    "term": "Run out of",
+    "part_of_speech": "",
+    "meaning_en": "To have no more of something left.",
+    "meaning_ta": "ஒன்றின் இருப்பு தீர்ந்துபோவது.",
+    "example_en": "We've run out of milk.",
+    "example_ta": "எங்களிடம் பால் தீர்ந்துவிட்டது."
+  },
+  {
+    "id": 44,
+    "category": "Phrasal Verb",
+    "term": "Set up",
+    "part_of_speech": "",
+    "meaning_en": "To arrange or establish something.",
+    "meaning_ta": "ஒன்றை ஏற்பாடு செய்வது அல்லது நிறுவுவது.",
+    "example_en": "They set up a new office in Chennai.",
+    "example_ta": "அவர்கள் சென்னையில் ஒரு புதிய அலுவலகத்தை நிறுவினார்கள்."
+  },
+  {
+    "id": 45,
+    "category": "Phrasal Verb",
+    "term": "Show up",
+    "part_of_speech": "",
+    "meaning_en": "To arrive somewhere, often unexpectedly or late.",
+    "meaning_ta": "எங்காவது வந்து சேருவது, பெரும்பாலும் எதிர்பாராமல் அல்லது தாமதமாக.",
+    "example_en": "He showed up late to the meeting again.",
+    "example_ta": "அவர் மீண்டும் தாமதமாக கூட்டத்திற்கு வந்தார்."
+  },
+  {
+    "id": 46,
+    "category": "Phrasal Verb",
+    "term": "Sort out",
+    "part_of_speech": "",
+    "meaning_en": "To organize or resolve something.",
+    "meaning_ta": "ஒன்றை ஒழுங்குபடுத்துவது அல்லது தீர்ப்பது.",
+    "example_en": "We need to sort out these documents before Monday.",
+    "example_ta": "திங்கட்கிழமைக்கு முன் இந்த ஆவணங்களை ஒழுங்குபடுத்த வேண்டும்."
+  },
+  {
+    "id": 47,
+    "category": "Phrasal Verb",
+    "term": "Stand out",
+    "part_of_speech": "",
+    "meaning_en": "To be noticeably different or better.",
+    "meaning_ta": "குறிப்பிடத்தக்க அளவில் வேறுபட்டதாக அல்லது சிறப்பாக இருப்பது.",
+    "example_en": "Her design really stands out from the rest.",
+    "example_ta": "அவளுடைய வடிவமைப்பு மற்றவற்றிலிருந்து மிகவும் தனித்து நிற்கிறது."
+  },
+  {
+    "id": 48,
+    "category": "Phrasal Verb",
+    "term": "Take after",
+    "part_of_speech": "",
+    "meaning_en": "To resemble a parent or relative.",
+    "meaning_ta": "பெற்றோர் அல்லது உறவினரை ஒத்திருப்பது.",
+    "example_en": "She takes after her mother in personality.",
+    "example_ta": "அவள் குணத்தில் தன் அம்மாவை ஒத்திருக்கிறாள்."
+  },
+  {
+    "id": 49,
+    "category": "Phrasal Verb",
+    "term": "Take off",
+    "part_of_speech": "",
+    "meaning_en": "To remove something (like clothing); or when a plane leaves the ground; or to become successful quickly.",
+    "meaning_ta": "ஒன்றை அகற்றுவது; அல்லது ஒரு விமானம் புறப்படுவது; அல்லது விரைவாக வெற்றி பெறுவது.",
+    "example_en": "The plane will take off in ten minutes.",
+    "example_ta": "விமானம் பத்து நிமிடங்களில் புறப்படும்."
+  },
+  {
+    "id": 50,
+    "category": "Phrasal Verb",
+    "term": "Take over",
+    "part_of_speech": "",
+    "meaning_en": "To assume control of something.",
+    "meaning_ta": "ஒன்றின் கட்டுப்பாட்டை ஏற்றுக்கொள்வது.",
+    "example_en": "She took over the project after the manager left.",
+    "example_ta": "மேலாளர் வெளியேறிய பிறகு அவள் அந்த திட்டத்தை ஏற்றுக்கொண்டாள்."
+  },
+  {
+    "id": 51,
+    "category": "Phrasal Verb",
+    "term": "Turn down",
+    "part_of_speech": "",
+    "meaning_en": "To reject an offer or request.",
+    "meaning_ta": "ஒரு வாய்ப்பு அல்லது கோரிக்கையை நிராகரிப்பது.",
+    "example_en": "He turned down the job offer.",
+    "example_ta": "அவர் அந்த வேலை வாய்ப்பை நிராகரித்தார்."
+  },
+  {
+    "id": 52,
+    "category": "Phrasal Verb",
+    "term": "Turn up",
+    "part_of_speech": "",
+    "meaning_en": "To arrive, especially unexpectedly; or to increase volume/intensity.",
+    "meaning_ta": "வருகை தருவது, குறிப்பாக எதிர்பாராமல்; அல்லது ஒலியை/தீவிரத்தை அதிகரிப்பது.",
+    "example_en": "She turned up an hour late.",
+    "example_ta": "அவள் ஒரு மணி நேரம் தாமதமாக வந்தாள்."
+  },
+  {
+    "id": 53,
+    "category": "Phrasal Verb",
+    "term": "Wake up",
+    "part_of_speech": "",
+    "meaning_en": "To stop sleeping.",
+    "meaning_ta": "தூக்கத்திலிருந்து எழுவது.",
+    "example_en": "I usually wake up at 6 AM.",
+    "example_ta": "நான் பொதுவாக காலை 6 மணிக்கு எழுவேன்."
+  },
+  {
+    "id": 54,
+    "category": "Phrasal Verb",
+    "term": "Work out",
+    "part_of_speech": "",
+    "meaning_en": "To exercise; or to find a solution.",
+    "meaning_ta": "உடற்பயிற்சி செய்வது; அல்லது ஒரு தீர்வைக் கண்டறிவது.",
+    "example_en": "I work out at the gym three times a week.",
+    "example_ta": "நான் வாரத்திற்கு மூன்று முறை உடற்பயிற்சிக் கூடத்தில் பயிற்சி செய்கிறேன்."
+  },
+  {
+    "id": 55,
+    "category": "Phrasal Verb",
+    "term": "Write down",
+    "part_of_speech": "",
+    "meaning_en": "To record something in writing.",
+    "meaning_ta": "ஒன்றை எழுத்து வடிவில் பதிவு செய்வது.",
+    "example_en": "Write down your ideas before you forget them.",
+    "example_ta": "மறந்துவிடும் முன் உங்கள் யோசனைகளை எழுதி வையுங்கள்."
+  },
+  {
+    "id": 56,
+    "category": "Phrasal Verb",
+    "term": "Ask around",
+    "part_of_speech": "",
+    "meaning_en": "To ask several people the same question.",
+    "meaning_ta": "பல நபர்களிடம் ஒரே கேள்வியைக் கேட்பது.",
+    "example_en": "I'll ask around and see if anyone knows a good plumber.",
+    "example_ta": "நான் விசாரித்து ஒரு நல்ல பிளம்பர் தெரியுமா என்று பார்க்கிறேன்."
+  },
+  {
+    "id": 57,
+    "category": "Phrasal Verb",
+    "term": "Back up",
+    "part_of_speech": "",
+    "meaning_en": "To support someone; or to make a copy of data.",
+    "meaning_ta": "ஒருவருக்கு ஆதரவளிப்பது; அல்லது தரவுகளின் நகலை எடுப்பது.",
+    "example_en": "Always back up your files before an update.",
+    "example_ta": "புதுப்பிப்பதற்கு முன் எப்போதும் உங்கள் கோப்புகளின் நகலை எடுங்கள்."
+  },
+  {
+    "id": 58,
+    "category": "Phrasal Verb",
+    "term": "Blow up",
+    "part_of_speech": "",
+    "meaning_en": "To explode; or to suddenly become very angry.",
+    "meaning_ta": "வெடிப்பது; அல்லது திடீரென மிகவும் கோபமடைவது.",
+    "example_en": "He blew up when he heard the news.",
+    "example_ta": "செய்தியைக் கேட்டதும் அவர் திடீரென கோபமடைந்தார்."
+  },
+  {
+    "id": 59,
+    "category": "Phrasal Verb",
+    "term": "Break in",
+    "part_of_speech": "",
+    "meaning_en": "To interrupt; or to enter forcibly.",
+    "meaning_ta": "குறுக்கிடுவது; அல்லது வலுக்கட்டாயமாக நுழைவது.",
+    "example_en": "Someone broke in through the back door last night.",
+    "example_ta": "நேற்று இரவு யாரோ பின் கதவு வழியாக வலுக்கட்டாயமாக நுழைந்தனர்."
+  },
+  {
+    "id": 60,
+    "category": "Phrasal Verb",
+    "term": "Bring about",
+    "part_of_speech": "",
+    "meaning_en": "To cause something to happen.",
+    "meaning_ta": "ஏதோ ஒன்றை நிகழ காரணமாக இருப்பது.",
+    "example_en": "The new policy brought about significant changes.",
+    "example_ta": "புதிய கொள்கை குறிப்பிடத்தக்க மாற்றங்களை ஏற்படுத்தியது."
+  },
+  {
+    "id": 61,
+    "category": "Phrasal Verb",
+    "term": "Build up",
+    "part_of_speech": "",
+    "meaning_en": "To increase gradually.",
+    "meaning_ta": "படிப்படியாக அதிகரிப்பது.",
+    "example_en": "Tension built up between the two teams.",
+    "example_ta": "இரு அணிகளுக்கும் இடையே பதற்றம் அதிகரித்தது."
+  },
+  {
+    "id": 62,
+    "category": "Phrasal Verb",
+    "term": "Butt in",
+    "part_of_speech": "",
+    "meaning_en": "To interrupt a conversation rudely.",
+    "meaning_ta": "ஒரு உரையாடலில் முரட்டுத்தனமாக குறுக்கிடுவது.",
+    "example_en": "Sorry to butt in, but I have an important update.",
+    "example_ta": "குறுக்கிட்டதற்கு மன்னிக்கவும், ஆனால் எனக்கு ஒரு முக்கியமான புதுப்பிப்பு உள்ளது."
+  },
+  {
+    "id": 63,
+    "category": "Phrasal Verb",
+    "term": "Calm down",
+    "part_of_speech": "",
+    "meaning_en": "To become or make someone less angry or upset.",
+    "meaning_ta": "கோபம் அல்லது வருத்தம் குறைதல்.",
+    "example_en": "Take a breath and calm down before you respond.",
+    "example_ta": "பதிலளிக்கும் முன் ஆழ்ந்த மூச்சு விட்டு அமைதியாகு."
+  },
+  {
+    "id": 64,
+    "category": "Phrasal Verb",
+    "term": "Carry out",
+    "part_of_speech": "",
+    "meaning_en": "To perform or complete a task.",
+    "meaning_ta": "ஒரு பணியைச் செய்வது அல்லது முடிப்பது.",
+    "example_en": "The team carried out the experiment successfully.",
+    "example_ta": "குழு சோதனையை வெற்றிகரமாக நடத்தியது."
+  },
+  {
+    "id": 65,
+    "category": "Phrasal Verb",
+    "term": "Catch up",
+    "part_of_speech": "",
+    "meaning_en": "To reach the same level as someone; or to update on news.",
+    "meaning_ta": "ஒருவரின் அதே நிலையை அடைவது; அல்லது செய்திகளைப் பகிர்ந்துகொள்வது.",
+    "example_en": "Let's catch up over coffee next week.",
+    "example_ta": "அடுத்த வாரம் காபி அருந்தும்போது பேசலாம்."
+  },
+  {
+    "id": 66,
+    "category": "Phrasal Verb",
+    "term": "Clean up",
+    "part_of_speech": "",
+    "meaning_en": "To make something clean and tidy.",
+    "meaning_ta": "ஒன்றை சுத்தமாகவும் ஒழுங்காகவும் ஆக்குவது.",
+    "example_en": "We need to clean up the office before the client visits.",
+    "example_ta": "வாடிக்கையாளர் வருவதற்கு முன் அலுவலகத்தை சுத்தம் செய்ய வேண்டும்."
+  },
+  {
+    "id": 67,
+    "category": "Phrasal Verb",
+    "term": "Close down",
+    "part_of_speech": "",
+    "meaning_en": "To stop operating permanently.",
+    "meaning_ta": "நிரந்தரமாக செயல்படுவதை நிறுத்துவது.",
+    "example_en": "The old factory closed down last year.",
+    "example_ta": "பழைய தொழிற்சாலை கடந்த ஆண்டு மூடப்பட்டது."
+  },
+  {
+    "id": 68,
+    "category": "Phrasal Verb",
+    "term": "Come back",
+    "part_of_speech": "",
+    "meaning_en": "To return to a place.",
+    "meaning_ta": "ஒரு இடத்திற்குத் திரும்புவது.",
+    "example_en": "She'll come back from her trip next Monday.",
+    "example_ta": "அவள் அடுத்த திங்கட்கிழமை தன் பயணத்திலிருந்து திரும்புவாள்."
+  },
+  {
+    "id": 69,
+    "category": "Phrasal Verb",
+    "term": "Come in",
+    "part_of_speech": "",
+    "meaning_en": "To enter a place.",
+    "meaning_ta": "ஒரு இடத்திற்குள் நுழைவது.",
+    "example_en": "Please come in and take a seat.",
+    "example_ta": "தயவுசெய்து உள்ளே வந்து அமருங்கள்."
+  },
+  {
+    "id": 70,
+    "category": "Phrasal Verb",
+    "term": "Cool down",
+    "part_of_speech": "",
+    "meaning_en": "To become calmer or lower in temperature.",
+    "meaning_ta": "அமைதியாவது அல்லது வெப்பநிலை குறைவது.",
+    "example_en": "Let the soup cool down before you serve it.",
+    "example_ta": "சூப்பை பரிமாறும் முன் அதை ஆற வையுங்கள்."
+  },
+  {
+    "id": 71,
+    "category": "Phrasal Verb",
+    "term": "Count on",
+    "part_of_speech": "",
+    "meaning_en": "To rely on someone or something.",
+    "meaning_ta": "ஒருவரை அல்லது ஒன்றை நம்பியிருப்பது.",
+    "example_en": "You can always count on him to help.",
+    "example_ta": "உதவிக்கு நீங்கள் எப்போதும் அவரை நம்பலாம்."
+  },
+  {
+    "id": 72,
+    "category": "Phrasal Verb",
+    "term": "Cut off",
+    "part_of_speech": "",
+    "meaning_en": "To interrupt or disconnect something.",
+    "meaning_ta": "ஒன்றை குறுக்கிடுவது அல்லது துண்டிப்பது.",
+    "example_en": "The call got cut off due to poor signal.",
+    "example_ta": "சிக்னல் பலவீனமாக இருந்ததால் அழைப்பு துண்டிக்கப்பட்டது."
+  },
+  {
+    "id": 73,
+    "category": "Phrasal Verb",
+    "term": "Dress up",
+    "part_of_speech": "",
+    "meaning_en": "To wear formal or special clothes.",
+    "meaning_ta": "முறையான அல்லது சிறப்பு ஆடைகளை அணிவது.",
+    "example_en": "We're dressing up for the office party tonight.",
+    "example_ta": "இன்று இரவு அலுவலக விருந்திற்காக நாங்கள் சிறப்பாக உடை அணிகிறோம்."
+  },
+  {
+    "id": 74,
+    "category": "Phrasal Verb",
+    "term": "Drop off",
+    "part_of_speech": "",
+    "meaning_en": "To deliver someone or something; or to fall asleep.",
+    "meaning_ta": "ஒருவரை அல்லது ஒன்றை கொண்டு சேர்ப்பது; அல்லது தூங்கிவிடுவது.",
+    "example_en": "I'll drop off the documents at your office.",
+    "example_ta": "உங்கள் அலுவலகத்தில் ஆவணங்களை கொண்டு சேர்க்கிறேன்."
+  },
+  {
+    "id": 75,
+    "category": "Phrasal Verb",
+    "term": "Eat out",
+    "part_of_speech": "",
+    "meaning_en": "To eat at a restaurant instead of at home.",
+    "meaning_ta": "வீட்டிற்குப் பதிலாக ஒரு உணவகத்தில் சாப்பிடுவது.",
+    "example_en": "We usually eat out on Fridays.",
+    "example_ta": "வெள்ளிக்கிழமைகளில் நாங்கள் பொதுவாக வெளியில் சாப்பிடுவோம்."
+  },
+  {
+    "id": 76,
+    "category": "Phrasal Verb",
+    "term": "End up",
+    "part_of_speech": "",
+    "meaning_en": "To eventually reach a particular state or place.",
+    "meaning_ta": "இறுதியாக ஒரு குறிப்பிட்ட நிலையை அல்லது இடத்தை அடைவது.",
+    "example_en": "We ended up staying at the office until midnight.",
+    "example_ta": "இறுதியில் நள்ளிரவு வரை அலுவலகத்தில் தங்கியிருக்க வேண்டியிருந்தது."
+  },
+  {
+    "id": 77,
+    "category": "Phrasal Verb",
+    "term": "Face up to",
+    "part_of_speech": "",
+    "meaning_en": "To accept and deal with a difficult truth.",
+    "meaning_ta": "ஒரு கடினமான உண்மையை ஏற்று சமாளிப்பது.",
+    "example_en": "He needs to face up to his mistakes.",
+    "example_ta": "அவர் தன் தவறுகளை ஏற்றுக்கொள்ள வேண்டும்."
+  },
+  {
+    "id": 78,
+    "category": "Phrasal Verb",
+    "term": "Fall behind",
+    "part_of_speech": "",
+    "meaning_en": "To fail to keep up with a schedule or others.",
+    "meaning_ta": "ஒரு அட்டவணை அல்லது மற்றவர்களுடன் ஒத்திசைவு தவறுவது.",
+    "example_en": "We've fallen behind on the project timeline.",
+    "example_ta": "திட்ட காலவரிசையில் நாம் பின்தங்கிவிட்டோம்."
+  },
+  {
+    "id": 79,
+    "category": "Phrasal Verb",
+    "term": "Follow up",
+    "part_of_speech": "",
+    "meaning_en": "To take further action related to a previous discussion.",
+    "meaning_ta": "முந்தைய விவாதம் தொடர்பாக மேலும் நடவடிக்கை எடுப்பது.",
+    "example_en": "I'll follow up with the client tomorrow.",
+    "example_ta": "நாளை நான் வாடிக்கையாளருடன் தொடர்பு கொள்வேன்."
+  },
+  {
+    "id": 80,
+    "category": "Phrasal Verb",
+    "term": "Get in",
+    "part_of_speech": "",
+    "meaning_en": "To enter a vehicle or place.",
+    "meaning_ta": "ஒரு வாகனம் அல்லது இடத்திற்குள் நுழைவது.",
+    "example_en": "Get in the car, we're leaving now.",
+    "example_ta": "காரில் ஏறு, இப்போதே கிளம்புகிறோம்."
+  },
+  {
+    "id": 81,
+    "category": "Phrasal Verb",
+    "term": "Get off",
+    "part_of_speech": "",
+    "meaning_en": "To leave a vehicle; or to finish work.",
+    "meaning_ta": "ஒரு வாகனத்திலிருந்து இறங்குவது; அல்லது வேலை முடிவது.",
+    "example_en": "I get off work at 6 PM.",
+    "example_ta": "நான் மாலை 6 மணிக்கு வேலையிலிருந்து விடுவேன்."
+  },
+  {
+    "id": 82,
+    "category": "Phrasal Verb",
+    "term": "Get on",
+    "part_of_speech": "",
+    "meaning_en": "To board a vehicle; or to have a good relationship.",
+    "meaning_ta": "ஒரு வாகனத்தில் ஏறுவது; அல்லது நல்ல உறவைப் பேணுவது.",
+    "example_en": "We got on the bus just in time.",
+    "example_ta": "நேரத்திற்கு சரியாக நாங்கள் பேருந்தில் ஏறினோம்."
+  },
+  {
+    "id": 83,
+    "category": "Phrasal Verb",
+    "term": "Get out of",
+    "part_of_speech": "",
+    "meaning_en": "To avoid doing something; or to leave a place.",
+    "meaning_ta": "ஒன்றைச் செய்வதைத் தவிர்ப்பது; அல்லது ஒரு இடத்தை விட்டு வெளியேறுவது.",
+    "example_en": "He tried to get out of attending the meeting.",
+    "example_ta": "கூட்டத்தில் கலந்துகொள்வதை அவர் தவிர்க்க முயன்றார்."
+  },
+  {
+    "id": 84,
+    "category": "Phrasal Verb",
+    "term": "Give away",
+    "part_of_speech": "",
+    "meaning_en": "To give something for free; or to reveal a secret.",
+    "meaning_ta": "ஒன்றை இலவசமாகக் கொடுப்பது; அல்லது ஒரு ரகசியத்தை வெளிப்படுத்துவது.",
+    "example_en": "Don't give away the ending of the movie.",
+    "example_ta": "திரைப்படத்தின் முடிவை வெளியிடாதே."
+  },
+  {
+    "id": 85,
+    "category": "Phrasal Verb",
+    "term": "Give back",
+    "part_of_speech": "",
+    "meaning_en": "To return something to its owner.",
+    "meaning_ta": "ஒன்றை உரிமையாளரிடம் திருப்பிக் கொடுப்பது.",
+    "example_en": "Please give back the book when you're done.",
+    "example_ta": "படித்து முடித்தவுடன் புத்தகத்தைத் திருப்பிக் கொடுங்கள்."
+  },
+  {
+    "id": 86,
+    "category": "Phrasal Verb",
+    "term": "Go on",
+    "part_of_speech": "",
+    "meaning_en": "To continue; or to happen.",
+    "meaning_ta": "தொடர்வது; அல்லது நடப்பது.",
+    "example_en": "What's going on in the office today?",
+    "example_ta": "இன்று அலுவலகத்தில் என்ன நடக்கிறது?"
+  },
+  {
+    "id": 87,
+    "category": "Phrasal Verb",
+    "term": "Go out",
+    "part_of_speech": "",
+    "meaning_en": "To leave home for a social activity.",
+    "meaning_ta": "ஒரு சமூக செயலுக்காக வீட்டை விட்டு வெளியேறுவது.",
+    "example_en": "We're going out for dinner tonight.",
+    "example_ta": "இன்று இரவு நாங்கள் வெளியில் சாப்பிட செல்கிறோம்."
+  },
+  {
+    "id": 88,
+    "category": "Phrasal Verb",
+    "term": "Grow out of",
+    "part_of_speech": "",
+    "meaning_en": "To become too old or mature for something.",
+    "meaning_ta": "ஒன்றுக்கு மிகவும் வயதானதாக அல்லது முதிர்ச்சியடைந்ததாக மாறுவது.",
+    "example_en": "She grew out of that habit years ago.",
+    "example_ta": "பல ஆண்டுகளுக்கு முன்பே அவள் அந்த பழக்கத்தை விட்டுவிட்டாள்."
+  },
+  {
+    "id": 89,
+    "category": "Phrasal Verb",
+    "term": "Hang on",
+    "part_of_speech": "",
+    "meaning_en": "To wait; to hold tightly.",
+    "meaning_ta": "காத்திருப்பது; இறுக்கமாகப் பிடித்துக்கொள்வது.",
+    "example_en": "Hang on, let me check the schedule.",
+    "example_ta": "காத்திருங்கள், அட்டவணையைப் பார்க்கிறேன்."
+  },
+  {
+    "id": 90,
+    "category": "Phrasal Verb",
+    "term": "Hang up",
+    "part_of_speech": "",
+    "meaning_en": "To end a phone call.",
+    "meaning_ta": "ஒரு தொலைபேசி அழைப்பை முடிப்பது.",
+    "example_en": "She hung up before I could finish speaking.",
+    "example_ta": "நான் பேசி முடிப்பதற்கு முன்பே அவள் அழைப்பை துண்டித்தாள்."
+  },
+  {
+    "id": 91,
+    "category": "Phrasal Verb",
+    "term": "Hold back",
+    "part_of_speech": "",
+    "meaning_en": "To restrain oneself or something; to hesitate.",
+    "meaning_ta": "தன்னை அல்லது ஒன்றை கட்டுப்படுத்துவது; தயங்குவது.",
+    "example_en": "He held back his true feelings during the meeting.",
+    "example_ta": "கூட்டத்தின் போது அவர் தன் உண்மையான உணர்வுகளை வெளிப்படுத்தவில்லை."
+  },
+  {
+    "id": 92,
+    "category": "Phrasal Verb",
+    "term": "Hold up",
+    "part_of_speech": "",
+    "meaning_en": "To delay something; or to remain strong.",
+    "meaning_ta": "ஒன்றைத் தாமதப்படுத்துவது; அல்லது வலிமையாக இருப்பது.",
+    "example_en": "The traffic held us up for an hour.",
+    "example_ta": "போக்குவரத்து எங்களை ஒரு மணி நேரம் தாமதப்படுத்தியது."
+  },
+  {
+    "id": 93,
+    "category": "Phrasal Verb",
+    "term": "Keep on",
+    "part_of_speech": "",
+    "meaning_en": "To continue doing something.",
+    "meaning_ta": "ஒன்றைத் தொடர்ந்து செய்வது.",
+    "example_en": "She kept on working despite the noise.",
+    "example_ta": "சத்தம் இருந்தபோதிலும் அவள் தொடர்ந்து வேலை செய்தாள்."
+  },
+  {
+    "id": 94,
+    "category": "Phrasal Verb",
+    "term": "Knock out",
+    "part_of_speech": "",
+    "meaning_en": "To make someone unconscious; or to eliminate from a competition.",
+    "meaning_ta": "ஒருவரை மயக்கமடையச் செய்வது; அல்லது ஒரு போட்டியில் இருந்து நீக்குவது.",
+    "example_en": "The champion was knocked out in the second round.",
+    "example_ta": "இரண்டாவது சுற்றில் சாம்பியன் தோற்கடிக்கப்பட்டார்."
+  },
+  {
+    "id": 95,
+    "category": "Phrasal Verb",
+    "term": "Lay off",
+    "part_of_speech": "",
+    "meaning_en": "To dismiss employees from a job, usually due to lack of work.",
+    "meaning_ta": "பணி இல்லாததால் பொதுவாக ஊழியர்களை வேலையிலிருந்து நீக்குவது.",
+    "example_en": "The company had to lay off 50 employees.",
+    "example_ta": "நிறுவனம் 50 ஊழியர்களை பணிநீக்கம் செய்ய வேண்டியிருந்தது."
+  },
+  {
+    "id": 96,
+    "category": "Phrasal Verb",
+    "term": "Leave out",
+    "part_of_speech": "",
+    "meaning_en": "To omit or exclude something.",
+    "meaning_ta": "ஒன்றை விட்டுவிடுவது அல்லது விலக்குவது.",
+    "example_en": "You left out an important detail in the report.",
+    "example_ta": "அறிக்கையில் ஒரு முக்கியமான விவரத்தை நீ விட்டுவிட்டாய்."
+  },
+  {
+    "id": 97,
+    "category": "Phrasal Verb",
+    "term": "Let down",
+    "part_of_speech": "",
+    "meaning_en": "To disappoint someone.",
+    "meaning_ta": "ஒருவரை ஏமாற்றுவது.",
+    "example_en": "I don't want to let my team down.",
+    "example_ta": "என் அணியை நான் ஏமாற்ற விரும்பவில்லை."
+  },
+  {
+    "id": 98,
+    "category": "Phrasal Verb",
+    "term": "Live up to",
+    "part_of_speech": "",
+    "meaning_en": "To meet expectations.",
+    "meaning_ta": "எதிர்பார்ப்புகளை நிறைவேற்றுவது.",
+    "example_en": "The product didn't live up to our expectations.",
+    "example_ta": "தயாரிப்பு எங்கள் எதிர்பார்ப்புகளை பூர்த்தி செய்யவில்லை."
+  },
+  {
+    "id": 99,
+    "category": "Phrasal Verb",
+    "term": "Log in",
+    "part_of_speech": "",
+    "meaning_en": "To access a computer system or account.",
+    "meaning_ta": "ஒரு கணினி அமைப்பு அல்லது கணக்கில் நுழைவது.",
+    "example_en": "You need a password to log in to the portal.",
+    "example_ta": "போர்ட்டலில் நுழைய உங்களுக்கு கடவுச்சொல் தேவை."
+  },
+  {
+    "id": 100,
+    "category": "Phrasal Verb",
+    "term": "Log out",
+    "part_of_speech": "",
+    "meaning_en": "To exit a computer system or account.",
+    "meaning_ta": "ஒரு கணினி அமைப்பு அல்லது கணக்கிலிருந்து வெளியேறுவது.",
+    "example_en": "Remember to log out after using the shared computer.",
+    "example_ta": "பகிரப்பட்ட கணினியைப் பயன்படுத்திய பிறகு வெளியேற மறவாதீர்கள்."
+  },
+  {
+    "id": 101,
+    "category": "Phrasal Verb",
+    "term": "Look down on",
+    "part_of_speech": "",
+    "meaning_en": "To consider someone inferior.",
+    "meaning_ta": "ஒருவரை தாழ்வானவராகக் கருதுவது.",
+    "example_en": "He never looks down on people who ask for help.",
+    "example_ta": "உதவி கேட்பவர்களை அவர் ஒருபோதும் தாழ்வாகக் கருதுவதில்லை."
+  },
+  {
+    "id": 102,
+    "category": "Phrasal Verb",
+    "term": "Look out for",
+    "part_of_speech": "",
+    "meaning_en": "To be watchful for something or someone.",
+    "meaning_ta": "ஒன்றை அல்லது ஒருவரை எச்சரிக்கையுடன் கவனிப்பது.",
+    "example_en": "Look out for scam emails in your inbox.",
+    "example_ta": "உங்கள் இன்பாக்ஸில் மோசடி மின்னஞ்சல்களைக் கவனியுங்கள்."
+  },
+  {
+    "id": 103,
+    "category": "Phrasal Verb",
+    "term": "Make out",
+    "part_of_speech": "",
+    "meaning_en": "To understand or perceive with difficulty.",
+    "meaning_ta": "கடினமாக ஒன்றைப் புரிந்துகொள்வது அல்லது உணர்வது.",
+    "example_en": "I could barely make out what he was saying.",
+    "example_ta": "அவர் என்ன சொல்கிறார் என்று எனக்கு அரிதாகவே புரிந்தது."
+  },
+  {
+    "id": 104,
+    "category": "Phrasal Verb",
+    "term": "Mix up",
+    "part_of_speech": "",
+    "meaning_en": "To confuse one thing with another.",
+    "meaning_ta": "ஒன்றை மற்றொன்றுடன் குழப்புவது.",
+    "example_en": "I always mix up their names, they look so alike.",
+    "example_ta": "நான் எப்போதும் அவர்களது பெயர்களை குழப்புகிறேன், அவர்கள் மிகவும் ஒரே மாதிரி இருக்கிறார்கள்."
+  },
+  {
+    "id": 105,
+    "category": "Phrasal Verb",
+    "term": "Pass out",
+    "part_of_speech": "",
+    "meaning_en": "To faint; or to distribute something.",
+    "meaning_ta": "மயங்கி விழுவது; அல்லது ஒன்றை பகிர்ந்தளிப்பது.",
+    "example_en": "She passed out from the heat.",
+    "example_ta": "வெப்பத்தால் அவள் மயங்கி விழுந்தாள்."
+  },
+  {
+    "id": 106,
+    "category": "Phrasal Verb",
+    "term": "Pick out",
+    "part_of_speech": "",
+    "meaning_en": "To choose or select something.",
+    "meaning_ta": "ஒன்றைத் தேர்ந்தெடுப்பது.",
+    "example_en": "He picked out a gift for his sister.",
+    "example_ta": "அவர் தன் சகோதரிக்காக ஒரு பரிசைத் தேர்ந்தெடுத்தார்."
+  },
+  {
+    "id": 107,
+    "category": "Phrasal Verb",
+    "term": "Put away",
+    "part_of_speech": "",
+    "meaning_en": "To place something in its proper storage place.",
+    "meaning_ta": "ஒன்றை அதற்குரிய இடத்தில் வைப்பது.",
+    "example_en": "Put away your toys before dinner.",
+    "example_ta": "இரவு உணவுக்கு முன் உங்கள் விளையாட்டுப் பொருட்களை எடுத்து வைக்கவும்."
+  },
+  {
+    "id": 108,
+    "category": "Phrasal Verb",
+    "term": "Put on",
+    "part_of_speech": "",
+    "meaning_en": "To wear clothing; or to gain weight.",
+    "meaning_ta": "ஆடை அணிவது; அல்லது எடை அதிகரிப்பது.",
+    "example_en": "Put on your jacket, it's cold outside.",
+    "example_ta": "உன் ஜாக்கெட்டை அணிந்துகொள், வெளியே குளிராக இருக்கிறது."
+  },
+  {
+    "id": 109,
+    "category": "Phrasal Verb",
+    "term": "Set off",
+    "part_of_speech": "",
+    "meaning_en": "To begin a journey; or to trigger something.",
+    "meaning_ta": "ஒரு பயணத்தைத் தொடங்குவது; அல்லது ஒன்றைத் தூண்டுவது.",
+    "example_en": "We set off early to avoid traffic.",
+    "example_ta": "போக்குவரத்தைத் தவிர்க்க நாங்கள் சீக்கிரமே கிளம்பினோம்."
+  },
+  {
+    "id": 110,
+    "category": "Phrasal Verb",
+    "term": "Settle down",
+    "part_of_speech": "",
+    "meaning_en": "To become calm; or to establish a stable life.",
+    "meaning_ta": "அமைதியடைவது; அல்லது ஒரு நிலையான வாழ்க்கையை அமைப்பது.",
+    "example_en": "After years of traveling, he decided to settle down.",
+    "example_ta": "பல ஆண்டுகள் பயணம் செய்த பிறகு, அவர் நிலைத்திருக்க முடிவு செய்தார்."
+  },
+  {
+    "id": 111,
+    "category": "Phrasal Verb",
+    "term": "Slow down",
+    "part_of_speech": "",
+    "meaning_en": "To reduce speed or pace.",
+    "meaning_ta": "வேகத்தைக் குறைப்பது.",
+    "example_en": "Please slow down, this road is dangerous.",
+    "example_ta": "தயவுசெய்து மெதுவாக ஓட்டுங்கள், இந்த சாலை ஆபத்தானது."
+  },
+  {
+    "id": 112,
+    "category": "Phrasal Verb",
+    "term": "Speed up",
+    "part_of_speech": "",
+    "meaning_en": "To increase speed or pace.",
+    "meaning_ta": "வேகத்தை அதிகரிப்பது.",
+    "example_en": "We need to speed up the delivery process.",
+    "example_ta": "நாம் விநியோக செயல்முறையை வேகப்படுத்த வேண்டும்."
+  },
+  {
+    "id": 113,
+    "category": "Phrasal Verb",
+    "term": "Stand by",
+    "part_of_speech": "",
+    "meaning_en": "To wait ready to act; or to support someone.",
+    "meaning_ta": "செயல்பட தயாராக காத்திருப்பது; அல்லது ஒருவருக்கு ஆதரவளிப்பது.",
+    "example_en": "The rescue team stood by in case of emergency.",
+    "example_ta": "அவசரகாலத்திற்காக மீட்புக் குழு தயார் நிலையில் இருந்தது."
+  },
+  {
+    "id": 114,
+    "category": "Phrasal Verb",
+    "term": "Stick to",
+    "part_of_speech": "",
+    "meaning_en": "To continue following a plan or decision.",
+    "meaning_ta": "ஒரு திட்டம் அல்லது முடிவைத் தொடர்ந்து பின்பற்றுவது.",
+    "example_en": "It's important to stick to the schedule.",
+    "example_ta": "அட்டவணையை பின்பற்றுவது முக்கியம்."
+  },
+  {
+    "id": 115,
+    "category": "Phrasal Verb",
+    "term": "Switch off",
+    "part_of_speech": "",
+    "meaning_en": "To turn off a device.",
+    "meaning_ta": "ஒரு சாதனத்தை அணைப்பது.",
+    "example_en": "Please switch off the lights when you leave.",
+    "example_ta": "நீங்கள் வெளியேறும்போது விளக்குகளை அணைக்கவும்."
+  },
+  {
+    "id": 116,
+    "category": "Phrasal Verb",
+    "term": "Switch on",
+    "part_of_speech": "",
+    "meaning_en": "To turn on a device.",
+    "meaning_ta": "ஒரு சாதனத்தை இயக்குவது.",
+    "example_en": "Switch on the fan, it's hot in here.",
+    "example_ta": "மின்விசிறியை இயக்கு, இங்கே சூடாக இருக்கிறது."
+  },
+  {
+    "id": 117,
+    "category": "Phrasal Verb",
+    "term": "Take back",
+    "part_of_speech": "",
+    "meaning_en": "To retract a statement; or to return something.",
+    "meaning_ta": "ஒரு கூற்றைத் திரும்பப் பெறுவது; அல்லது ஒன்றைத் திருப்பிக் கொடுப்பது.",
+    "example_en": "I take back what I said earlier, I was wrong.",
+    "example_ta": "நான் முன்பு சொன்னதை திரும்பப் பெறுகிறேன், நான் தவறாக இருந்தேன்."
+  },
+  {
+    "id": 118,
+    "category": "Phrasal Verb",
+    "term": "Talk over",
+    "part_of_speech": "",
+    "meaning_en": "To discuss something thoroughly.",
+    "meaning_ta": "ஒன்றை முழுமையாக விவாதிப்பது.",
+    "example_en": "Let's talk over the proposal before deciding.",
+    "example_ta": "முடிவெடுப்பதற்கு முன் திட்டமுன்மொழிவை விவாதிப்போம்."
+  },
+  {
+    "id": 119,
+    "category": "Phrasal Verb",
+    "term": "Tear down",
+    "part_of_speech": "",
+    "meaning_en": "To demolish a structure.",
+    "meaning_ta": "ஒரு கட்டமைப்பை இடிப்பது.",
+    "example_en": "They're planning to tear down the old building.",
+    "example_ta": "பழைய கட்டிடத்தை இடிக்க அவர்கள் திட்டமிடுகிறார்கள்."
+  },
+  {
+    "id": 120,
+    "category": "Phrasal Verb",
+    "term": "Think over",
+    "part_of_speech": "",
+    "meaning_en": "To consider something carefully.",
+    "meaning_ta": "ஒன்றை கவனமாக யோசிப்பது.",
+    "example_en": "I need some time to think over your offer.",
+    "example_ta": "உங்கள் வாய்ப்பைப் பற்றி யோசிக்க எனக்கு சிறிது நேரம் வேண்டும்."
+  },
+  {
+    "id": 121,
+    "category": "Phrasal Verb",
+    "term": "Throw away",
+    "part_of_speech": "",
+    "meaning_en": "To discard something.",
+    "meaning_ta": "ஒன்றை தூக்கி எறிவது.",
+    "example_en": "Don't throw away that receipt, we might need it.",
+    "example_ta": "அந்த ரசீதை தூக்கி எறியாதே, நமக்கு அது தேவைப்படலாம்."
+  },
+  {
+    "id": 122,
+    "category": "Phrasal Verb",
+    "term": "Try on",
+    "part_of_speech": "",
+    "meaning_en": "To wear clothing briefly to check the fit.",
+    "meaning_ta": "பொருத்தத்தைச் சரிபார்க்க ஆடையை சிறிது நேரம் அணிவது.",
+    "example_en": "She tried on three dresses before choosing one.",
+    "example_ta": "ஒன்றைத் தேர்ந்தெடுக்கும் முன் அவள் மூன்று உடைகளை அணிந்து பார்த்தாள்."
+  },
+  {
+    "id": 123,
+    "category": "Phrasal Verb",
+    "term": "Try out",
+    "part_of_speech": "",
+    "meaning_en": "To test something to see if it works well.",
+    "meaning_ta": "ஒன்று நன்றாக செயல்படுகிறதா என்று சோதிப்பது.",
+    "example_en": "We tried out the new software before buying it.",
+    "example_ta": "வாங்குவதற்கு முன் நாங்கள் புதிய மென்பொருளை சோதித்துப் பார்த்தோம்."
+  },
+  {
+    "id": 124,
+    "category": "Phrasal Verb",
+    "term": "Wear out",
+    "part_of_speech": "",
+    "meaning_en": "To become damaged or exhausted from use.",
+    "meaning_ta": "பயன்பாட்டால் சேதமடைவது அல்லது சோர்வடைவது.",
+    "example_en": "These shoes are starting to wear out.",
+    "example_ta": "இந்த காலணிகள் தேயத் தொடங்கியுள்ளன."
+  },
+  {
+    "id": 125,
+    "category": "Phrasal Verb",
+    "term": "Work on",
+    "part_of_speech": "",
+    "meaning_en": "To spend effort on a task.",
+    "meaning_ta": "ஒரு பணியில் முயற்சி செலுத்துவது.",
+    "example_en": "She's working on the quarterly report.",
+    "example_ta": "அவள் காலாண்டு அறிக்கையில் வேலை செய்கிறாள்."
+  },
+  {
+    "id": 126,
+    "category": "Phrasal Verb",
+    "term": "Zoom in",
+    "part_of_speech": "",
+    "meaning_en": "To magnify or focus closely on something.",
+    "meaning_ta": "ஒன்றை பெரிதாக்குவது அல்லது நெருக்கமாக கவனம் செலுத்துவது.",
+    "example_en": "Zoom in on this chart to see the exact figures.",
+    "example_ta": "சரியான புள்ளிவிவரங்களைப் பார்க்க இந்த வரைபடத்தை பெரிதாக்குங்கள்."
+  },
+  {
+    "id": 127,
+    "category": "Phrasal Verb",
+    "term": "Zoom out",
+    "part_of_speech": "",
+    "meaning_en": "To reduce magnification to see a wider view.",
+    "meaning_ta": "முழு காட்சியைப் பார்க்க பெரிதாக்கத்தைக் குறைப்பது.",
+    "example_en": "Zoom out to see the whole map.",
+    "example_ta": "முழு வரைபடத்தையும் பார்க்க பெரிதாக்கத்தைக் குறைக்கவும்."
+  }
+]

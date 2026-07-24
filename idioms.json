@@ -1,0 +1,1102 @@
+[
+  {
+    "id": 1,
+    "category": "Idiom",
+    "term": "Break the ice",
+    "part_of_speech": "",
+    "meaning_en": "To do or say something that relieves tension or awkwardness at the start of a social situation.",
+    "meaning_ta": "ஒரு சூழ்நிலையின் தொடக்கத்தில் உள்ள படபடப்பை அல்லது சங்கடத்தை போக்குவது.",
+    "example_en": "He told a joke to break the ice at the meeting.",
+    "example_ta": "கூட்டத்தில் படபடப்பை போக்க அவர் ஒரு நகைச்சுவையைச் சொன்னார்."
+  },
+  {
+    "id": 2,
+    "category": "Idiom",
+    "term": "Hit the sack",
+    "part_of_speech": "",
+    "meaning_en": "To go to bed / go to sleep.",
+    "meaning_ta": "படுக்கைக்குச் செல்வது / தூங்கப் போவது.",
+    "example_en": "I'm exhausted, I'm going to hit the sack early tonight.",
+    "example_ta": "நான் மிகவும் சோர்வாக இருக்கிறேன், இன்று இரவு சீக்கிரம் தூங்கப் போகிறேன்."
+  },
+  {
+    "id": 3,
+    "category": "Idiom",
+    "term": "Under the weather",
+    "part_of_speech": "",
+    "meaning_en": "Feeling slightly ill.",
+    "meaning_ta": "சிறிது உடல்நலக்குறைவாக உணர்வது.",
+    "example_en": "She's feeling a bit under the weather today, so she stayed home.",
+    "example_ta": "இன்று அவள் சிறிது உடல்நலக்குறைவாக உணர்ந்ததால் வீட்டில் இருந்தாள்."
+  },
+  {
+    "id": 4,
+    "category": "Idiom",
+    "term": "Piece of cake",
+    "part_of_speech": "",
+    "meaning_en": "Something that is very easy to do.",
+    "meaning_ta": "மிக எளிதாகச் செய்யக்கூடிய ஒன்று.",
+    "example_en": "Don't worry about the exam, it'll be a piece of cake for you.",
+    "example_ta": "தேர்வைப் பற்றி கவலைப்படாதே, உனக்கு அது மிக எளிதாக இருக்கும்."
+  },
+  {
+    "id": 5,
+    "category": "Idiom",
+    "term": "Costs an arm and a leg",
+    "part_of_speech": "",
+    "meaning_en": "Something that is very expensive.",
+    "meaning_ta": "மிகவும் விலை உயர்ந்த ஒன்று.",
+    "example_en": "That new laptop costs an arm and a leg.",
+    "example_ta": "அந்த புதிய லேப்டாப் மிகவும் விலை உயர்ந்தது."
+  },
+  {
+    "id": 6,
+    "category": "Idiom",
+    "term": "Once in a blue moon",
+    "part_of_speech": "",
+    "meaning_en": "Something that happens very rarely.",
+    "meaning_ta": "மிகவும் அரிதாக நடக்கும் ஒன்று.",
+    "example_en": "We only go to the theatre once in a blue moon.",
+    "example_ta": "நாங்கள் நாடகக் கூடத்திற்கு மிக அரிதாகவே செல்வோம்."
+  },
+  {
+    "id": 7,
+    "category": "Idiom",
+    "term": "Let the cat out of the bag",
+    "part_of_speech": "",
+    "meaning_en": "To reveal a secret by mistake.",
+    "meaning_ta": "தவறுதலாக ஒரு ரகசியத்தை வெளிப்படுத்துவது.",
+    "example_en": "I accidentally let the cat out of the bag about the surprise party.",
+    "example_ta": "ஆச்சரிய விருந்தைப் பற்றிய ரகசியத்தை நான் தற்செயலாக வெளியிட்டுவிட்டேன்."
+  },
+  {
+    "id": 8,
+    "category": "Idiom",
+    "term": "Bite the bullet",
+    "part_of_speech": "",
+    "meaning_en": "To accept or face something difficult or unpleasant.",
+    "meaning_ta": "கடினமான அல்லது விருப்பமில்லாத ஒன்றை ஏற்றுக்கொள்வது அல்லது எதிர்கொள்வது.",
+    "example_en": "I finally decided to bite the bullet and see the dentist.",
+    "example_ta": "நான் இறுதியாக தைரியமாக பல் மருத்துவரைப் பார்க்க முடிவு செய்தேன்."
+  },
+  {
+    "id": 9,
+    "category": "Idiom",
+    "term": "Speak of the devil",
+    "part_of_speech": "",
+    "meaning_en": "Said when a person you were just talking about arrives or is mentioned.",
+    "meaning_ta": "பேசிக் கொண்டிருந்தவர் அப்போது வந்தால் அல்லது குறிப்பிடப்பட்டால் சொல்வது.",
+    "example_en": "Speak of the devil, here comes Raj right now!",
+    "example_ta": "பேசிக்கொண்டிருந்த ராஜ் இப்போதுதான் வந்துவிட்டார்!"
+  },
+  {
+    "id": 10,
+    "category": "Idiom",
+    "term": "Cutting corners",
+    "part_of_speech": "",
+    "meaning_en": "Doing something in the cheapest or easiest way, often sacrificing quality.",
+    "meaning_ta": "தரத்தைத் தியாகம் செய்து மிக மலிவான அல்லது எளிதான வழியில் ஏதாவது செய்வது.",
+    "example_en": "The contractor cut corners and the roof started leaking within a month.",
+    "example_ta": "ஒப்பந்தக்காரர் தரத்தில் சமரசம் செய்ததால், ஒரு மாதத்திற்குள் கூரை கசிய ஆரம்பித்தது."
+  },
+  {
+    "id": 11,
+    "category": "Idiom",
+    "term": "Actions speak louder than words",
+    "part_of_speech": "",
+    "meaning_en": "What people do is more important than what they say.",
+    "meaning_ta": "மக்கள் சொல்வதை விட செய்வதே முக்கியமானது.",
+    "example_en": "He promised to help, but actions speak louder than words, so we'll wait and see.",
+    "example_ta": "அவர் உதவுவதாக சொன்னார், ஆனால் செயலே முக்கியம், எனவே நாம் காத்திருந்து பார்ப்போம்."
+  },
+  {
+    "id": 12,
+    "category": "Idiom",
+    "term": "Add insult to injury",
+    "part_of_speech": "",
+    "meaning_en": "To make a bad situation even worse.",
+    "meaning_ta": "ஏற்கனவே மோசமான ஒரு நிலையை இன்னும் மோசமாக்குவது.",
+    "example_en": "First he crashed my car, and to add insult to injury, he blamed me for it.",
+    "example_ta": "முதலில் அவர் என் காரை மோதினார், அதை மேலும் மோசமாக்க, அதற்கு என்னைக் குற்றம் சாட்டினார்."
+  },
+  {
+    "id": 13,
+    "category": "Idiom",
+    "term": "Barking up the wrong tree",
+    "part_of_speech": "",
+    "meaning_en": "Pursuing a mistaken course of action; accusing the wrong person.",
+    "meaning_ta": "தவறான வழியில் முயற்சி செய்வது; தவறான நபரைக் குற்றம் சாட்டுவது.",
+    "example_en": "If you think I broke the vase, you're barking up the wrong tree.",
+    "example_ta": "நான் குவளையை உடைத்தேன் என்று நினைத்தால், நீங்கள் தவறான நபரைக் குற்றம் சாட்டுகிறீர்கள்."
+  },
+  {
+    "id": 14,
+    "category": "Idiom",
+    "term": "Beat around the bush",
+    "part_of_speech": "",
+    "meaning_en": "To avoid talking about something directly.",
+    "meaning_ta": "ஒரு விஷயத்தை நேரடியாகப் பேசாமல் தவிர்ப்பது.",
+    "example_en": "Stop beating around the bush and tell me what happened.",
+    "example_ta": "சுற்றி வளைத்துப் பேசாமல் என்ன நடந்தது என்று சொல்."
+  },
+  {
+    "id": 15,
+    "category": "Idiom",
+    "term": "Best of both worlds",
+    "part_of_speech": "",
+    "meaning_en": "A situation where you can enjoy the benefits of two different things at once.",
+    "meaning_ta": "ஒரே நேரத்தில் இரண்டு வெவ்வேறு விஷயங்களின் நன்மைகளை அனுபவிக்கக்கூடிய நிலை.",
+    "example_en": "Working from a beach cafe gives me the best of both worlds.",
+    "example_ta": "கடற்கரை கஃபேயில் இருந்து வேலை செய்வது எனக்கு இரு நன்மைகளையும் தருகிறது."
+  },
+  {
+    "id": 16,
+    "category": "Idiom",
+    "term": "Bite off more than you can chew",
+    "part_of_speech": "",
+    "meaning_en": "To take on a task that is too big to manage.",
+    "meaning_ta": "நிர்வகிக்க முடியாத அளவு பெரிய ஒரு பணியை ஏற்றுக்கொள்வது.",
+    "example_en": "Taking three extra projects this month, I think I bit off more than I could chew.",
+    "example_ta": "இந்த மாதம் மூன்று கூடுதல் திட்டங்களை எடுத்துக்கொண்டதால், அளவுக்கு அதிகமாக ஏற்றுக்கொண்டேன் என்று நினைக்கிறேன்."
+  },
+  {
+    "id": 17,
+    "category": "Idiom",
+    "term": "Burn the midnight oil",
+    "part_of_speech": "",
+    "meaning_en": "To work late into the night.",
+    "meaning_ta": "இரவு நேரம் வரை விழித்திருந்து வேலை செய்வது.",
+    "example_en": "She had to burn the midnight oil to finish the report on time.",
+    "example_ta": "அறிக்கையை நேரத்திற்குள் முடிக்க அவள் இரவு தாமதம் வரை வேலை செய்ய வேண்டியிருந்தது."
+  },
+  {
+    "id": 18,
+    "category": "Idiom",
+    "term": "Call it a day",
+    "part_of_speech": "",
+    "meaning_en": "To stop working on something, usually for the rest of the day.",
+    "meaning_ta": "ஒரு வேலையை நிறுத்துவது, பொதுவாக அன்றைய நாளுக்கு.",
+    "example_en": "We've made good progress, let's call it a day.",
+    "example_ta": "நாம் நல்ல முன்னேற்றம் அடைந்துவிட்டோம், இன்றைக்கு இத்துடன் நிறுத்துவோம்."
+  },
+  {
+    "id": 19,
+    "category": "Idiom",
+    "term": "Caught between two stools",
+    "part_of_speech": "",
+    "meaning_en": "Unable to choose between two alternatives, and failing at both.",
+    "meaning_ta": "இரண்டு தேர்வுகளுக்கு இடையே தேர்வு செய்ய முடியாமல், இரண்டிலும் தோல்வியடைவது.",
+    "example_en": "By trying to please both teams, he ended up caught between two stools.",
+    "example_ta": "இரு அணிகளையும் திருப்திப்படுத்த முயன்றதால், அவர் இரண்டிலும் தோல்வியடைந்தார்."
+  },
+  {
+    "id": 20,
+    "category": "Idiom",
+    "term": "Costs a fortune",
+    "part_of_speech": "",
+    "meaning_en": "Something is extremely expensive.",
+    "meaning_ta": "மிகவும் அதிக விலை கொண்ட ஒன்று.",
+    "example_en": "That diamond ring costs a fortune.",
+    "example_ta": "அந்த வைர மோதிரம் மிக அதிக விலை கொண்டது."
+  },
+  {
+    "id": 21,
+    "category": "Idiom",
+    "term": "Cross that bridge when we come to it",
+    "part_of_speech": "",
+    "meaning_en": "Deal with a problem only when it actually happens.",
+    "meaning_ta": "ஒரு பிரச்சனை உண்மையில் நடக்கும்போது மட்டுமே அதைச் சமாளிப்பது.",
+    "example_en": "We might not even get approval, so let's cross that bridge when we come to it.",
+    "example_ta": "நமக்கு ஒப்புதல் கிடைக்காமலும் போகலாம், அது வரும்போது பார்த்துக்கொள்வோம்."
+  },
+  {
+    "id": 22,
+    "category": "Idiom",
+    "term": "Cry over spilt milk",
+    "part_of_speech": "",
+    "meaning_en": "To be upset about something that has already happened and cannot be changed.",
+    "meaning_ta": "ஏற்கனவே நடந்து, மாற்ற முடியாத ஒன்றைப் பற்றி வருந்துவது.",
+    "example_en": "The deal fell through, but there's no use crying over spilt milk now.",
+    "example_ta": "ஒப்பந்தம் தள்ளிப்போய்விட்டது, ஆனால் இப்போது வருந்துவதால் பயனில்லை."
+  },
+  {
+    "id": 23,
+    "category": "Idiom",
+    "term": "Cut to the chase",
+    "part_of_speech": "",
+    "meaning_en": "To get to the point without wasting time.",
+    "meaning_ta": "நேரத்தை வீணாக்காமல் நேரடியாகப் பேசுவது.",
+    "example_en": "Let's cut to the chase, what's the final offer?",
+    "example_ta": "நேரடியாகப் பேசுவோம், இறுதி வாய்ப்பு என்ன?"
+  },
+  {
+    "id": 24,
+    "category": "Idiom",
+    "term": "Devil's advocate",
+    "part_of_speech": "",
+    "meaning_en": "Someone who argues against an idea, not because they believe it, but to test the argument.",
+    "meaning_ta": "ஒரு கருத்தை நம்பாமலேயே, அதை சோதிக்க எதிர்த்து வாதிடும் ஒருவர்.",
+    "example_en": "Let me play devil's advocate for a moment and question this plan.",
+    "example_ta": "சிறிது நேரம் எதிர்வாதம் செய்து இந்தத் திட்டத்தைக் கேள்வி கேட்கிறேன்."
+  },
+  {
+    "id": 25,
+    "category": "Idiom",
+    "term": "Don't count your chickens before they hatch",
+    "part_of_speech": "",
+    "meaning_en": "Don't assume something will happen before it actually does.",
+    "meaning_ta": "ஏதாவது நடப்பதற்கு முன்பே அது நடக்கும் என்று கருதாதே.",
+    "example_en": "We haven't signed the contract yet, so don't count your chickens before they hatch.",
+    "example_ta": "நாம் இன்னும் ஒப்பந்தத்தில் கையெழுத்திடவில்லை, எனவே முன்கூட்டியே சந்தோஷப்படாதே."
+  },
+  {
+    "id": 26,
+    "category": "Idiom",
+    "term": "Every cloud has a silver lining",
+    "part_of_speech": "",
+    "meaning_en": "Every difficult situation has a positive side.",
+    "meaning_ta": "ஒவ்வொரு கடினமான சூழ்நிலைக்கும் ஒரு நேர்மறையான பக்கம் உண்டு.",
+    "example_en": "I lost my job, but I found a better one, so every cloud has a silver lining.",
+    "example_ta": "நான் என் வேலையை இழந்தேன், ஆனால் சிறந்த ஒன்றைக் கண்டேன்; ஒவ்வொரு துன்பத்திலும் ஒரு நன்மை உண்டு."
+  },
+  {
+    "id": 27,
+    "category": "Idiom",
+    "term": "Get your act together",
+    "part_of_speech": "",
+    "meaning_en": "To organize yourself and start behaving in an effective way.",
+    "meaning_ta": "தன்னை ஒழுங்குபடுத்தி திறமையாக நடந்துகொள்ளத் தொடங்குவது.",
+    "example_en": "You need to get your act together before the client meeting.",
+    "example_ta": "வாடிக்கையாளர் கூட்டத்திற்கு முன் நீ சரியாக தயாராக வேண்டும்."
+  },
+  {
+    "id": 28,
+    "category": "Idiom",
+    "term": "Give someone the benefit of the doubt",
+    "part_of_speech": "",
+    "meaning_en": "To trust what someone says even though it may not be true.",
+    "meaning_ta": "உண்மை இல்லாமல் இருக்கலாம் என்றாலும், ஒருவர் சொல்வதை நம்புவது.",
+    "example_en": "I'll give him the benefit of the doubt this time.",
+    "example_ta": "இந்த முறை நான் அவரை நம்புகிறேன்."
+  },
+  {
+    "id": 29,
+    "category": "Idiom",
+    "term": "Go the extra mile",
+    "part_of_speech": "",
+    "meaning_en": "To make a special effort to achieve something.",
+    "meaning_ta": "ஏதாவது சாதிக்க கூடுதல் முயற்சி எடுப்பது.",
+    "example_en": "Our support team always goes the extra mile for customers.",
+    "example_ta": "எங்கள் ஆதரவு குழு எப்போதும் வாடிக்கையாளர்களுக்காக கூடுதல் முயற்சி எடுக்கும்."
+  },
+  {
+    "id": 30,
+    "category": "Idiom",
+    "term": "Hit the nail on the head",
+    "part_of_speech": "",
+    "meaning_en": "To describe exactly what is causing a situation or problem.",
+    "meaning_ta": "ஒரு சூழ்நிலை அல்லது பிரச்சனைக்கான காரணத்தை சரியாகக் குறிப்பிடுவது.",
+    "example_en": "You hit the nail on the head when you said the delay was due to poor planning.",
+    "example_ta": "தாமதம் மோசமான திட்டமிடலால் ஏற்பட்டது என்று நீ சொன்னது சரியாக பொருந்தியது."
+  },
+  {
+    "id": 31,
+    "category": "Idiom",
+    "term": "In hot water",
+    "part_of_speech": "",
+    "meaning_en": "In a difficult or troublesome situation.",
+    "meaning_ta": "ஒரு கடினமான அல்லது சிக்கலான சூழ்நிலையில் இருப்பது.",
+    "example_en": "He's in hot water after missing the deadline three times.",
+    "example_ta": "மூன்று முறை காலக்கெடுவைத் தவறவிட்டதால் அவர் சிக்கலில் இருக்கிறார்."
+  },
+  {
+    "id": 32,
+    "category": "Idiom",
+    "term": "It takes two to tango",
+    "part_of_speech": "",
+    "meaning_en": "Both people involved in a situation are responsible for it.",
+    "meaning_ta": "ஒரு சூழ்நிலையில் ஈடுபட்டுள்ள இருவரும் அதற்குப் பொறுப்பு.",
+    "example_en": "Don't blame only him for the argument, it takes two to tango.",
+    "example_ta": "வாக்குவாதத்திற்கு அவரை மட்டும் குற்றம் சாட்டாதே, இருவரும் பொறுப்பு."
+  },
+  {
+    "id": 33,
+    "category": "Idiom",
+    "term": "Jump on the bandwagon",
+    "part_of_speech": "",
+    "meaning_en": "To join others in doing something popular.",
+    "meaning_ta": "பிரபலமான ஒன்றைச் செய்ய மற்றவர்களுடன் சேர்வது.",
+    "example_en": "Many companies jumped on the bandwagon after AI became popular.",
+    "example_ta": "செயற்கை நுண்ணறிவு பிரபலமான பிறகு பல நிறுவனங்கள் அதைப் பின்பற்றத் தொடங்கின."
+  },
+  {
+    "id": 34,
+    "category": "Idiom",
+    "term": "Keep your chin up",
+    "part_of_speech": "",
+    "meaning_en": "Stay positive during a difficult time.",
+    "meaning_ta": "கடினமான நேரத்தில் நேர்மறையாக இருப்பது.",
+    "example_en": "I know it's tough right now, but keep your chin up.",
+    "example_ta": "இப்போது கடினமாக இருக்கிறது என்று தெரியும், ஆனால் தைரியமாக இரு."
+  },
+  {
+    "id": 35,
+    "category": "Idiom",
+    "term": "Kill two birds with one stone",
+    "part_of_speech": "",
+    "meaning_en": "To achieve two things with a single action.",
+    "meaning_ta": "ஒரே செயலால் இரண்டு விஷயங்களை சாதிப்பது.",
+    "example_en": "By carpooling, I kill two birds with one stone, saving money and time.",
+    "example_ta": "காரை பகிர்ந்து பயன்படுத்துவதன் மூலம், பணத்தையும் நேரத்தையும் ஒரே நேரத்தில் சேமிக்கிறேன்."
+  },
+  {
+    "id": 36,
+    "category": "Idiom",
+    "term": "Last straw",
+    "part_of_speech": "",
+    "meaning_en": "The final problem in a series that makes a situation unbearable.",
+    "meaning_ta": "ஒரு சூழ்நிலையை தாங்க முடியாததாக ஆக்கும் இறுதி பிரச்சனை.",
+    "example_en": "Missing the flight was the last straw after a terrible trip.",
+    "example_ta": "மோசமான பயணத்திற்குப் பிறகு விமானத்தை தவறவிட்டது இறுதி வரம்பாக இருந்தது."
+  },
+  {
+    "id": 37,
+    "category": "Idiom",
+    "term": "Let sleeping dogs lie",
+    "part_of_speech": "",
+    "meaning_en": "Avoid interfering in a situation that is currently stable, as this may cause problems.",
+    "meaning_ta": "இப்போது நிலையாக இருக்கும் ஒரு சூழ்நிலையில் தலையிடாமல் இருப்பது, ஏனெனில் அது பிரச்சனைகளை உண்டாக்கலாம்.",
+    "example_en": "The issue is resolved now, so let's let sleeping dogs lie.",
+    "example_ta": "பிரச்சனை இப்போது தீர்ந்துவிட்டது, எனவே அதை மீண்டும் எழுப்ப வேண்டாம்."
+  },
+  {
+    "id": 38,
+    "category": "Idiom",
+    "term": "Miss the boat",
+    "part_of_speech": "",
+    "meaning_en": "To lose the opportunity to do something.",
+    "meaning_ta": "ஏதாவது செய்யும் வாய்ப்பை இழப்பது.",
+    "example_en": "If you don't apply this week, you'll miss the boat on this scholarship.",
+    "example_ta": "இந்த வாரம் விண்ணப்பிக்கவில்லை என்றால், இந்த உதவித்தொகைக்கான வாய்ப்பை இழப்பாய்."
+  },
+  {
+    "id": 39,
+    "category": "Idiom",
+    "term": "No pain, no gain",
+    "part_of_speech": "",
+    "meaning_en": "You have to work hard to achieve something valuable.",
+    "meaning_ta": "மதிப்புமிக்க ஒன்றைச் சாதிக்க கடினமாக உழைக்க வேண்டும்.",
+    "example_en": "Training every day is tiring, but no pain, no gain.",
+    "example_ta": "தினமும் பயிற்சி செய்வது சோர்வாக இருக்கிறது, ஆனால் உழைப்பு இல்லாமல் பலன் இல்லை."
+  },
+  {
+    "id": 40,
+    "category": "Idiom",
+    "term": "On the ball",
+    "part_of_speech": "",
+    "meaning_en": "Alert, competent and quick to understand.",
+    "meaning_ta": "விழிப்புடன், திறமையாக, விரைவாகப் புரிந்துகொள்வது.",
+    "example_en": "She's really on the ball, she caught the error before anyone else.",
+    "example_ta": "அவள் மிகவும் கூர்மையானவள், மற்றவர்களுக்கு முன்பே பிழையைக் கண்டறிந்தாள்."
+  },
+  {
+    "id": 41,
+    "category": "Idiom",
+    "term": "Once bitten, twice shy",
+    "part_of_speech": "",
+    "meaning_en": "Being cautious after a previous bad experience.",
+    "meaning_ta": "முந்தைய மோசமான அனுபவத்திற்குப் பிறகு எச்சரிக்கையாக இருப்பது.",
+    "example_en": "After the last investment failed, once bitten twice shy, I checked everything twice.",
+    "example_ta": "கடைசி முதலீடு தோல்வியடைந்த பிறகு, எச்சரிக்கையாக எல்லாவற்றையும் இருமுறை சரிபார்த்தேன்."
+  },
+  {
+    "id": 42,
+    "category": "Idiom",
+    "term": "Out of the blue",
+    "part_of_speech": "",
+    "meaning_en": "Something that happens unexpectedly.",
+    "meaning_ta": "எதிர்பாராமல் நடக்கும் ஒன்று.",
+    "example_en": "He called me out of the blue after years of silence.",
+    "example_ta": "பல ஆண்டுகால மௌனத்திற்குப் பிறகு அவர் திடீரென என்னை அழைத்தார்."
+  },
+  {
+    "id": 43,
+    "category": "Idiom",
+    "term": "Piece of the pie",
+    "part_of_speech": "",
+    "meaning_en": "A share of something, especially profits or resources.",
+    "meaning_ta": "ஏதாவது ஒன்றின் பங்கு, குறிப்பாக லாபம் அல்லது வளங்கள்.",
+    "example_en": "Every partner wants a bigger piece of the pie.",
+    "example_ta": "ஒவ்வொரு பங்குதாரரும் அதிக பங்கை விரும்புகிறார்."
+  },
+  {
+    "id": 44,
+    "category": "Idiom",
+    "term": "Pull yourself together",
+    "part_of_speech": "",
+    "meaning_en": "To calm down and behave normally after being upset.",
+    "meaning_ta": "வருத்தமடைந்த பிறகு அமைதியாகி இயல்பாக நடந்துகொள்வது.",
+    "example_en": "Take a deep breath and pull yourself together before the interview.",
+    "example_ta": "நேர்காணலுக்கு முன் ஆழ்ந்த மூச்சு விட்டு தன்னை அமைதிப்படுத்திக்கொள்."
+  },
+  {
+    "id": 45,
+    "category": "Idiom",
+    "term": "Put all your eggs in one basket",
+    "part_of_speech": "",
+    "meaning_en": "To risk everything on a single plan or option.",
+    "meaning_ta": "ஒரே ஒரு திட்டத்தில் அல்லது வாய்ப்பில் அனைத்தையும் ஆபத்தில் ஆழ்த்துவது.",
+    "example_en": "Don't put all your eggs in one basket, apply to multiple companies.",
+    "example_ta": "ஒரே நிறுவனத்தை மட்டும் நம்பாதே, பல நிறுவனங்களுக்கு விண்ணப்பி."
+  },
+  {
+    "id": 46,
+    "category": "Idiom",
+    "term": "Rain check",
+    "part_of_speech": "",
+    "meaning_en": "A promise to accept an offer at a later time.",
+    "meaning_ta": "பிற்பாடு ஒரு வாய்ப்பை ஏற்றுக்கொள்வதாக அளிக்கும் வாக்குறுதி.",
+    "example_en": "I can't make it tonight, can I take a rain check?",
+    "example_ta": "இன்று இரவு வர முடியாது, பிறகு வரலாமா?"
+  },
+  {
+    "id": 47,
+    "category": "Idiom",
+    "term": "Read between the lines",
+    "part_of_speech": "",
+    "meaning_en": "To understand the hidden or implied meaning of something.",
+    "meaning_ta": "மறைமுகமான அல்லது வெளிப்படையாகச் சொல்லாத பொருளைப் புரிந்துகொள்வது.",
+    "example_en": "He didn't say he was unhappy, but you could read between the lines.",
+    "example_ta": "அவர் மகிழ்ச்சியில்லை என்று சொல்லவில்லை, ஆனால் அதை மறைமுகமாகப் புரிந்துகொள்ள முடியும்."
+  },
+  {
+    "id": 48,
+    "category": "Idiom",
+    "term": "See eye to eye",
+    "part_of_speech": "",
+    "meaning_en": "To agree with someone.",
+    "meaning_ta": "ஒருவருடன் உடன்படுவது.",
+    "example_en": "My manager and I don't always see eye to eye on strategy.",
+    "example_ta": "மூலோபாயம் தொடர்பாக நானும் என் மேலாளரும் எப்போதும் உடன்படுவதில்லை."
+  },
+  {
+    "id": 49,
+    "category": "Idiom",
+    "term": "Sit on the fence",
+    "part_of_speech": "",
+    "meaning_en": "To avoid making a decision or taking sides.",
+    "meaning_ta": "ஒரு முடிவை எடுக்காமல் அல்லது பக்கம் சாராமல் இருப்பது.",
+    "example_en": "He kept sitting on the fence instead of choosing a plan.",
+    "example_ta": "ஒரு திட்டத்தைத் தேர்ந்தெடுக்காமல் அவர் தயங்கிக் கொண்டிருந்தார்."
+  },
+  {
+    "id": 50,
+    "category": "Idiom",
+    "term": "Speak your mind",
+    "part_of_speech": "",
+    "meaning_en": "To say honestly what you think.",
+    "meaning_ta": "நீங்கள் நினைப்பதை நேர்மையாகச் சொல்வது.",
+    "example_en": "Don't be afraid to speak your mind in the meeting.",
+    "example_ta": "கூட்டத்தில் உங்கள் கருத்தைச் சொல்ல தயங்க வேண்டாம்."
+  },
+  {
+    "id": 51,
+    "category": "Idiom",
+    "term": "Steal someone's thunder",
+    "part_of_speech": "",
+    "meaning_en": "To take credit for something someone else did.",
+    "meaning_ta": "வேறொருவர் செய்த ஒன்றுக்கான பாராட்டைத் தானே எடுத்துக்கொள்வது.",
+    "example_en": "She stole my thunder by announcing the idea before I could.",
+    "example_ta": "நான் சொல்வதற்கு முன்பே அவள் அந்த யோசனையை அறிவித்து என் பெருமையை எடுத்துக்கொண்டாள்."
+  },
+  {
+    "id": 52,
+    "category": "Idiom",
+    "term": "Take it with a grain of salt",
+    "part_of_speech": "",
+    "meaning_en": "To not take something too seriously or literally.",
+    "meaning_ta": "ஒன்றை மிகவும் தீவிரமாக அல்லது நேரடியாக எடுத்துக் கொள்ளாதிருப்பது.",
+    "example_en": "Take his promises with a grain of salt, he often exaggerates.",
+    "example_ta": "அவரது வாக்குறுதிகளை முழுவதுமாக நம்பாதே, அவர் பெரும்பாலும் மிகைப்படுத்திச் சொல்வார்."
+  },
+  {
+    "id": 53,
+    "category": "Idiom",
+    "term": "The ball is in your court",
+    "part_of_speech": "",
+    "meaning_en": "It is now your responsibility to act or decide.",
+    "meaning_ta": "இப்போது செயல்பட வேண்டியது அல்லது முடிவெடுக்க வேண்டியது உங்கள் பொறுப்பு.",
+    "example_en": "I've sent the proposal, so the ball is in your court now.",
+    "example_ta": "நான் திட்டமுன்மொழிவை அனுப்பிவிட்டேன், இப்போது முடிவெடுக்க வேண்டியது நீங்கள்தான்."
+  },
+  {
+    "id": 54,
+    "category": "Idiom",
+    "term": "Through thick and thin",
+    "part_of_speech": "",
+    "meaning_en": "Under all circumstances, no matter how difficult.",
+    "meaning_ta": "எவ்வளவு கடினமாக இருந்தாலும் எல்லா சூழ்நிலைகளிலும்.",
+    "example_en": "They've stayed friends through thick and thin.",
+    "example_ta": "அவர்கள் எல்லா சூழ்நிலைகளிலும் நண்பர்களாக இருந்தனர்."
+  },
+  {
+    "id": 55,
+    "category": "Idiom",
+    "term": "Throw in the towel",
+    "part_of_speech": "",
+    "meaning_en": "To give up or admit defeat.",
+    "meaning_ta": "விட்டுக்கொடுப்பது அல்லது தோல்வியை ஒப்புக்கொள்வது.",
+    "example_en": "After three failed attempts, he threw in the towel.",
+    "example_ta": "மூன்று தோல்வி முயற்சிகளுக்குப் பிறகு, அவர் விட்டுவிட்டார்."
+  },
+  {
+    "id": 56,
+    "category": "Idiom",
+    "term": "Time flies",
+    "part_of_speech": "",
+    "meaning_en": "Time passes very quickly.",
+    "meaning_ta": "நேரம் மிக விரைவாக கடந்து செல்வது.",
+    "example_en": "I can't believe it's already evening, time flies!",
+    "example_ta": "ஏற்கனவே மாலை ஆகிவிட்டதை நம்ப முடியவில்லை, நேரம் எவ்வளவு வேகமாக ஓடுகிறது!"
+  },
+  {
+    "id": 57,
+    "category": "Idiom",
+    "term": "Under someone's thumb",
+    "part_of_speech": "",
+    "meaning_en": "Controlled or heavily influenced by someone.",
+    "meaning_ta": "ஒருவரின் கட்டுப்பாட்டில் அல்லது கடும் செல்வாக்கின் கீழ் இருப்பது.",
+    "example_en": "He's completely under his boss's thumb.",
+    "example_ta": "அவர் முழுவதுமாக தன் முதலாளியின் கட்டுப்பாட்டில் இருக்கிறார்."
+  },
+  {
+    "id": 58,
+    "category": "Idiom",
+    "term": "Up in the air",
+    "part_of_speech": "",
+    "meaning_en": "Not yet decided or certain.",
+    "meaning_ta": "இன்னும் முடிவு செய்யப்படாத அல்லது உறுதியற்ற நிலை.",
+    "example_en": "Our travel plans are still up in the air.",
+    "example_ta": "எங்கள் பயணத் திட்டங்கள் இன்னும் முடிவாகவில்லை."
+  },
+  {
+    "id": 59,
+    "category": "Idiom",
+    "term": "When it rains, it pours",
+    "part_of_speech": "",
+    "meaning_en": "Difficult things tend to happen all at once.",
+    "meaning_ta": "கடினமான விஷயங்கள் ஒரே நேரத்தில் நடக்கும் போக்கு.",
+    "example_en": "First the car broke down, then the roof leaked, when it rains, it pours.",
+    "example_ta": "முதலில் கார் பழுதடைந்தது, பிறகு கூரை கசிந்தது, துன்பங்கள் ஒன்றன் பின் ஒன்றாக வந்தன."
+  },
+  {
+    "id": 60,
+    "category": "Idiom",
+    "term": "You can't judge a book by its cover",
+    "part_of_speech": "",
+    "meaning_en": "You shouldn't judge someone or something based only on appearance.",
+    "meaning_ta": "தோற்றத்தை மட்டும் வைத்து ஒருவரை அல்லது ஒன்றை மதிப்பீடு செய்யக்கூடாது.",
+    "example_en": "He looked strict, but you can't judge a book by its cover, he's very kind.",
+    "example_ta": "அவர் கண்டிப்பானவராகத் தோன்றினார், ஆனால் தோற்றத்தை வைத்து மதிப்பிடக்கூடாது, அவர் மிகவும் இரக்கமுள்ளவர்."
+  },
+  {
+    "id": 61,
+    "category": "Idiom",
+    "term": "A blessing in disguise",
+    "part_of_speech": "",
+    "meaning_en": "Something that seems bad at first but turns out to be good.",
+    "meaning_ta": "முதலில் கெட்டதாகத் தோன்றி, பின்னர் நல்லதாக மாறும் ஒன்று.",
+    "example_en": "Losing that job was a blessing in disguise, it led me to a better career.",
+    "example_ta": "அந்த வேலையை இழந்தது மறைமுகமான வரப்பிரசாதமாக இருந்தது, அது எனக்கு சிறந்த வாழ்க்கைத் தொழிலுக்கு வழிவகுத்தது."
+  },
+  {
+    "id": 62,
+    "category": "Idiom",
+    "term": "Break the bank",
+    "part_of_speech": "",
+    "meaning_en": "To cost more money than you can afford.",
+    "meaning_ta": "நீங்கள் செலவு செய்யக்கூடிய அளவுக்கு அதிகமாக செலவழிப்பது.",
+    "example_en": "A weekend trip to the mountains won't break the bank.",
+    "example_ta": "மலைகளுக்கு வார இறுதி பயணம் அதிக செலவு ஆகாது."
+  },
+  {
+    "id": 63,
+    "category": "Idiom",
+    "term": "By the skin of your teeth",
+    "part_of_speech": "",
+    "meaning_en": "Barely succeeding at something.",
+    "meaning_ta": "மிகக் கடினமாக ஏதாவது ஒன்றில் வெற்றி பெறுவது.",
+    "example_en": "We caught the train by the skin of our teeth.",
+    "example_ta": "நாங்கள் ரயிலை மிகக் கடினமாகப் பிடித்துக்கொண்டோம்."
+  },
+  {
+    "id": 64,
+    "category": "Idiom",
+    "term": "Curiosity killed the cat",
+    "part_of_speech": "",
+    "meaning_en": "Being too curious can lead to trouble.",
+    "meaning_ta": "அதிக ஆர்வம் பிரச்சனையை ஏற்படுத்தலாம்.",
+    "example_en": "Don't ask too many questions, curiosity killed the cat.",
+    "example_ta": "அதிக கேள்விகள் கேட்காதே, ஆர்வம் சிக்கலை உண்டாக்கும்."
+  },
+  {
+    "id": 65,
+    "category": "Idiom",
+    "term": "Doesn't hold water",
+    "part_of_speech": "",
+    "meaning_en": "An argument or explanation that isn't valid or logical.",
+    "meaning_ta": "செல்லுபடியாகாத அல்லது தர்க்கரீதியற்ற ஒரு வாதம் அல்லது விளக்கம்.",
+    "example_en": "His excuse for being late doesn't hold water.",
+    "example_ta": "தாமதமாக வந்ததற்கான அவரது சாக்கு பொருந்தவில்லை."
+  },
+  {
+    "id": 66,
+    "category": "Idiom",
+    "term": "Down to earth",
+    "part_of_speech": "",
+    "meaning_en": "Practical, sensible and modest.",
+    "meaning_ta": "நடைமுறையான, விவேகமான, அடக்கமான.",
+    "example_en": "Despite her success, she remains very down to earth.",
+    "example_ta": "அவளுடைய வெற்றி இருந்தபோதிலும், அவள் மிகவும் எளிமையானவளாகவே இருக்கிறாள்."
+  },
+  {
+    "id": 67,
+    "category": "Idiom",
+    "term": "Elephant in the room",
+    "part_of_speech": "",
+    "meaning_en": "An obvious problem that everyone avoids discussing.",
+    "meaning_ta": "அனைவரும் பேசத் தவிர்க்கும் ஒரு வெளிப்படையான பிரச்சனை.",
+    "example_en": "We need to address the elephant in the room: the falling sales.",
+    "example_ta": "நாம் விற்பனை குறைவைப் பற்றி பேச வேண்டும், அதை யாரும் திறந்து பேசவில்லை."
+  },
+  {
+    "id": 68,
+    "category": "Idiom",
+    "term": "Face the music",
+    "part_of_speech": "",
+    "meaning_en": "To accept the consequences of your actions.",
+    "meaning_ta": "உங்கள் செயல்களின் விளைவுகளை ஏற்றுக்கொள்வது.",
+    "example_en": "He finally decided to face the music and apologize.",
+    "example_ta": "இறுதியாக அவர் உண்மையை எதிர்கொண்டு மன்னிப்பு கேட்க முடிவு செய்தார்."
+  },
+  {
+    "id": 69,
+    "category": "Idiom",
+    "term": "Feel under the weather",
+    "part_of_speech": "",
+    "meaning_en": "To feel slightly unwell.",
+    "meaning_ta": "சிறிது உடல்நலக்குறைவாக உணர்வது.",
+    "example_en": "I've been feeling under the weather since yesterday.",
+    "example_ta": "நேற்று முதல் எனக்கு உடல்நலம் சரியில்லை என்று உணர்கிறேன்."
+  },
+  {
+    "id": 70,
+    "category": "Idiom",
+    "term": "Get cold feet",
+    "part_of_speech": "",
+    "meaning_en": "To become nervous and back out of a plan.",
+    "meaning_ta": "பதற்றமடைந்து ஒரு திட்டத்திலிருந்து பின்வாங்குவது.",
+    "example_en": "He got cold feet before the wedding.",
+    "example_ta": "திருமணத்திற்கு முன் அவர் பயந்து பின்வாங்கினார்."
+  },
+  {
+    "id": 71,
+    "category": "Idiom",
+    "term": "Go back to the drawing board",
+    "part_of_speech": "",
+    "meaning_en": "To start a plan over because the first attempt failed.",
+    "meaning_ta": "முதல் முயற்சி தோல்வியடைந்ததால் மீண்டும் ஒரு திட்டத்தைத் தொடங்குவது.",
+    "example_en": "The design was rejected, so it's back to the drawing board.",
+    "example_ta": "வடிவமைப்பு நிராகரிக்கப்பட்டது, எனவே மீண்டும் தொடங்க வேண்டும்."
+  },
+  {
+    "id": 72,
+    "category": "Idiom",
+    "term": "Head over heels",
+    "part_of_speech": "",
+    "meaning_en": "Completely in love.",
+    "meaning_ta": "முழுமையாக காதலில் ஆழ்ந்திருப்பது.",
+    "example_en": "They fell head over heels for each other.",
+    "example_ta": "அவர்கள் ஒருவரையொருவர் முழுமையாக காதலித்தார்கள்."
+  },
+  {
+    "id": 73,
+    "category": "Idiom",
+    "term": "In the same boat",
+    "part_of_speech": "",
+    "meaning_en": "In the same difficult situation as someone else.",
+    "meaning_ta": "வேறொருவருடன் அதே கடினமான சூழ்நிலையில் இருப்பது.",
+    "example_en": "We're all in the same boat with these deadlines.",
+    "example_ta": "இந்த காலக்கெடுக்களுடன் நாம் அனைவரும் ஒரே நிலையில் இருக்கிறோம்."
+  },
+  {
+    "id": 74,
+    "category": "Idiom",
+    "term": "It's not rocket science",
+    "part_of_speech": "",
+    "meaning_en": "It's not difficult to understand.",
+    "meaning_ta": "புரிந்துகொள்ள கடினமானது அல்ல.",
+    "example_en": "Using this app isn't rocket science, anyone can learn it in minutes.",
+    "example_ta": "இந்த செயலியைப் பயன்படுத்துவது கடினமானதல்ல, எவரும் நிமிடங்களில் கற்றுக்கொள்ளலாம்."
+  },
+  {
+    "id": 75,
+    "category": "Idiom",
+    "term": "Jump the gun",
+    "part_of_speech": "",
+    "meaning_en": "To act before the right time.",
+    "meaning_ta": "சரியான நேரத்திற்கு முன்பே செயல்படுவது.",
+    "example_en": "Let's not jump the gun and announce this before it's confirmed.",
+    "example_ta": "உறுதிப்படுத்தப்படும் முன்பே இதை அறிவிக்க வேண்டாம்."
+  },
+  {
+    "id": 76,
+    "category": "Idiom",
+    "term": "Keep an eye on",
+    "part_of_speech": "",
+    "meaning_en": "To watch or monitor someone or something carefully.",
+    "meaning_ta": "ஒருவரையோ ஒன்றையோ கவனமாகக் கண்காணிப்பது.",
+    "example_en": "Can you keep an eye on my bag for a minute?",
+    "example_ta": "ஒரு நிமிடம் என் பையை கவனிக்க முடியுமா?"
+  },
+  {
+    "id": 77,
+    "category": "Idiom",
+    "term": "Kill the mood",
+    "part_of_speech": "",
+    "meaning_en": "To spoil a pleasant atmosphere.",
+    "meaning_ta": "இனிமையான ஒரு சூழலைக் கெடுப்பது.",
+    "example_en": "His negative comment really killed the mood at the party.",
+    "example_ta": "அவரது எதிர்மறையான கருத்து விருந்தின் மகிழ்ச்சியைக் கெடுத்தது."
+  },
+  {
+    "id": 78,
+    "category": "Idiom",
+    "term": "Learn the ropes",
+    "part_of_speech": "",
+    "meaning_en": "To learn how to do a job or task.",
+    "meaning_ta": "ஒரு வேலை அல்லது பணியைச் செய்யக் கற்றுக்கொள்வது.",
+    "example_en": "It took me a few weeks to learn the ropes at my new job.",
+    "example_ta": "என் புதிய வேலையில் அடிப்படைகளைக் கற்றுக்கொள்ள சில வாரங்கள் ஆனது."
+  },
+  {
+    "id": 79,
+    "category": "Idiom",
+    "term": "Long shot",
+    "part_of_speech": "",
+    "meaning_en": "Something unlikely to succeed, but worth attempting.",
+    "meaning_ta": "வெற்றி பெறுவது சாத்தியமில்லாத, ஆனால் முயற்சிக்கத் தகுந்த ஒன்று.",
+    "example_en": "Applying for that job is a long shot, but I'll try anyway.",
+    "example_ta": "அந்த வேலைக்கு விண்ணப்பிப்பது சாத்தியம் குறைவு, ஆனாலும் நான் முயற்சிப்பேன்."
+  },
+  {
+    "id": 80,
+    "category": "Idiom",
+    "term": "Make a long story short",
+    "part_of_speech": "",
+    "meaning_en": "To summarize something briefly.",
+    "meaning_ta": "ஒன்றை சுருக்கமாகக் கூறுவது.",
+    "example_en": "To make a long story short, we missed the flight and had to rebook.",
+    "example_ta": "சுருக்கமாகச் சொல்ல வேண்டுமெனில், நாங்கள் விமானத்தை தவறவிட்டு மீண்டும் முன்பதிவு செய்ய வேண்டியிருந்தது."
+  },
+  {
+    "id": 81,
+    "category": "Idiom",
+    "term": "Miss the point",
+    "part_of_speech": "",
+    "meaning_en": "To fail to understand the main idea.",
+    "meaning_ta": "முக்கிய கருத்தைப் புரிந்துகொள்ளத் தவறுவது.",
+    "example_en": "You're missing the point, this isn't about money.",
+    "example_ta": "நீ முக்கிய விஷயத்தைப் புரிந்துகொள்ளவில்லை, இது பணத்தைப் பற்றியது அல்ல."
+  },
+  {
+    "id": 82,
+    "category": "Idiom",
+    "term": "Move the goalposts",
+    "part_of_speech": "",
+    "meaning_en": "To unfairly change the rules or targets in the middle of a process.",
+    "meaning_ta": "ஒரு செயல்பாட்டின் நடுவில் விதிகளையோ இலக்குகளையோ அநியாயமாக மாற்றுவது.",
+    "example_en": "First they wanted a report, then a presentation, they keep moving the goalposts.",
+    "example_ta": "முதலில் ஒரு அறிக்கை வேண்டும் என்றார்கள், பிறகு விளக்கக்காட்சி, இலக்குகளை தொடர்ந்து மாற்றிக்கொண்டே இருக்கிறார்கள்."
+  },
+  {
+    "id": 83,
+    "category": "Idiom",
+    "term": "No strings attached",
+    "part_of_speech": "",
+    "meaning_en": "Without any special conditions or restrictions.",
+    "meaning_ta": "எந்த சிறப்பு நிபந்தனைகளும் இல்லாமல்.",
+    "example_en": "I'm offering this help with no strings attached.",
+    "example_ta": "இந்த உதவியை நான் எந்த நிபந்தனையும் இல்லாமல் வழங்குகிறேன்."
+  },
+  {
+    "id": 84,
+    "category": "Idiom",
+    "term": "On the same page",
+    "part_of_speech": "",
+    "meaning_en": "In agreement about a plan or idea.",
+    "meaning_ta": "ஒரு திட்டம் அல்லது யோசனை குறித்து உடன்பாடு உள்ள நிலை.",
+    "example_en": "Let's make sure everyone is on the same page before we launch.",
+    "example_ta": "நாம் தொடங்குவதற்கு முன் அனைவரும் ஒரே கருத்தில் இருப்பதை உறுதி செய்வோம்."
+  },
+  {
+    "id": 85,
+    "category": "Idiom",
+    "term": "Out of the box",
+    "part_of_speech": "",
+    "meaning_en": "Creative and unconventional thinking.",
+    "meaning_ta": "படைப்பாற்றல் மற்றும் வழக்கத்திற்கு மாறான சிந்தனை.",
+    "example_en": "The team came up with an out of the box solution.",
+    "example_ta": "குழு ஒரு புதுமையான தீர்வை உருவாக்கியது."
+  },
+  {
+    "id": 86,
+    "category": "Idiom",
+    "term": "Pass with flying colors",
+    "part_of_speech": "",
+    "meaning_en": "To succeed easily and impressively.",
+    "meaning_ta": "எளிதாகவும் அற்புதமாகவும் வெற்றி பெறுவது.",
+    "example_en": "She passed her driving test with flying colors.",
+    "example_ta": "அவள் தன் ஓட்டுநர் தேர்வில் அற்புதமாக வெற்றி பெற்றாள்."
+  },
+  {
+    "id": 87,
+    "category": "Idiom",
+    "term": "Play it by ear",
+    "part_of_speech": "",
+    "meaning_en": "To decide how to proceed as a situation develops, without a fixed plan.",
+    "meaning_ta": "நிலையான திட்டம் இல்லாமல் சூழ்நிலைக்கு ஏற்ப முடிவெடுப்பது.",
+    "example_en": "We don't have a set itinerary, we'll just play it by ear.",
+    "example_ta": "எங்களுக்கு நிலையான பயணத் திட்டம் இல்லை, சூழலுக்கு ஏற்ப செயல்படுவோம்."
+  },
+  {
+    "id": 88,
+    "category": "Idiom",
+    "term": "Pull strings",
+    "part_of_speech": "",
+    "meaning_en": "To use personal connections or influence to get an advantage.",
+    "meaning_ta": "ஒரு நன்மையைப் பெற தனிப்பட்ட தொடர்புகள் அல்லது செல்வாக்கைப் பயன்படுத்துவது.",
+    "example_en": "He pulled some strings to get his son the internship.",
+    "example_ta": "தன் மகனுக்கு பயிற்சி வாய்ப்பு பெற அவர் தன் செல்வாக்கைப் பயன்படுத்தினார்."
+  },
+  {
+    "id": 89,
+    "category": "Idiom",
+    "term": "Put your foot down",
+    "part_of_speech": "",
+    "meaning_en": "To take a firm stand on something.",
+    "meaning_ta": "ஒரு விஷயத்தில் உறுதியான நிலைப்பாட்டை எடுப்பது.",
+    "example_en": "The manager finally put her foot down about late submissions.",
+    "example_ta": "தாமதமான சமர்ப்பிப்புகள் குறித்து மேலாளர் இறுதியில் உறுதியான நிலை எடுத்தார்."
+  },
+  {
+    "id": 90,
+    "category": "Idiom",
+    "term": "Rule of thumb",
+    "part_of_speech": "",
+    "meaning_en": "A general, practical guideline, not an exact rule.",
+    "meaning_ta": "ஒரு பொதுவான, நடைமுறை வழிகாட்டுதல், துல்லியமான விதி அல்ல.",
+    "example_en": "As a rule of thumb, save at least 20% of your income.",
+    "example_ta": "பொதுவான விதிமுறையாக, உங்கள் வருமானத்தில் குறைந்தது 20% சேமியுங்கள்."
+  },
+  {
+    "id": 91,
+    "category": "Idiom",
+    "term": "Save face",
+    "part_of_speech": "",
+    "meaning_en": "To avoid embarrassment or loss of respect.",
+    "meaning_ta": "சங்கடம் அல்லது மரியாதை இழப்பைத் தவிர்ப்பது.",
+    "example_en": "He changed the subject quickly to save face.",
+    "example_ta": "மானத்தைக் காப்பாற்ற அவர் விரைவாக பேசு பொருளை மாற்றினார்."
+  },
+  {
+    "id": 92,
+    "category": "Idiom",
+    "term": "Shoot yourself in the foot",
+    "part_of_speech": "",
+    "meaning_en": "To do something that harms your own interests.",
+    "meaning_ta": "உங்கள் சொந்த நலனுக்கே தீங்கு விளைவிக்கும் ஒன்றைச் செய்வது.",
+    "example_en": "By insulting the client, he shot himself in the foot.",
+    "example_ta": "வாடிக்கையாளரை அவமதித்ததால், அவர் தனக்குத்தானே தீங்கு விளைவித்துக்கொண்டார்."
+  },
+  {
+    "id": 93,
+    "category": "Idiom",
+    "term": "Sit tight",
+    "part_of_speech": "",
+    "meaning_en": "To wait patiently without taking action.",
+    "meaning_ta": "செயல்படாமல் பொறுமையாகக் காத்திருப்பது.",
+    "example_en": "Just sit tight, we'll have an update for you soon.",
+    "example_ta": "பொறுமையாக காத்திருங்கள், விரைவில் புதுப்பிப்பு தருகிறோம்."
+  },
+  {
+    "id": 94,
+    "category": "Idiom",
+    "term": "Spill the beans",
+    "part_of_speech": "",
+    "meaning_en": "To reveal secret information.",
+    "meaning_ta": "ரகசிய தகவலை வெளியிடுவது.",
+    "example_en": "Someone spilled the beans about the merger before the announcement.",
+    "example_ta": "அறிவிப்புக்கு முன்பே இணைப்பு பற்றிய ரகசியத்தை யாரோ வெளியிட்டனர்."
+  },
+  {
+    "id": 95,
+    "category": "Idiom",
+    "term": "Take the bull by the horns",
+    "part_of_speech": "",
+    "meaning_en": "To confront a difficult situation directly and confidently.",
+    "meaning_ta": "ஒரு கடினமான சூழ்நிலையை நேரடியாகவும் நம்பிக்கையுடனும் எதிர்கொள்வது.",
+    "example_en": "She decided to take the bull by the horns and confront her boss.",
+    "example_ta": "அவள் தன் முதலாளியை நேரடியாக எதிர்கொள்ள முடிவு செய்தாள்."
+  },
+  {
+    "id": 96,
+    "category": "Idiom",
+    "term": "The last resort",
+    "part_of_speech": "",
+    "meaning_en": "The final option when everything else has failed.",
+    "meaning_ta": "அனைத்தும் தோல்வியடைந்த பிறகு கடைசி வாய்ப்பு.",
+    "example_en": "Selling the house was our last resort.",
+    "example_ta": "வீட்டை விற்பது எங்கள் கடைசி வழியாக இருந்தது."
+  },
+  {
+    "id": 97,
+    "category": "Idiom",
+    "term": "Think outside the box",
+    "part_of_speech": "",
+    "meaning_en": "To think creatively, beyond usual limits.",
+    "meaning_ta": "வழக்கமான வரம்புகளுக்கு அப்பால் படைப்பாற்றலுடன் சிந்திப்பது.",
+    "example_en": "We need to think outside the box to solve this problem.",
+    "example_ta": "இந்த பிரச்சனையைத் தீர்க்க நாம் புதுமையாக சிந்திக்க வேண்டும்."
+  },
+  {
+    "id": 98,
+    "category": "Idiom",
+    "term": "Turn a blind eye",
+    "part_of_speech": "",
+    "meaning_en": "To deliberately ignore something wrong.",
+    "meaning_ta": "தவறான ஒன்றை வேண்டுமென்றே கவனிக்காமல் இருப்பது.",
+    "example_en": "The manager turned a blind eye to the missed deadlines.",
+    "example_ta": "மேலாளர் தவறவிடப்பட்ட காலக்கெடுக்களைக் கண்டுகொள்ளாமல் இருந்தார்."
+  },
+  {
+    "id": 99,
+    "category": "Idiom",
+    "term": "Under the radar",
+    "part_of_speech": "",
+    "meaning_en": "Without attracting attention.",
+    "meaning_ta": "கவனத்தை ஈர்க்காமல் இருப்பது.",
+    "example_en": "The startup grew quietly under the radar before its big launch.",
+    "example_ta": "அந்த ஸ்டார்ட்அப் பெரிய அறிமுகத்திற்கு முன் அமைதியாக வளர்ந்தது."
+  },
+  {
+    "id": 100,
+    "category": "Idiom",
+    "term": "Water under the bridge",
+    "part_of_speech": "",
+    "meaning_en": "Something in the past that is no longer worth worrying about.",
+    "meaning_ta": "கடந்த காலத்தில் நடந்த, இப்போது கவலைப்பட வேண்டாத ஒன்று.",
+    "example_en": "We had disagreements before, but that's water under the bridge now.",
+    "example_ta": "எங்களுக்கு முன்பு கருத்து வேறுபாடுகள் இருந்தன, ஆனால் இப்போது அது கடந்த விஷயம்."
+  },
+  {
+    "id": 101,
+    "category": "Idiom",
+    "term": "Wear your heart on your sleeve",
+    "part_of_speech": "",
+    "meaning_en": "To openly show your emotions.",
+    "meaning_ta": "உங்கள் உணர்ச்சிகளை வெளிப்படையாகக் காட்டுவது.",
+    "example_en": "She always wears her heart on her sleeve.",
+    "example_ta": "அவள் எப்போதும் தன் உணர்வுகளை வெளிப்படையாகக் காட்டுவாள்."
+  },
+  {
+    "id": 102,
+    "category": "Idiom",
+    "term": "A penny for your thoughts",
+    "part_of_speech": "",
+    "meaning_en": "A way of asking what someone is thinking about.",
+    "meaning_ta": "ஒருவர் என்ன நினைக்கிறார் என்று கேட்கும் ஒரு வழி.",
+    "example_en": "You look distracted, a penny for your thoughts?",
+    "example_ta": "நீ கவனச்சிதறலாக இருக்கிறாய், என்ன நினைக்கிறாய்?"
+  },
+  {
+    "id": 103,
+    "category": "Idiom",
+    "term": "At the drop of a hat",
+    "part_of_speech": "",
+    "meaning_en": "Immediately, without hesitation.",
+    "meaning_ta": "உடனடியாக, தயங்காமல்.",
+    "example_en": "He agreed to help at the drop of a hat.",
+    "example_ta": "அவர் தயங்காமல் உடனடியாக உதவ ஒப்புக்கொண்டார்."
+  },
+  {
+    "id": 104,
+    "category": "Idiom",
+    "term": "Back to square one",
+    "part_of_speech": "",
+    "meaning_en": "To start again from the beginning.",
+    "meaning_ta": "மீண்டும் ஆரம்பத்திலிருந்து தொடங்குவது.",
+    "example_en": "The plan fell apart, so we're back to square one.",
+    "example_ta": "திட்டம் தோல்வியடைந்தது, எனவே மீண்டும் ஆரம்பத்திலிருந்து தொடங்குகிறோம்."
+  },
+  {
+    "id": 105,
+    "category": "Idiom",
+    "term": "Bend over backwards",
+    "part_of_speech": "",
+    "meaning_en": "To make a great effort to help someone.",
+    "meaning_ta": "ஒருவருக்கு உதவ மிகுந்த முயற்சி எடுப்பது.",
+    "example_en": "She bent over backwards to make the guests feel welcome.",
+    "example_ta": "விருந்தினர்களை வரவேற்க அவள் மிகுந்த முயற்சி எடுத்தாள்."
+  },
+  {
+    "id": 106,
+    "category": "Idiom",
+    "term": "Better late than never",
+    "part_of_speech": "",
+    "meaning_en": "It's better to do something late than not at all.",
+    "meaning_ta": "எதுவும் செய்யாமல் இருப்பதை விட தாமதமாகச் செய்வது சிறந்தது.",
+    "example_en": "He finally replied after two weeks, better late than never.",
+    "example_ta": "இரண்டு வாரங்களுக்குப் பிறகு இறுதியில் அவர் பதிலளித்தார், தாமதமாக இருந்தாலும் பரவாயில்லை."
+  },
+  {
+    "id": 107,
+    "category": "Idiom",
+    "term": "Bird's eye view",
+    "part_of_speech": "",
+    "meaning_en": "A view from above, or a general overview of a situation.",
+    "meaning_ta": "மேலிருந்து பார்க்கும் காட்சி, அல்லது ஒரு பொது கண்ணோட்டம்.",
+    "example_en": "The report gives a bird's eye view of the market trends.",
+    "example_ta": "இந்த அறிக்கை சந்தை போக்குகளின் பொதுவான கண்ணோட்டத்தை அளிக்கிறது."
+  },
+  {
+    "id": 108,
+    "category": "Idiom",
+    "term": "Blessing and a curse",
+    "part_of_speech": "",
+    "meaning_en": "Something that has both good and bad aspects.",
+    "meaning_ta": "நல்லதும் கெட்டதும் இரண்டு அம்சங்களும் கொண்ட ஒன்று.",
+    "example_en": "Remote work is a blessing and a curse.",
+    "example_ta": "தொலைதூர வேலை நன்மையும் தீமையும் கொண்டது."
+  },
+  {
+    "id": 109,
+    "category": "Idiom",
+    "term": "Boils down to",
+    "part_of_speech": "",
+    "meaning_en": "The essential point or fundamental issue is.",
+    "meaning_ta": "இறுதியில் அடிப்படை பிரச்சனை அல்லது முக்கிய கருத்து.",
+    "example_en": "It all boils down to trust in the end.",
+    "example_ta": "இறுதியில் எல்லாம் நம்பிக்கையில்தான் தங்கியிருக்கிறது."
+  },
+  {
+    "id": 110,
+    "category": "Idiom",
+    "term": "Break new ground",
+    "part_of_speech": "",
+    "meaning_en": "To do something innovative that hasn't been done before.",
+    "meaning_ta": "இதற்கு முன் செய்யப்படாத புதுமையான ஒன்றைச் செய்வது.",
+    "example_en": "This research breaks new ground in renewable energy.",
+    "example_ta": "இந்த ஆராய்ச்சி புதுப்பிக்கத்தக்க எரிசக்தியில் புதிய பாதையை உருவாக்குகிறது."
+  }
+]
